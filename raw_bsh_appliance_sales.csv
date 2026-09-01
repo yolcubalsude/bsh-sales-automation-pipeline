@@ -1,0 +1,1501 @@
+OrderID,OrderDate,Category,Product,Region,SalesChannel,UnitPrice,Quantity,DiscountRate,Revenue,Cost,Profit
+BSH-ORD-10001,2024-04-12,Consumer Electronics,Air Conditioner,North America,Retail Partner,750,7,0.05,4987.5,3255.0,1732.5
+BSH-ORD-10002,2024-08-02,Home Appliances,Microwave,North America,Direct Sales,160,6,0.0,960.0,595.2,364.8
+BSH-ORD-10003,2024-12-09,Small Domestic,Toaster,Europe-West,Distributor,40,1,0.0,40.0,24.8,15.2
+BSH-ORD-10004,2024-01-22,Home Appliances,Washing Machine,Europe-West,Retail Partner,650,2,0.0,1300.0,806.0,494.0
+BSH-ORD-10005,2025-11-30,Home Appliances,Vacuum Cleaner,Europe-West,Retail Partner,220,4,0.05,836.0,545.6,290.4
+BSH-ORD-10006,2025-05-19,Home Appliances,Dishwasher,North America,Retail Partner,550,2,0.15,935.0,682.0,253.0
+BSH-ORD-10007,2024-11-11,Consumer Electronics,Soundbar,Europe-West,Online Store,180,4,0.0,720.0,446.4,273.6
+BSH-ORD-10008,2025-03-30,Consumer Electronics,Espresso Machine,Europe-West,Distributor,350,4,0.0,1400.0,868.0,532.0
+BSH-ORD-10009,2025-01-22,Home Appliances,Vacuum Cleaner,Europe-West,Retail Partner,220,5,0.2,880.0,682.0,198.0
+BSH-ORD-10010,2025-12-30,Home Appliances,Refrigerator,Middle East,Retail Partner,900,7,0.0,6300.0,3906.0,2394.0
+BSH-ORD-10011,2025-12-27,Consumer Electronics,Soundbar,Europe-West,Online Store,180,2,0.05,342.0,223.2,118.8
+BSH-ORD-10012,2024-08-04,Home Appliances,Oven,Europe-West,Online Store,480,5,0.0,2400.0,1488.0,912.0
+BSH-ORD-10013,2025-06-04,Consumer Electronics,Espresso Machine,Europe-West,Online Store,350,3,0.1,945.0,651.0,294.0
+BSH-ORD-10014,2025-11-05,Consumer Electronics,Air Conditioner,Europe-West,Online Store,750,1,0.15,637.5,465.0,172.5
+BSH-ORD-10015,2024-07-19,Consumer Electronics,Soundbar,Europe-West,Online Store,180,6,0.0,1080.0,669.6,410.4
+BSH-ORD-10016,2024-04-08,Consumer Electronics,Soundbar,Middle East,Retail Partner,180,5,0.2,720.0,558.0,162.0
+BSH-ORD-10017,2025-10-04,Consumer Electronics,Soundbar,Europe-West,Online Store,180,3,0.05,513.0,334.8,178.2
+BSH-ORD-10018,2024-01-15,Home Appliances,Oven,Europe-West,Online Store,480,7,0.05,3192.0,2083.2,1108.8
+BSH-ORD-10019,2024-04-05,Consumer Electronics,Smart TV,Europe-West,Retail Partner,800,3,0.0,2400.0,1488.0,912.0
+BSH-ORD-10020,2025-06-08,Home Appliances,Dishwasher,North America,Direct Sales,550,2,0.1,990.0,682.0,308.0
+BSH-ORD-10021,2025-10-07,Home Appliances,Oven,Europe-West,Direct Sales,480,3,0.0,1440.0,892.8,547.2
+BSH-ORD-10022,2024-12-13,Home Appliances,Vacuum Cleaner,Europe-West,Online Store,220,6,0.0,1320.0,818.4,501.6
+BSH-ORD-10023,2024-09-15,Home Appliances,Dishwasher,Europe-Central,Online Store,550,3,0.0,1650.0,1023.0,627.0
+BSH-ORD-10024,2025-10-25,Small Domestic,Toaster,Europe-West,Retail Partner,40,4,0.0,160.0,99.2,60.8
+BSH-ORD-10025,2025-05-11,Home Appliances,Oven,Europe-West,Retail Partner,480,1,0.0,480.0,297.6,182.4
+BSH-ORD-10026,2024-03-21,Home Appliances,Refrigerator,Europe-Central,Online Store,900,5,0.0,4500.0,2790.0,1710.0
+BSH-ORD-10027,2025-01-19,Home Appliances,Refrigerator,Europe-Central,Retail Partner,900,6,0.0,5400.0,3348.0,2052.0
+BSH-ORD-10028,2025-03-14,Consumer Electronics,Air Conditioner,Europe-West,Direct Sales,750,5,0.05,3562.5,2325.0,1237.5
+BSH-ORD-10029,2024-07-16,Home Appliances,Washing Machine,Europe-West,Retail Partner,650,5,0.15,2762.5,2015.0,747.5
+BSH-ORD-10030,2025-02-06,Consumer Electronics,Air Conditioner,Europe-West,Retail Partner,750,4,0.15,2550.0,1860.0,690.0
+BSH-ORD-10031,2025-10-01,Consumer Electronics,Espresso Machine,Europe-West,Online Store,350,1,0.0,350.0,217.0,133.0
+BSH-ORD-10032,2025-02-18,Small Domestic,Blender,Europe-West,Online Store,65,1,0.05,61.75,40.3,21.45
+BSH-ORD-10033,2024-01-02,Small Domestic,Toaster,Middle East,Distributor,40,3,0.0,120.0,74.4,45.6
+BSH-ORD-10034,2024-08-20,Home Appliances,Dishwasher,Middle East,Retail Partner,550,1,0.05,522.5,341.0,181.5
+BSH-ORD-10035,2025-08-09,Small Domestic,Iron,Middle East,Retail Partner,55,3,0.0,165.0,102.3,62.7
+BSH-ORD-10036,2025-04-17,Consumer Electronics,Smart TV,Europe-West,Online Store,800,2,0.1,1440.0,992.0,448.0
+BSH-ORD-10037,2025-12-20,Small Domestic,Iron,North America,Online Store,55,5,0.0,275.0,170.5,104.5
+BSH-ORD-10038,2025-05-18,Consumer Electronics,Air Conditioner,North America,Online Store,750,4,0.05,2850.0,1860.0,990.0
+BSH-ORD-10039,2025-04-14,Home Appliances,Vacuum Cleaner,Europe-Central,Distributor,220,3,0.15,561.0,409.2,151.8
+BSH-ORD-10040,2024-10-09,Home Appliances,Microwave,Europe-Central,Retail Partner,160,1,0.0,160.0,99.2,60.8
+BSH-ORD-10041,2025-10-20,Consumer Electronics,Espresso Machine,North America,Online Store,350,4,0.05,1330.0,868.0,462.0
+BSH-ORD-10042,2024-02-15,Small Domestic,Blender,North America,Distributor,65,5,0.05,308.75,201.5,107.25
+BSH-ORD-10043,2024-06-29,Consumer Electronics,Espresso Machine,Middle East,Online Store,350,5,0.0,1750.0,1085.0,665.0
+BSH-ORD-10044,2024-06-09,Home Appliances,Refrigerator,Europe-Central,Distributor,900,2,0.15,1530.0,1116.0,414.0
+BSH-ORD-10045,2025-11-16,Home Appliances,Vacuum Cleaner,Europe-Central,Online Store,220,2,0.15,374.0,272.8,101.2
+BSH-ORD-10046,2024-04-13,Consumer Electronics,Air Conditioner,North America,Retail Partner,750,2,0.1,1350.0,930.0,420.0
+BSH-ORD-10047,2025-02-11,Small Domestic,Toaster,Europe-West,Retail Partner,40,4,0.05,152.0,99.2,52.8
+BSH-ORD-10048,2025-05-26,Home Appliances,Vacuum Cleaner,Middle East,Online Store,220,4,0.05,836.0,545.6,290.4
+BSH-ORD-10049,2025-12-27,Consumer Electronics,Air Conditioner,Europe-Central,Retail Partner,750,5,0.1,3375.0,2325.0,1050.0
+BSH-ORD-10050,2025-07-23,Home Appliances,Oven,Europe-West,Online Store,480,3,0.0,1440.0,892.8,547.2
+BSH-ORD-10051,2024-09-20,Consumer Electronics,Espresso Machine,Asia-Pacific,Retail Partner,350,6,0.0,2100.0,1302.0,798.0
+BSH-ORD-10052,2024-12-15,Consumer Electronics,Air Conditioner,Europe-West,Online Store,750,2,0.05,1425.0,930.0,495.0
+BSH-ORD-10053,2025-10-31,Home Appliances,Dishwasher,Europe-Central,Online Store,550,5,0.0,2750.0,1705.0,1045.0
+BSH-ORD-10054,2024-05-06,Consumer Electronics,Smart TV,Europe-West,Distributor,800,7,0.0,5600.0,3472.0,2128.0
+BSH-ORD-10055,2025-09-29,Home Appliances,Washing Machine,North America,Online Store,650,5,0.1,2925.0,2015.0,910.0
+BSH-ORD-10056,2025-03-22,Home Appliances,Microwave,Europe-Central,Online Store,160,3,0.1,432.0,297.6,134.4
+BSH-ORD-10057,2025-11-27,Home Appliances,Oven,Europe-West,Online Store,480,6,0.2,2304.0,1785.6,518.4
+BSH-ORD-10058,2025-03-28,Home Appliances,Refrigerator,North America,Direct Sales,900,4,0.0,3600.0,2232.0,1368.0
+BSH-ORD-10059,2024-12-22,Home Appliances,Refrigerator,Asia-Pacific,Direct Sales,900,4,0.0,3600.0,2232.0,1368.0
+BSH-ORD-10060,2025-10-20,Consumer Electronics,Smart TV,Europe-Central,Retail Partner,800,7,0.15,4760.0,3472.0,1288.0
+BSH-ORD-10061,2024-06-08,Small Domestic,Iron,North America,Retail Partner,55,1,0.05,52.25,34.1,18.15
+BSH-ORD-10062,2025-11-21,Small Domestic,Iron,Europe-Central,Distributor,55,2,0.0,110.0,68.2,41.8
+BSH-ORD-10063,2024-10-11,Home Appliances,Vacuum Cleaner,Europe-West,Online Store,220,3,0.0,660.0,409.2,250.8
+BSH-ORD-10064,2024-03-30,Home Appliances,Refrigerator,North America,Online Store,900,3,0.0,2700.0,1674.0,1026.0
+BSH-ORD-10065,2024-07-14,Consumer Electronics,Soundbar,North America,Direct Sales,180,4,0.05,684.0,446.4,237.6
+BSH-ORD-10066,2025-11-06,Home Appliances,Washing Machine,Europe-Central,Retail Partner,650,3,0.05,1852.5,1209.0,643.5
+BSH-ORD-10067,2024-04-05,Home Appliances,Vacuum Cleaner,Europe-Central,Online Store,220,7,0.1,1386.0,954.8,431.2
+BSH-ORD-10068,2024-08-04,Home Appliances,Vacuum Cleaner,Asia-Pacific,Retail Partner,220,1,0.0,220.0,136.4,83.6
+BSH-ORD-10069,2025-11-29,Home Appliances,Oven,Europe-West,Distributor,480,4,0.0,1920.0,1190.4,729.6
+BSH-ORD-10070,2025-12-18,Consumer Electronics,Espresso Machine,Europe-Central,Retail Partner,350,5,0.0,1750.0,1085.0,665.0
+BSH-ORD-10071,2025-01-30,Home Appliances,Dishwasher,Europe-West,Distributor,550,1,0.0,550.0,341.0,209.0
+BSH-ORD-10072,2025-11-23,Home Appliances,Vacuum Cleaner,Europe-Central,Retail Partner,220,7,0.05,1463.0,954.8,508.2
+BSH-ORD-10073,2025-10-19,Small Domestic,Kettle,North America,Retail Partner,45,5,0.1,202.5,139.5,63.0
+BSH-ORD-10074,2024-06-22,Consumer Electronics,Soundbar,Europe-Central,Direct Sales,180,2,0.0,360.0,223.2,136.8
+BSH-ORD-10075,2024-06-13,Home Appliances,Microwave,Europe-Central,Direct Sales,160,7,0.15,952.0,694.4,257.6
+BSH-ORD-10076,2024-10-27,Consumer Electronics,Soundbar,North America,Retail Partner,180,4,0.05,684.0,446.4,237.6
+BSH-ORD-10077,2024-03-31,Home Appliances,Dishwasher,Europe-West,Retail Partner,550,5,0.05,2612.5,1705.0,907.5
+BSH-ORD-10078,2025-09-29,Home Appliances,Oven,North America,Direct Sales,480,7,0.1,3024.0,2083.2,940.8
+BSH-ORD-10079,2024-12-13,Small Domestic,Blender,Europe-Central,Online Store,65,1,0.0,65.0,40.3,24.7
+BSH-ORD-10080,2024-05-13,Small Domestic,Kettle,Asia-Pacific,Online Store,45,5,,225.0,139.5,85.5
+BSH-ORD-10081,2024-07-31,Small Domestic,Kettle,Europe-West,Retail Partner,45,1,0.05,42.75,27.9,14.85
+BSH-ORD-10082,2024-08-20,Home Appliances,Washing Machine,North America,Retail Partner,650,7,0.0,4550.0,2821.0,1729.0
+BSH-ORD-10083,2024-01-12,Small Domestic,Iron,Middle East,Retail Partner,55,4,0.0,220.0,136.4,83.6
+BSH-ORD-10084,2024-05-01,Home Appliances,Refrigerator,Europe-Central,Online Store,900,4,0.0,3600.0,2232.0,1368.0
+BSH-ORD-10085,2024-02-10,Home Appliances,Dishwasher,North America,Retail Partner,550,1,0.05,522.5,341.0,181.5
+BSH-ORD-10086,2025-04-05,Consumer Electronics,Smart TV,Europe-West,Online Store,800,6,0.15,4080.0,2976.0,1104.0
+BSH-ORD-10087,2024-09-12,Consumer Electronics,Smart TV,Europe-Central,Distributor,800,2,0.05,1520.0,992.0,528.0
+BSH-ORD-10088,2024-01-05,Home Appliances,Washing Machine,North America,Retail Partner,650,7,0.0,4550.0,2821.0,1729.0
+BSH-ORD-10089,2024-10-08,Home Appliances,Vacuum Cleaner,Middle East,Retail Partner,220,1,0.05,209.0,136.4,72.6
+BSH-ORD-10090,2024-04-08,Home Appliances,Microwave,Europe-West,Direct Sales,160,1,0.05,152.0,99.2,52.8
+BSH-ORD-10091,2025-10-06,Small Domestic,Kettle,Europe-Central,Direct Sales,45,2,0.1,81.0,55.8,25.2
+BSH-ORD-10092,2024-05-24,Home Appliances,Washing Machine,Europe-West,Distributor,650,5,0.0,3250.0,2015.0,1235.0
+BSH-ORD-10093,2025-03-24,Consumer Electronics,Espresso Machine,Europe-West,Online Store,350,7,0.1,2205.0,1519.0,686.0
+BSH-ORD-10094,2025-11-04,Home Appliances,Dishwasher,Europe-Central,Direct Sales,550,6,0.2,2640.0,2046.0,594.0
+BSH-ORD-10095,2025-02-04,Home Appliances,Microwave,North America,Direct Sales,160,3,0.15,408.0,297.6,110.4
+BSH-ORD-10096,2025-12-04,Home Appliances,Vacuum Cleaner,North America,Retail Partner,220,7,0.05,1463.0,954.8,508.2
+BSH-ORD-10097,2025-03-22,Consumer Electronics,Smart TV,Europe-Central,Direct Sales,800,4,0.0,3200.0,1984.0,1216.0
+BSH-ORD-10098,2024-04-15,Small Domestic,Kettle,North America,Retail Partner,45,1,0.05,42.75,27.9,14.85
+BSH-ORD-10099,2025-05-22,Home Appliances,Microwave,Asia-Pacific,Retail Partner,160,5,0.0,800.0,496.0,304.0
+BSH-ORD-10100,2024-02-12,Home Appliances,Dishwasher,Europe-Central,Retail Partner,550,7,0.05,3657.5,2387.0,1270.5
+BSH-ORD-10101,2025-06-03,Home Appliances,Oven,Europe-West,Direct Sales,480,3,0.05,1368.0,892.8,475.2
+BSH-ORD-10102,2025-11-02,Home Appliances,Refrigerator,Europe-West,Direct Sales,900,2,0.0,1800.0,1116.0,684.0
+BSH-ORD-10103,2025-06-17,Home Appliances,Washing Machine,Europe-Central,Online Store,650,6,0.0,3900.0,2418.0,1482.0
+BSH-ORD-10104,2024-03-18,Home Appliances,Dishwasher,Europe-West,Direct Sales,550,1,0.1,495.0,341.0,154.0
+BSH-ORD-10105,2024-02-25,Small Domestic,Blender,Europe-Central,Online Store,65,4,0.1,234.0,161.2,72.8
+BSH-ORD-10106,2025-09-16,Consumer Electronics,Espresso Machine,Europe-West,Online Store,350,6,0.0,2100.0,1302.0,798.0
+BSH-ORD-10107,2024-01-28,Home Appliances,Refrigerator,North America,Online Store,900,3,0.1,2430.0,1674.0,756.0
+BSH-ORD-10108,2025-09-14,Small Domestic,Blender,Europe-Central,Online Store,65,2,0.0,130.0,80.6,49.4
+BSH-ORD-10109,2024-01-15,Home Appliances,Microwave,Europe-West,Retail Partner,160,1,0.0,160.0,99.2,60.8
+BSH-ORD-10110,2025-04-18,Consumer Electronics,Smart TV,Middle East,Retail Partner,800,4,0.0,3200.0,1984.0,1216.0
+BSH-ORD-10111,2024-08-20,Home Appliances,Oven,Europe-Central,Retail Partner,480,1,0.05,456.0,297.6,158.4
+BSH-ORD-10112,2025-07-07,Home Appliances,Vacuum Cleaner,Middle East,Retail Partner,220,3,0.0,660.0,409.2,250.8
+BSH-ORD-10113,2025-01-11,Home Appliances,Vacuum Cleaner,Europe-West,Online Store,220,4,0.15,748.0,545.6,202.4
+BSH-ORD-10114,2025-03-21,Home Appliances,Washing Machine,Europe-West,Retail Partner,650,5,0.2,2600.0,2015.0,585.0
+BSH-ORD-10115,2024-08-10,Small Domestic,Iron,Asia-Pacific,Direct Sales,55,6,0.2,264.0,204.6,59.4
+BSH-ORD-10116,2025-08-28,Home Appliances,Dishwasher,Middle East,Direct Sales,550,3,0.05,1567.5,1023.0,544.5
+BSH-ORD-10117,2025-03-10,Small Domestic,Kettle,Europe-West,Online Store,45,3,0.0,135.0,83.7,51.3
+BSH-ORD-10118,2025-06-15,Home Appliances,Washing Machine,North America,Online Store,650,5,0.05,3087.5,2015.0,1072.5
+BSH-ORD-10119,2025-05-25,Home Appliances,Dishwasher,Europe-Central,Online Store,550,2,0.05,1045.0,682.0,363.0
+BSH-ORD-10120,2025-10-11,Small Domestic,Kettle,north america,Online Store,45,7,0.1,283.5,195.3,88.2
+BSH-ORD-10121,2025-07-03,Home Appliances,Vacuum Cleaner,Europe-West,Direct Sales,220,4,0.2,704.0,545.6,158.4
+BSH-ORD-10122,2024-11-29,Small Domestic,Blender,Asia-Pacific,Online Store,65,3,0.15,165.75,120.9,44.85
+BSH-ORD-10123,2024-11-15,Consumer Electronics,Espresso Machine,North America,Direct Sales,350,5,0.0,1750.0,1085.0,665.0
+BSH-ORD-10124,2024-10-17,Home Appliances,Microwave,Europe-West,Retail Partner,160,6,0.0,960.0,595.2,364.8
+BSH-ORD-10125,2024-02-11,Home Appliances,Vacuum Cleaner,Middle East,Retail Partner,220,1,0.1,198.0,136.4,61.6
+BSH-ORD-10126,2024-05-22,Consumer Electronics,Smart TV,Middle East,Online Store,800,6,0.0,4800.0,2976.0,1824.0
+BSH-ORD-10127,2024-04-13,Consumer Electronics,Air Conditioner,Europe-Central,Online Store,750,3,0.0,2250.0,1395.0,855.0
+BSH-ORD-10128,2025-03-23,Home Appliances,Microwave,Europe-Central,Direct Sales,160,3,0.1,432.0,297.6,134.4
+BSH-ORD-10129,2025-07-03,Consumer Electronics,Smart TV,Europe-West,Direct Sales,800,6,0.0,4800.0,2976.0,1824.0
+BSH-ORD-10130,2025-06-05,Home Appliances,Refrigerator,Europe-West,Direct Sales,900,7,0.0,6300.0,3906.0,2394.0
+BSH-ORD-10131,2024-08-03,Consumer Electronics,Air Conditioner,North America,Online Store,750,7,0.05,4987.5,3255.0,1732.5
+BSH-ORD-10132,2025-11-15,Consumer Electronics,Air Conditioner,Europe-Central,Retail Partner,750,2,0.0,1500.0,930.0,570.0
+BSH-ORD-10133,2024-03-09,Small Domestic,Toaster,Asia-Pacific,Retail Partner,40,7,0.05,266.0,173.6,92.4
+BSH-ORD-10134,2024-10-28,Consumer Electronics,Soundbar,Europe-Central,Retail Partner,180,1,0.0,180.0,111.6,68.4
+BSH-ORD-10135,2025-09-07,Small Domestic,Iron,Europe-West,Distributor,55,5,0.15,233.75,170.5,63.25
+BSH-ORD-10136,2024-05-06,Home Appliances,Oven,Europe-Central,Online Store,480,3,0.1,1296.0,892.8,403.2
+BSH-ORD-10137,2024-10-22,Small Domestic,Blender,Europe-Central,Online Store,65,5,0.0,325.0,201.5,123.5
+BSH-ORD-10138,2025-02-23,Home Appliances,Washing Machine,Europe-West,Online Store,650,3,0.05,1852.5,1209.0,643.5
+BSH-ORD-10139,2025-10-22,Home Appliances,Microwave,Europe-West,Direct Sales,160,5,0.05,760.0,496.0,264.0
+BSH-ORD-10140,2025-07-28,Home Appliances,Refrigerator,Asia-Pacific,Online Store,900,2,0.05,1710.0,1116.0,594.0
+BSH-ORD-10141,2024-12-12,Home Appliances,Dishwasher,Europe-West,Distributor,550,6,0.0,3300.0,2046.0,1254.0
+BSH-ORD-10142,2024-06-28,Home Appliances,Washing Machine,Europe-Central,Retail Partner,650,6,0.0,3900.0,2418.0,1482.0
+BSH-ORD-10143,2025-04-13,Consumer Electronics,Smart TV,Asia-Pacific,Online Store,800,6,0.15,4080.0,2976.0,1104.0
+BSH-ORD-10144,2024-03-03,Small Domestic,Kettle,Europe-West,Online Store,45,6,0.1,243.0,167.4,75.6
+BSH-ORD-10145,2025-12-23,Home Appliances,Vacuum Cleaner,Europe-West,Online Store,220,6,0.1,1188.0,818.4,369.6
+BSH-ORD-10146,2024-01-19,Home Appliances,Vacuum Cleaner,North America,Retail Partner,220,6,0.05,1254.0,818.4,435.6
+BSH-ORD-10147,2024-04-23,Home Appliances,Dishwasher,Europe-West,Online Store,550,5,0.0,2750.0,1705.0,1045.0
+BSH-ORD-10148,2025-10-04,Home Appliances,Refrigerator,Middle East,Retail Partner,900,1,0.0,900.0,558.0,342.0
+BSH-ORD-10149,2025-04-20,Small Domestic,Blender,North America,Online Store,65,7,0.0,455.0,282.1,172.9
+BSH-ORD-10150,2025-03-18,Consumer Electronics,Espresso Machine,Europe-West,Direct Sales,350,-1,0.15,297.5,217.0,80.5
+BSH-ORD-10151,2025-08-26,Home Appliances,Refrigerator,Middle East,Distributor,900,6,0.1,4860.0,3348.0,1512.0
+BSH-ORD-10152,2025-03-27,Small Domestic,Toaster,Europe-West,Online Store,40,2,0.0,80.0,49.6,30.4
+BSH-ORD-10153,2025-11-03,Home Appliances,Dishwasher,Europe-West,Direct Sales,550,5,0.05,2612.5,1705.0,907.5
+BSH-ORD-10154,2025-05-28,Small Domestic,Kettle,Europe-West,Online Store,45,2,0.0,90.0,55.8,34.2
+BSH-ORD-10155,2024-04-28,Home Appliances,Microwave,Europe-West,Direct Sales,160,1,0.05,152.0,99.2,52.8
+BSH-ORD-10156,2025-05-14,Small Domestic,Iron,Europe-West,Direct Sales,55,3,0.15,140.25,102.3,37.95
+BSH-ORD-10157,2024-05-07,Home Appliances,Refrigerator,Europe-West,Online Store,900,2,0.05,1710.0,1116.0,594.0
+BSH-ORD-10158,2024-12-24,Home Appliances,Vacuum Cleaner,Middle East,Distributor,220,2,0.15,374.0,272.8,101.2
+BSH-ORD-10159,2025-09-01,Home Appliances,Dishwasher,Middle East,Retail Partner,550,2,0.05,1045.0,682.0,363.0
+BSH-ORD-10160,2024-02-03,Consumer Electronics,Smart TV,Europe-Central,Direct Sales,800,5,,4000.0,2480.0,1520.0
+BSH-ORD-10161,2024-01-27,Small Domestic,Toaster,North America,Online Store,40,5,0.1,180.0,124.0,56.0
+BSH-ORD-10162,2025-03-30,Consumer Electronics,Smart TV,Europe-Central,Online Store,800,2,0.05,1520.0,992.0,528.0
+BSH-ORD-10163,2024-05-09,Home Appliances,Dishwasher,Europe-West,Online Store,550,3,0.0,1650.0,1023.0,627.0
+BSH-ORD-10164,2024-05-28,Small Domestic,Blender,Europe-Central,Direct Sales,65,7,0.05,432.25,282.1,150.15
+BSH-ORD-10165,2024-11-05,Home Appliances,Vacuum Cleaner,Europe-West,Retail Partner,220,2,0.0,440.0,272.8,167.2
+BSH-ORD-10166,2024-05-27,Home Appliances,Oven,Europe-West,Retail Partner,480,5,0.0,2400.0,1488.0,912.0
+BSH-ORD-10167,2024-07-19,Consumer Electronics,Smart TV,Europe-West,Online Store,800,1,0.05,760.0,496.0,264.0
+BSH-ORD-10168,2025-09-07,Home Appliances,Dishwasher,Middle East,Direct Sales,550,4,0.2,1760.0,1364.0,396.0
+BSH-ORD-10169,2024-04-11,Consumer Electronics,Air Conditioner,Europe-West,Direct Sales,750,1,0.0,750.0,465.0,285.0
+BSH-ORD-10170,2024-11-25,Consumer Electronics,Smart TV,Europe-West,Retail Partner,800,3,0.1,2160.0,1488.0,672.0
+BSH-ORD-10171,2025-10-22,Consumer Electronics,Smart TV,North America,Direct Sales,800,1,0.15,680.0,496.0,184.0
+BSH-ORD-10172,2024-09-24,Home Appliances,Refrigerator,Europe-West,Retail Partner,900,2,0.05,1710.0,1116.0,594.0
+BSH-ORD-10173,2025-02-04,Home Appliances,Microwave,Europe-Central,Online Store,160,7,0.1,1008.0,694.4,313.6
+BSH-ORD-10174,2024-05-16,Home Appliances,Refrigerator,Europe-Central,Direct Sales,900,7,0.15,5355.0,3906.0,1449.0
+BSH-ORD-10175,2025-02-05,Consumer Electronics,Air Conditioner,Europe-West,Retail Partner,750,3,0.05,2137.5,1395.0,742.5
+BSH-ORD-10176,2024-04-07,Small Domestic,Blender,Europe-West,Direct Sales,65,4,0.05,247.0,161.2,85.8
+BSH-ORD-10177,2025-05-11,Consumer Electronics,Soundbar,Europe-West,Retail Partner,180,5,0.05,855.0,558.0,297.0
+BSH-ORD-10178,2025-03-25,Home Appliances,Refrigerator,Asia-Pacific,Online Store,900,5,0.05,4275.0,2790.0,1485.0
+BSH-ORD-10179,2025-02-19,Small Domestic,Blender,Asia-Pacific,Online Store,65,6,0.0,390.0,241.8,148.2
+BSH-ORD-10180,2024-11-13,Home Appliances,Washing Machine,Europe-Central,Online Store,650,1,0.1,585.0,403.0,182.0
+BSH-ORD-10181,2024-12-24,Consumer Electronics,Smart TV,Europe-West,Online Store,800,6,0.0,4800.0,2976.0,1824.0
+BSH-ORD-10182,2024-11-19,Consumer Electronics,Smart TV,Europe-West,Online Store,800,6,0.0,4800.0,2976.0,1824.0
+BSH-ORD-10183,2025-02-02,Home Appliances,Oven,Europe-West,Distributor,480,5,0.0,2400.0,1488.0,912.0
+BSH-ORD-10184,2025-01-14,Home Appliances,Vacuum Cleaner,North America,Distributor,220,2,0.0,440.0,272.8,167.2
+BSH-ORD-10185,2025-07-17,Home Appliances,Oven,Middle East,Online Store,480,3,0.05,1368.0,892.8,475.2
+BSH-ORD-10186,2024-11-25,Home Appliances,Washing Machine,Europe-West,Online Store,650,3,0.1,1755.0,1209.0,546.0
+BSH-ORD-10187,2025-05-31,Home Appliances,Washing Machine,Europe-Central,Retail Partner,650,1,0.0,650.0,403.0,247.0
+BSH-ORD-10188,2025-05-04,Consumer Electronics,Soundbar,North America,Online Store,180,3,0.0,540.0,334.8,205.2
+BSH-ORD-10189,2024-04-29,Consumer Electronics,Smart TV,Europe-Central,Retail Partner,800,2,0.05,1520.0,992.0,528.0
+BSH-ORD-10190,2024-11-18,Home Appliances,Microwave,Middle East,Distributor,160,4,0.0,640.0,396.8,243.2
+BSH-ORD-10191,2025-04-07,Consumer Electronics,Smart TV,North America,Online Store,800,4,0.0,3200.0,1984.0,1216.0
+BSH-ORD-10192,2024-11-23,Consumer Electronics,Espresso Machine,Europe-Central,Online Store,350,4,0.0,1400.0,868.0,532.0
+BSH-ORD-10193,2025-08-15,Home Appliances,Microwave,Europe-Central,Retail Partner,160,2,0.05,304.0,198.4,105.6
+BSH-ORD-10194,2024-02-09,Consumer Electronics,Air Conditioner,Middle East,Direct Sales,750,3,0.15,1912.5,1395.0,517.5
+BSH-ORD-10195,2024-04-01,Small Domestic,Blender,Europe-West,Online Store,65,5,0.1,292.5,201.5,91.0
+BSH-ORD-10196,2024-06-18,Home Appliances,Dishwasher,North America,Online Store,550,3,0.2,1320.0,1023.0,297.0
+BSH-ORD-10197,2024-01-31,Small Domestic,Toaster,Middle East,Online Store,40,7,0.0,280.0,173.6,106.4
+BSH-ORD-10198,2024-12-21,Consumer Electronics,Smart TV,Europe-Central,Online Store,800,5,0.05,3800.0,2480.0,1320.0
+BSH-ORD-10199,2024-04-22,Consumer Electronics,Espresso Machine,Europe-West,Retail Partner,350,5,0.1,1575.0,1085.0,490.0
+BSH-ORD-10200,2024-11-21,Home Appliances,Refrigerator,Europe-Central,Direct Sales,900,4,0.05,3420.0,2232.0,1188.0
+BSH-ORD-10201,2024-08-09,Consumer Electronics,Soundbar,Asia-Pacific,Retail Partner,180,2,0.15,306.0,223.2,82.8
+BSH-ORD-10202,2024-07-10,Consumer Electronics,Soundbar,North America,Retail Partner,180,6,0.05,1026.0,669.6,356.4
+BSH-ORD-10203,2024-07-28,Small Domestic,Iron,North America,Retail Partner,55,3,0.0,165.0,102.3,62.7
+BSH-ORD-10204,2025-01-15,Home Appliances,Microwave,Europe-West,Online Store,160,7,0.1,1008.0,694.4,313.6
+BSH-ORD-10205,2025-04-03,Consumer Electronics,Soundbar,Europe-West,Retail Partner,180,4,0.05,684.0,446.4,237.6
+BSH-ORD-10206,2025-01-31,Small Domestic,Blender,North America,Retail Partner,65,4,0.1,234.0,161.2,72.8
+BSH-ORD-10207,2025-11-17,Consumer Electronics,Soundbar,Europe-West,Direct Sales,180,6,0.0,1080.0,669.6,410.4
+BSH-ORD-10208,2025-08-26,Consumer Electronics,Air Conditioner,Europe-Central,Retail Partner,750,6,0.1,4050.0,2790.0,1260.0
+BSH-ORD-10209,2025-03-28,Small Domestic,Kettle,Europe-West,Direct Sales,45,2,0.0,90.0,55.8,34.2
+BSH-ORD-10210,2025-06-07,Consumer Electronics,Espresso Machine,Europe-Central,Distributor,350,6,0.0,2100.0,1302.0,798.0
+BSH-ORD-10211,2025-08-27,Consumer Electronics,Air Conditioner,Europe-Central,Retail Partner,750,7,0.05,4987.5,3255.0,1732.5
+BSH-ORD-10212,2025-11-23,Small Domestic,Toaster,North America,Direct Sales,40,1,0.0,40.0,24.8,15.2
+BSH-ORD-10213,2025-03-30,Home Appliances,Oven,Europe-West,Retail Partner,480,1,0.0,480.0,297.6,182.4
+BSH-ORD-10214,2025-12-26,Consumer Electronics,Smart TV,Europe-Central,Retail Partner,800,5,0.0,4000.0,2480.0,1520.0
+BSH-ORD-10215,2024-09-30,Consumer Electronics,Soundbar,Europe-Central,Retail Partner,180,3,0.1,486.0,334.8,151.2
+BSH-ORD-10216,2024-04-11,Small Domestic,Blender,Europe-Central,Online Store,65,1,0.0,65.0,40.3,24.7
+BSH-ORD-10217,2024-02-15,Home Appliances,Vacuum Cleaner,North America,Direct Sales,220,2,0.1,396.0,272.8,123.2
+BSH-ORD-10218,2024-08-29,Home Appliances,Refrigerator,Europe-Central,Direct Sales,900,6,0.0,5400.0,3348.0,2052.0
+BSH-ORD-10219,2024-04-25,Home Appliances,Refrigerator,Asia-Pacific,Online Store,900,2,0.1,1620.0,1116.0,504.0
+BSH-ORD-10220,2024-04-15,Home Appliances,Washing Machine,Asia-Pacific,Online Store,650,3,0.0,1950.0,1209.0,741.0
+BSH-ORD-10221,2024-03-13,Home Appliances,Washing Machine,North America,Direct Sales,650,2,0.05,1235.0,806.0,429.0
+BSH-ORD-10222,2024-03-24,Home Appliances,Dishwasher,Europe-Central,Retail Partner,550,4,0.05,2090.0,1364.0,726.0
+BSH-ORD-10223,2024-01-22,Home Appliances,Dishwasher,Europe-West,Online Store,550,6,0.0,3300.0,2046.0,1254.0
+BSH-ORD-10224,2024-01-12,Home Appliances,Microwave,Europe-Central,Retail Partner,160,3,0.2,384.0,297.6,86.4
+BSH-ORD-10225,2024-12-21,Consumer Electronics,Smart TV,North America,Retail Partner,800,3,0.0,2400.0,1488.0,912.0
+BSH-ORD-10226,2025-12-23,Home Appliances,Washing Machine,Europe-Central,Online Store,650,3,0.1,1755.0,1209.0,546.0
+BSH-ORD-10227,2024-04-02,Home Appliances,Washing Machine,Middle East,Online Store,650,5,0.1,2925.0,2015.0,910.0
+BSH-ORD-10228,2024-01-24,Home Appliances,Oven,North America,Direct Sales,480,4,0.0,1920.0,1190.4,729.6
+BSH-ORD-10229,2025-11-19,Consumer Electronics,Smart TV,Europe-Central,Direct Sales,800,4,0.15,2720.0,1984.0,736.0
+BSH-ORD-10230,2025-02-21,Consumer Electronics,Air Conditioner,Europe-West,Retail Partner,750,6,0.0,4500.0,2790.0,1710.0
+BSH-ORD-10231,2025-10-04,Consumer Electronics,Espresso Machine,Middle East,Online Store,350,2,0.1,630.0,434.0,196.0
+BSH-ORD-10232,2025-04-22,Home Appliances,Oven,Europe-Central,Retail Partner,480,5,0.15,2040.0,1488.0,552.0
+BSH-ORD-10233,2025-07-06,Home Appliances,Oven,Europe-Central,Retail Partner,480,7,0.0,3360.0,2083.2,1276.8
+BSH-ORD-10234,2024-05-09,Home Appliances,Washing Machine,Europe-Central,Distributor,650,2,0.15,1105.0,806.0,299.0
+BSH-ORD-10235,2024-09-17,Home Appliances,Oven,Europe-West,Distributor,480,7,0.0,3360.0,2083.2,1276.8
+BSH-ORD-10236,2024-01-10,Home Appliances,Vacuum Cleaner,Europe-West,Retail Partner,220,4,0.1,792.0,545.6,246.4
+BSH-ORD-10237,2024-09-13,Home Appliances,Dishwasher,Asia-Pacific,Online Store,550,6,0.0,3300.0,2046.0,1254.0
+BSH-ORD-10238,2024-04-30,Consumer Electronics,Air Conditioner,North America,Retail Partner,750,1,0.1,675.0,465.0,210.0
+BSH-ORD-10239,2024-06-04,Small Domestic,Toaster,Europe-West,Online Store,40,2,0.2,64.0,49.6,14.4
+BSH-ORD-10240,2025-05-25,Home Appliances,Refrigerator,europe-west,Online Store,900,6,,5400.0,3348.0,2052.0
+BSH-ORD-10241,2024-02-28,Home Appliances,Washing Machine,Europe-Central,Retail Partner,650,4,0.2,2080.0,1612.0,468.0
+BSH-ORD-10242,2024-08-03,Consumer Electronics,Soundbar,Asia-Pacific,Retail Partner,180,1,0.05,171.0,111.6,59.4
+BSH-ORD-10243,2024-07-02,Consumer Electronics,Soundbar,Europe-West,Retail Partner,180,7,0.0,1260.0,781.2,478.8
+BSH-ORD-10244,2024-11-03,Consumer Electronics,Soundbar,North America,Online Store,180,5,0.0,900.0,558.0,342.0
+BSH-ORD-10245,2025-10-30,Home Appliances,Microwave,Asia-Pacific,Online Store,160,1,0.1,144.0,99.2,44.8
+BSH-ORD-10246,2024-08-05,Home Appliances,Vacuum Cleaner,Europe-Central,Retail Partner,220,7,0.05,1463.0,954.8,508.2
+BSH-ORD-10247,2025-08-10,Home Appliances,Washing Machine,North America,Retail Partner,650,3,0.15,1657.5,1209.0,448.5
+BSH-ORD-10248,2025-10-15,Home Appliances,Microwave,Europe-Central,Online Store,160,2,0.2,256.0,198.4,57.6
+BSH-ORD-10249,2025-07-28,Small Domestic,Kettle,Asia-Pacific,Direct Sales,45,5,0.05,213.75,139.5,74.25
+BSH-ORD-10250,2025-05-03,Home Appliances,Refrigerator,Europe-Central,Online Store,900,6,0.05,5130.0,3348.0,1782.0
+BSH-ORD-10251,2025-04-26,Consumer Electronics,Smart TV,Europe-West,Direct Sales,800,1,0.0,800.0,496.0,304.0
+BSH-ORD-10252,2025-03-30,Home Appliances,Washing Machine,Europe-Central,Online Store,650,5,0.0,3250.0,2015.0,1235.0
+BSH-ORD-10253,2025-08-27,Home Appliances,Washing Machine,Europe-Central,Retail Partner,650,6,0.0,3900.0,2418.0,1482.0
+BSH-ORD-10254,2025-09-13,Consumer Electronics,Soundbar,Europe-Central,Online Store,180,2,0.2,288.0,223.2,64.8
+BSH-ORD-10255,2025-03-25,Home Appliances,Microwave,Middle East,Online Store,160,5,0.0,800.0,496.0,304.0
+BSH-ORD-10256,2024-10-19,Home Appliances,Oven,North America,Direct Sales,480,6,0.1,2592.0,1785.6,806.4
+BSH-ORD-10257,2024-12-29,Small Domestic,Kettle,Middle East,Retail Partner,45,7,0.0,315.0,195.3,119.7
+BSH-ORD-10258,2025-02-02,Home Appliances,Dishwasher,Europe-Central,Online Store,550,5,0.0,2750.0,1705.0,1045.0
+BSH-ORD-10259,2024-11-29,Home Appliances,Microwave,Europe-West,Online Store,160,7,0.05,1064.0,694.4,369.6
+BSH-ORD-10260,2025-10-09,Home Appliances,Oven,North America,Online Store,480,5,0.05,2280.0,1488.0,792.0
+BSH-ORD-10261,2024-12-10,Consumer Electronics,Air Conditioner,North America,Online Store,750,5,0.0,3750.0,2325.0,1425.0
+BSH-ORD-10262,2024-11-07,Consumer Electronics,Smart TV,Europe-West,Distributor,800,4,0.0,3200.0,1984.0,1216.0
+BSH-ORD-10263,2025-01-19,Home Appliances,Microwave,North America,Distributor,160,7,0.05,1064.0,694.4,369.6
+BSH-ORD-10264,2024-10-03,Small Domestic,Kettle,North America,Retail Partner,45,2,0.0,90.0,55.8,34.2
+BSH-ORD-10265,2025-11-12,Small Domestic,Iron,Europe-Central,Online Store,55,4,0.0,220.0,136.4,83.6
+BSH-ORD-10266,2025-06-14,Small Domestic,Blender,North America,Online Store,65,4,0.0,260.0,161.2,98.8
+BSH-ORD-10267,2025-03-14,Consumer Electronics,Air Conditioner,Europe-West,Direct Sales,750,1,0.0,750.0,465.0,285.0
+BSH-ORD-10268,2025-10-23,Home Appliances,Dishwasher,North America,Retail Partner,550,2,0.0,1100.0,682.0,418.0
+BSH-ORD-10269,2024-03-17,Consumer Electronics,Soundbar,Europe-West,Online Store,180,7,0.1,1134.0,781.2,352.8
+BSH-ORD-10270,2025-07-07,Home Appliances,Washing Machine,North America,Distributor,650,4,0.1,2340.0,1612.0,728.0
+BSH-ORD-10271,2025-08-02,Consumer Electronics,Soundbar,Asia-Pacific,Direct Sales,180,4,0.0,720.0,446.4,273.6
+BSH-ORD-10272,2024-12-18,Consumer Electronics,Smart TV,Europe-West,Online Store,800,1,0.05,760.0,496.0,264.0
+BSH-ORD-10273,2025-07-14,Small Domestic,Iron,Middle East,Online Store,55,5,0.0,275.0,170.5,104.5
+BSH-ORD-10274,2025-12-12,Consumer Electronics,Soundbar,Europe-West,Retail Partner,180,6,0.1,972.0,669.6,302.4
+BSH-ORD-10275,2025-12-27,Home Appliances,Vacuum Cleaner,Europe-Central,Direct Sales,220,6,0.0,1320.0,818.4,501.6
+BSH-ORD-10276,2025-10-23,Consumer Electronics,Espresso Machine,Asia-Pacific,Retail Partner,350,7,0.0,2450.0,1519.0,931.0
+BSH-ORD-10277,2024-07-26,Home Appliances,Vacuum Cleaner,Europe-Central,Direct Sales,220,1,0.0,220.0,136.4,83.6
+BSH-ORD-10278,2025-10-09,Consumer Electronics,Espresso Machine,Europe-Central,Online Store,350,3,0.0,1050.0,651.0,399.0
+BSH-ORD-10279,2025-05-31,Consumer Electronics,Espresso Machine,Europe-Central,Direct Sales,350,5,0.0,1750.0,1085.0,665.0
+BSH-ORD-10280,2025-02-09,Home Appliances,Washing Machine,North America,Retail Partner,650,4,0.1,2340.0,1612.0,728.0
+BSH-ORD-10281,2025-10-15,Home Appliances,Refrigerator,Europe-West,Online Store,900,2,0.15,1530.0,1116.0,414.0
+BSH-ORD-10282,2025-03-24,Home Appliances,Oven,Europe-West,Distributor,480,2,0.05,912.0,595.2,316.8
+BSH-ORD-10283,2025-02-22,Consumer Electronics,Air Conditioner,Asia-Pacific,Direct Sales,750,2,0.05,1425.0,930.0,495.0
+BSH-ORD-10284,2025-07-14,Home Appliances,Refrigerator,North America,Retail Partner,900,2,0.15,1530.0,1116.0,414.0
+BSH-ORD-10285,2024-05-13,Home Appliances,Oven,Middle East,Online Store,480,3,0.0,1440.0,892.8,547.2
+BSH-ORD-10286,2024-05-09,Home Appliances,Vacuum Cleaner,Asia-Pacific,Retail Partner,220,1,0.05,209.0,136.4,72.6
+BSH-ORD-10287,2024-09-09,Small Domestic,Iron,North America,Online Store,55,6,0.1,297.0,204.6,92.4
+BSH-ORD-10288,2025-03-11,Consumer Electronics,Smart TV,Middle East,Retail Partner,800,2,0.0,1600.0,992.0,608.0
+BSH-ORD-10289,2025-06-20,Home Appliances,Microwave,Europe-Central,Distributor,160,4,0.0,640.0,396.8,243.2
+BSH-ORD-10290,2025-06-15,Home Appliances,Oven,Middle East,Online Store,480,3,0.05,1368.0,892.8,475.2
+BSH-ORD-10291,2024-02-29,Home Appliances,Dishwasher,Europe-Central,Online Store,550,1,0.0,550.0,341.0,209.0
+BSH-ORD-10292,2025-11-20,Home Appliances,Washing Machine,Europe-Central,Online Store,650,5,0.0,3250.0,2015.0,1235.0
+BSH-ORD-10293,2024-07-08,Home Appliances,Oven,North America,Retail Partner,480,1,0.0,480.0,297.6,182.4
+BSH-ORD-10294,2025-01-14,Home Appliances,Oven,North America,Direct Sales,480,2,0.0,960.0,595.2,364.8
+BSH-ORD-10295,2025-09-19,Home Appliances,Microwave,Europe-Central,Retail Partner,160,6,0.1,864.0,595.2,268.8
+BSH-ORD-10296,2025-08-20,Small Domestic,Blender,Europe-Central,Retail Partner,65,6,0.1,351.0,241.8,109.2
+BSH-ORD-10297,2025-10-22,Consumer Electronics,Soundbar,Europe-West,Retail Partner,180,5,0.0,900.0,558.0,342.0
+BSH-ORD-10298,2024-08-29,Consumer Electronics,Smart TV,Middle East,Distributor,800,4,0.0,3200.0,1984.0,1216.0
+BSH-ORD-10299,2025-05-11,Consumer Electronics,Air Conditioner,Europe-Central,Online Store,750,5,0.05,3562.5,2325.0,1237.5
+BSH-ORD-10300,2025-12-08,Small Domestic,Iron,North America,Retail Partner,55,-1,0.05,52.25,34.1,18.15
+BSH-ORD-10301,2025-02-25,Home Appliances,Refrigerator,Middle East,Distributor,900,1,0.1,810.0,558.0,252.0
+BSH-ORD-10302,2025-02-28,Consumer Electronics,Espresso Machine,Europe-West,Online Store,350,2,0.0,700.0,434.0,266.0
+BSH-ORD-10303,2024-08-19,Home Appliances,Dishwasher,Europe-Central,Online Store,550,6,0.05,3135.0,2046.0,1089.0
+BSH-ORD-10304,2024-03-19,Small Domestic,Blender,Europe-Central,Online Store,65,4,0.05,247.0,161.2,85.8
+BSH-ORD-10305,2024-04-10,Home Appliances,Washing Machine,North America,Retail Partner,650,3,0.0,1950.0,1209.0,741.0
+BSH-ORD-10306,2025-10-25,Home Appliances,Oven,North America,Online Store,480,6,0.2,2304.0,1785.6,518.4
+BSH-ORD-10307,2025-03-11,Consumer Electronics,Air Conditioner,North America,Online Store,750,2,0.0,1500.0,930.0,570.0
+BSH-ORD-10308,2024-12-15,Small Domestic,Iron,Europe-West,Online Store,55,4,0.15,187.0,136.4,50.6
+BSH-ORD-10309,2025-10-09,Consumer Electronics,Smart TV,Asia-Pacific,Retail Partner,800,3,0.0,2400.0,1488.0,912.0
+BSH-ORD-10310,2025-01-16,Home Appliances,Washing Machine,North America,Retail Partner,650,6,0.15,3315.0,2418.0,897.0
+BSH-ORD-10311,2024-05-28,Home Appliances,Dishwasher,Asia-Pacific,Retail Partner,550,5,0.15,2337.5,1705.0,632.5
+BSH-ORD-10312,2024-10-14,Consumer Electronics,Soundbar,Europe-West,Online Store,180,2,0.0,360.0,223.2,136.8
+BSH-ORD-10313,2025-10-26,Home Appliances,Vacuum Cleaner,Europe-Central,Retail Partner,220,6,0.0,1320.0,818.4,501.6
+BSH-ORD-10314,2025-12-25,Consumer Electronics,Air Conditioner,Middle East,Retail Partner,750,3,0.1,2025.0,1395.0,630.0
+BSH-ORD-10315,2024-08-09,Small Domestic,Kettle,Europe-West,Retail Partner,45,5,0.1,202.5,139.5,63.0
+BSH-ORD-10316,2025-10-22,Small Domestic,Toaster,North America,Direct Sales,40,4,0.0,160.0,99.2,60.8
+BSH-ORD-10317,2024-09-12,Consumer Electronics,Air Conditioner,Europe-West,Retail Partner,750,5,0.0,3750.0,2325.0,1425.0
+BSH-ORD-10318,2025-06-24,Consumer Electronics,Espresso Machine,Middle East,Online Store,350,3,0.0,1050.0,651.0,399.0
+BSH-ORD-10319,2024-02-13,Consumer Electronics,Air Conditioner,North America,Direct Sales,750,3,0.0,2250.0,1395.0,855.0
+BSH-ORD-10320,2024-01-19,Home Appliances,Vacuum Cleaner,Middle East,Retail Partner,220,5,,1100.0,682.0,418.0
+BSH-ORD-10321,2024-12-27,Consumer Electronics,Espresso Machine,Europe-West,Direct Sales,350,1,0.0,350.0,217.0,133.0
+BSH-ORD-10322,2025-04-27,Home Appliances,Refrigerator,North America,Online Store,900,5,0.1,4050.0,2790.0,1260.0
+BSH-ORD-10323,2024-08-18,Consumer Electronics,Soundbar,Europe-Central,Direct Sales,180,4,0.05,684.0,446.4,237.6
+BSH-ORD-10324,2024-08-21,Consumer Electronics,Soundbar,Middle East,Online Store,180,1,0.2,144.0,111.6,32.4
+BSH-ORD-10325,2025-01-11,Consumer Electronics,Espresso Machine,Europe-West,Online Store,350,3,0.2,840.0,651.0,189.0
+BSH-ORD-10326,2024-05-11,Home Appliances,Oven,North America,Direct Sales,480,3,0.0,1440.0,892.8,547.2
+BSH-ORD-10327,2025-04-13,Home Appliances,Microwave,Europe-West,Online Store,160,4,0.1,576.0,396.8,179.2
+BSH-ORD-10328,2024-01-20,Home Appliances,Oven,Europe-Central,Direct Sales,480,5,0.05,2280.0,1488.0,792.0
+BSH-ORD-10329,2024-02-24,Consumer Electronics,Espresso Machine,North America,Retail Partner,350,2,0.05,665.0,434.0,231.0
+BSH-ORD-10330,2024-07-06,Small Domestic,Kettle,North America,Online Store,45,5,0.1,202.5,139.5,63.0
+BSH-ORD-10331,2024-11-09,Consumer Electronics,Air Conditioner,Middle East,Retail Partner,750,5,0.0,3750.0,2325.0,1425.0
+BSH-ORD-10332,2024-07-01,Consumer Electronics,Smart TV,Europe-West,Online Store,800,3,0.1,2160.0,1488.0,672.0
+BSH-ORD-10333,2024-10-29,Small Domestic,Iron,Europe-West,Online Store,55,6,0.05,313.5,204.6,108.9
+BSH-ORD-10334,2024-02-16,Home Appliances,Vacuum Cleaner,Asia-Pacific,Direct Sales,220,7,0.05,1463.0,954.8,508.2
+BSH-ORD-10335,2025-02-03,Home Appliances,Oven,Europe-Central,Online Store,480,5,0.1,2160.0,1488.0,672.0
+BSH-ORD-10336,2024-09-10,Consumer Electronics,Soundbar,Europe-Central,Online Store,180,5,0.0,900.0,558.0,342.0
+BSH-ORD-10337,2025-06-30,Home Appliances,Dishwasher,Europe-Central,Retail Partner,550,4,0.1,1980.0,1364.0,616.0
+BSH-ORD-10338,2024-03-14,Small Domestic,Iron,Europe-West,Online Store,55,7,0.15,327.25,238.7,88.55
+BSH-ORD-10339,2025-10-02,Consumer Electronics,Espresso Machine,North America,Online Store,350,4,0.0,1400.0,868.0,532.0
+BSH-ORD-10340,2025-07-22,Consumer Electronics,Espresso Machine,Europe-Central,Online Store,350,4,0.0,1400.0,868.0,532.0
+BSH-ORD-10341,2024-12-07,Home Appliances,Dishwasher,Europe-West,Direct Sales,550,2,0.0,1100.0,682.0,418.0
+BSH-ORD-10342,2024-06-30,Home Appliances,Washing Machine,North America,Online Store,650,5,0.15,2762.5,2015.0,747.5
+BSH-ORD-10343,2025-09-10,Home Appliances,Refrigerator,Europe-Central,Online Store,900,2,0.05,1710.0,1116.0,594.0
+BSH-ORD-10344,2025-06-02,Home Appliances,Refrigerator,North America,Retail Partner,900,7,0.15,5355.0,3906.0,1449.0
+BSH-ORD-10345,2025-03-01,Small Domestic,Iron,Europe-West,Direct Sales,55,2,0.2,88.0,68.2,19.8
+BSH-ORD-10346,2025-08-03,Consumer Electronics,Soundbar,Europe-West,Online Store,180,3,0.2,432.0,334.8,97.2
+BSH-ORD-10347,2025-01-18,Small Domestic,Kettle,Europe-West,Online Store,45,4,0.05,171.0,111.6,59.4
+BSH-ORD-10348,2024-11-22,Consumer Electronics,Smart TV,Europe-Central,Online Store,800,2,0.05,1520.0,992.0,528.0
+BSH-ORD-10349,2024-02-12,Home Appliances,Vacuum Cleaner,Europe-Central,Retail Partner,220,6,0.05,1254.0,818.4,435.6
+BSH-ORD-10350,2025-07-30,Home Appliances,Microwave,Asia-Pacific,Direct Sales,160,2,0.0,320.0,198.4,121.6
+BSH-ORD-10351,2024-05-23,Home Appliances,Microwave,North America,Online Store,160,7,0.05,1064.0,694.4,369.6
+BSH-ORD-10352,2025-07-24,Home Appliances,Dishwasher,North America,Online Store,550,7,0.15,3272.5,2387.0,885.5
+BSH-ORD-10353,2024-06-02,Home Appliances,Vacuum Cleaner,North America,Online Store,220,5,0.1,990.0,682.0,308.0
+BSH-ORD-10354,2025-09-19,Small Domestic,Blender,Asia-Pacific,Retail Partner,65,4,0.1,234.0,161.2,72.8
+BSH-ORD-10355,2025-03-22,Consumer Electronics,Espresso Machine,Europe-Central,Distributor,350,1,0.0,350.0,217.0,133.0
+BSH-ORD-10356,2024-08-14,Home Appliances,Oven,Europe-Central,Online Store,480,3,0.1,1296.0,892.8,403.2
+BSH-ORD-10357,2024-11-02,Home Appliances,Oven,Europe-Central,Online Store,480,4,0.1,1728.0,1190.4,537.6
+BSH-ORD-10358,2025-04-29,Consumer Electronics,Air Conditioner,North America,Online Store,750,6,0.05,4275.0,2790.0,1485.0
+BSH-ORD-10359,2025-07-07,Home Appliances,Vacuum Cleaner,North America,Online Store,220,3,0.0,660.0,409.2,250.8
+BSH-ORD-10360,2024-10-09,Home Appliances,Vacuum Cleaner,europe-west,Online Store,220,5,0.1,990.0,682.0,308.0
+BSH-ORD-10361,2025-11-18,Home Appliances,Oven,North America,Distributor,480,3,0.15,1224.0,892.8,331.2
+BSH-ORD-10362,2025-06-07,Consumer Electronics,Air Conditioner,Asia-Pacific,Retail Partner,750,7,0.0,5250.0,3255.0,1995.0
+BSH-ORD-10363,2025-10-31,Consumer Electronics,Espresso Machine,Asia-Pacific,Distributor,350,3,0.0,1050.0,651.0,399.0
+BSH-ORD-10364,2025-06-20,Home Appliances,Oven,North America,Direct Sales,480,6,0.0,2880.0,1785.6,1094.4
+BSH-ORD-10365,2024-08-14,Home Appliances,Microwave,Europe-West,Distributor,160,6,0.1,864.0,595.2,268.8
+BSH-ORD-10366,2025-01-11,Home Appliances,Oven,Europe-Central,Online Store,480,2,0.1,864.0,595.2,268.8
+BSH-ORD-10367,2025-08-10,Home Appliances,Refrigerator,Europe-West,Online Store,900,2,0.0,1800.0,1116.0,684.0
+BSH-ORD-10368,2025-11-05,Home Appliances,Washing Machine,North America,Online Store,650,3,0.1,1755.0,1209.0,546.0
+BSH-ORD-10369,2024-06-24,Consumer Electronics,Smart TV,Middle East,Retail Partner,800,7,0.0,5600.0,3472.0,2128.0
+BSH-ORD-10370,2024-10-15,Home Appliances,Refrigerator,Europe-West,Retail Partner,900,4,0.1,3240.0,2232.0,1008.0
+BSH-ORD-10371,2025-03-29,Small Domestic,Iron,Asia-Pacific,Online Store,55,7,0.0,385.0,238.7,146.3
+BSH-ORD-10372,2025-03-17,Consumer Electronics,Soundbar,Europe-Central,Online Store,180,1,0.0,180.0,111.6,68.4
+BSH-ORD-10373,2024-10-28,Consumer Electronics,Espresso Machine,Middle East,Direct Sales,350,3,0.0,1050.0,651.0,399.0
+BSH-ORD-10374,2024-07-25,Home Appliances,Washing Machine,Middle East,Online Store,650,3,0.0,1950.0,1209.0,741.0
+BSH-ORD-10375,2025-07-11,Home Appliances,Oven,Europe-Central,Online Store,480,3,0.2,1152.0,892.8,259.2
+BSH-ORD-10376,2025-05-21,Home Appliances,Washing Machine,Europe-Central,Online Store,650,6,0.0,3900.0,2418.0,1482.0
+BSH-ORD-10377,2024-03-23,Small Domestic,Blender,North America,Direct Sales,65,4,0.2,208.0,161.2,46.8
+BSH-ORD-10378,2025-12-18,Consumer Electronics,Air Conditioner,North America,Retail Partner,750,3,0.15,1912.5,1395.0,517.5
+BSH-ORD-10379,2025-02-01,Home Appliances,Microwave,Europe-Central,Online Store,160,6,0.0,960.0,595.2,364.8
+BSH-ORD-10380,2025-11-03,Home Appliances,Washing Machine,Middle East,Online Store,650,1,0.0,650.0,403.0,247.0
+BSH-ORD-10381,2024-08-09,Consumer Electronics,Air Conditioner,Asia-Pacific,Direct Sales,750,1,0.0,750.0,465.0,285.0
+BSH-ORD-10382,2025-08-20,Small Domestic,Blender,North America,Retail Partner,65,6,0.1,351.0,241.8,109.2
+BSH-ORD-10383,2025-10-31,Home Appliances,Dishwasher,Asia-Pacific,Direct Sales,550,7,0.1,3465.0,2387.0,1078.0
+BSH-ORD-10384,2024-10-30,Small Domestic,Blender,Europe-Central,Direct Sales,65,1,0.15,55.25,40.3,14.95
+BSH-ORD-10385,2024-11-19,Small Domestic,Toaster,Middle East,Retail Partner,40,5,0.1,180.0,124.0,56.0
+BSH-ORD-10386,2025-02-27,Home Appliances,Oven,Europe-Central,Online Store,480,3,0.15,1224.0,892.8,331.2
+BSH-ORD-10387,2025-08-27,Home Appliances,Microwave,North America,Retail Partner,160,5,0.05,760.0,496.0,264.0
+BSH-ORD-10388,2025-03-30,Home Appliances,Oven,Europe-Central,Retail Partner,480,6,0.0,2880.0,1785.6,1094.4
+BSH-ORD-10389,2024-06-10,Home Appliances,Washing Machine,Europe-Central,Retail Partner,650,6,0.15,3315.0,2418.0,897.0
+BSH-ORD-10390,2025-12-22,Home Appliances,Oven,North America,Distributor,480,3,0.0,1440.0,892.8,547.2
+BSH-ORD-10391,2025-03-24,Home Appliances,Microwave,Europe-Central,Online Store,160,3,0.05,456.0,297.6,158.4
+BSH-ORD-10392,2025-11-19,Consumer Electronics,Soundbar,Middle East,Online Store,180,3,0.1,486.0,334.8,151.2
+BSH-ORD-10393,2025-08-24,Home Appliances,Microwave,Europe-Central,Retail Partner,160,3,0.0,480.0,297.6,182.4
+BSH-ORD-10394,2024-08-20,Home Appliances,Microwave,Europe-West,Direct Sales,160,5,0.0,800.0,496.0,304.0
+BSH-ORD-10395,2024-07-01,Small Domestic,Kettle,North America,Online Store,45,3,0.0,135.0,83.7,51.3
+BSH-ORD-10396,2025-07-11,Home Appliances,Oven,North America,Direct Sales,480,5,0.1,2160.0,1488.0,672.0
+BSH-ORD-10397,2024-09-24,Consumer Electronics,Smart TV,Middle East,Distributor,800,2,0.1,1440.0,992.0,448.0
+BSH-ORD-10398,2024-06-01,Consumer Electronics,Air Conditioner,North America,Direct Sales,750,1,0.05,712.5,465.0,247.5
+BSH-ORD-10399,2025-10-19,Home Appliances,Vacuum Cleaner,Middle East,Retail Partner,220,5,0.0,1100.0,682.0,418.0
+BSH-ORD-10400,2025-02-15,Consumer Electronics,Smart TV,Europe-West,Online Store,800,7,,5600.0,3472.0,2128.0
+BSH-ORD-10401,2024-04-14,Consumer Electronics,Air Conditioner,Europe-Central,Online Store,750,2,0.0,1500.0,930.0,570.0
+BSH-ORD-10402,2025-12-13,Consumer Electronics,Espresso Machine,Europe-West,Retail Partner,350,5,0.15,1487.5,1085.0,402.5
+BSH-ORD-10403,2025-11-08,Small Domestic,Toaster,Europe-West,Online Store,40,6,0.05,228.0,148.8,79.2
+BSH-ORD-10404,2024-08-22,Home Appliances,Microwave,Europe-Central,Distributor,160,6,0.05,912.0,595.2,316.8
+BSH-ORD-10405,2024-08-10,Home Appliances,Washing Machine,Europe-West,Online Store,650,3,0.05,1852.5,1209.0,643.5
+BSH-ORD-10406,2025-09-02,Home Appliances,Washing Machine,Europe-West,Direct Sales,650,4,0.0,2600.0,1612.0,988.0
+BSH-ORD-10407,2025-03-26,Home Appliances,Oven,Asia-Pacific,Retail Partner,480,3,0.05,1368.0,892.8,475.2
+BSH-ORD-10408,2024-04-27,Consumer Electronics,Smart TV,Europe-Central,Retail Partner,800,4,0.05,3040.0,1984.0,1056.0
+BSH-ORD-10409,2024-07-14,Home Appliances,Washing Machine,Europe-West,Online Store,650,5,0.05,3087.5,2015.0,1072.5
+BSH-ORD-10410,2025-02-22,Home Appliances,Dishwasher,Europe-Central,Online Store,550,6,0.1,2970.0,2046.0,924.0
+BSH-ORD-10411,2025-01-26,Home Appliances,Oven,Europe-Central,Retail Partner,480,7,0.1,3024.0,2083.2,940.8
+BSH-ORD-10412,2025-03-09,Home Appliances,Dishwasher,Europe-Central,Online Store,550,2,0.0,1100.0,682.0,418.0
+BSH-ORD-10413,2024-12-28,Home Appliances,Refrigerator,Europe-Central,Online Store,900,5,0.05,4275.0,2790.0,1485.0
+BSH-ORD-10414,2025-06-25,Home Appliances,Refrigerator,Europe-West,Distributor,900,5,0.05,4275.0,2790.0,1485.0
+BSH-ORD-10415,2025-10-07,Consumer Electronics,Espresso Machine,Europe-Central,Online Store,350,3,0.2,840.0,651.0,189.0
+BSH-ORD-10416,2025-05-14,Home Appliances,Vacuum Cleaner,Europe-Central,Online Store,220,1,0.05,209.0,136.4,72.6
+BSH-ORD-10417,2024-12-30,Consumer Electronics,Air Conditioner,Middle East,Online Store,750,2,0.0,1500.0,930.0,570.0
+BSH-ORD-10418,2025-07-16,Home Appliances,Microwave,Europe-West,Online Store,160,4,0.1,576.0,396.8,179.2
+BSH-ORD-10419,2025-05-13,Home Appliances,Microwave,Europe-Central,Retail Partner,160,3,0.0,480.0,297.6,182.4
+BSH-ORD-10420,2025-05-23,Small Domestic,Iron,Europe-West,Online Store,55,2,0.05,104.5,68.2,36.3
+BSH-ORD-10421,2025-06-03,Home Appliances,Washing Machine,North America,Distributor,650,7,0.2,3640.0,2821.0,819.0
+BSH-ORD-10422,2024-04-26,Consumer Electronics,Soundbar,Europe-Central,Direct Sales,180,5,0.1,810.0,558.0,252.0
+BSH-ORD-10423,2025-05-01,Home Appliances,Washing Machine,North America,Retail Partner,650,2,0.15,1105.0,806.0,299.0
+BSH-ORD-10424,2025-06-12,Small Domestic,Toaster,Asia-Pacific,Retail Partner,40,6,0.05,228.0,148.8,79.2
+BSH-ORD-10425,2024-08-15,Home Appliances,Washing Machine,Europe-Central,Retail Partner,650,3,0.05,1852.5,1209.0,643.5
+BSH-ORD-10426,2025-05-13,Consumer Electronics,Air Conditioner,Middle East,Retail Partner,750,4,0.1,2700.0,1860.0,840.0
+BSH-ORD-10427,2024-12-30,Home Appliances,Washing Machine,Europe-West,Online Store,650,1,0.1,585.0,403.0,182.0
+BSH-ORD-10428,2024-05-26,Home Appliances,Dishwasher,Europe-Central,Retail Partner,550,6,0.0,3300.0,2046.0,1254.0
+BSH-ORD-10429,2025-12-20,Consumer Electronics,Soundbar,North America,Direct Sales,180,6,0.05,1026.0,669.6,356.4
+BSH-ORD-10430,2024-11-15,Home Appliances,Oven,Middle East,Online Store,480,6,0.2,2304.0,1785.6,518.4
+BSH-ORD-10431,2024-10-29,Small Domestic,Toaster,North America,Direct Sales,40,7,0.0,280.0,173.6,106.4
+BSH-ORD-10432,2025-08-01,Consumer Electronics,Smart TV,North America,Online Store,800,5,0.1,3600.0,2480.0,1120.0
+BSH-ORD-10433,2024-07-06,Consumer Electronics,Air Conditioner,Middle East,Direct Sales,750,7,0.0,5250.0,3255.0,1995.0
+BSH-ORD-10434,2024-09-21,Consumer Electronics,Soundbar,Europe-Central,Retail Partner,180,6,0.0,1080.0,669.6,410.4
+BSH-ORD-10435,2025-08-06,Home Appliances,Oven,Europe-Central,Retail Partner,480,5,0.2,1920.0,1488.0,432.0
+BSH-ORD-10436,2024-05-02,Small Domestic,Toaster,Europe-West,Retail Partner,40,2,0.0,80.0,49.6,30.4
+BSH-ORD-10437,2024-12-23,Home Appliances,Refrigerator,North America,Retail Partner,900,7,0.0,6300.0,3906.0,2394.0
+BSH-ORD-10438,2024-10-21,Home Appliances,Vacuum Cleaner,Europe-West,Online Store,220,6,0.0,1320.0,818.4,501.6
+BSH-ORD-10439,2025-07-18,Small Domestic,Kettle,North America,Distributor,45,5,0.0,225.0,139.5,85.5
+BSH-ORD-10440,2024-11-08,Consumer Electronics,Air Conditioner,Middle East,Retail Partner,750,6,0.05,4275.0,2790.0,1485.0
+BSH-ORD-10441,2025-04-28,Consumer Electronics,Espresso Machine,North America,Retail Partner,350,2,0.1,630.0,434.0,196.0
+BSH-ORD-10442,2024-02-22,Small Domestic,Toaster,Europe-Central,Online Store,40,3,0.1,108.0,74.4,33.6
+BSH-ORD-10443,2025-04-10,Home Appliances,Vacuum Cleaner,Middle East,Direct Sales,220,7,0.0,1540.0,954.8,585.2
+BSH-ORD-10444,2025-12-16,Home Appliances,Washing Machine,Europe-West,Retail Partner,650,2,0.1,1170.0,806.0,364.0
+BSH-ORD-10445,2025-12-26,Consumer Electronics,Air Conditioner,Europe-Central,Retail Partner,750,6,0.0,4500.0,2790.0,1710.0
+BSH-ORD-10446,2024-06-05,Small Domestic,Kettle,Europe-Central,Online Store,45,3,0.15,114.75,83.7,31.05
+BSH-ORD-10447,2025-03-27,Consumer Electronics,Air Conditioner,Asia-Pacific,Retail Partner,750,6,0.0,4500.0,2790.0,1710.0
+BSH-ORD-10448,2025-11-21,Home Appliances,Refrigerator,Europe-West,Retail Partner,900,4,0.05,3420.0,2232.0,1188.0
+BSH-ORD-10449,2025-09-23,Consumer Electronics,Air Conditioner,Europe-West,Direct Sales,750,5,0.0,3750.0,2325.0,1425.0
+BSH-ORD-10450,2025-06-19,Consumer Electronics,Smart TV,North America,Distributor,800,-1,0.0,800.0,496.0,304.0
+BSH-ORD-10451,2025-12-23,Consumer Electronics,Soundbar,Europe-West,Retail Partner,180,7,0.05,1197.0,781.2,415.8
+BSH-ORD-10452,2025-07-06,Home Appliances,Refrigerator,North America,Direct Sales,900,1,0.0,900.0,558.0,342.0
+BSH-ORD-10453,2024-01-13,Home Appliances,Microwave,Europe-Central,Direct Sales,160,1,0.1,144.0,99.2,44.8
+BSH-ORD-10454,2025-04-03,Consumer Electronics,Soundbar,Europe-West,Retail Partner,180,5,0.0,900.0,558.0,342.0
+BSH-ORD-10455,2025-12-28,Small Domestic,Iron,North America,Online Store,55,4,0.0,220.0,136.4,83.6
+BSH-ORD-10456,2025-06-23,Consumer Electronics,Soundbar,Europe-Central,Online Store,180,3,0.0,540.0,334.8,205.2
+BSH-ORD-10457,2024-11-08,Small Domestic,Toaster,Europe-Central,Online Store,40,5,0.1,180.0,124.0,56.0
+BSH-ORD-10458,2025-06-08,Home Appliances,Refrigerator,Europe-West,Online Store,900,2,0.0,1800.0,1116.0,684.0
+BSH-ORD-10459,2025-01-21,Home Appliances,Washing Machine,Asia-Pacific,Online Store,650,5,0.05,3087.5,2015.0,1072.5
+BSH-ORD-10460,2025-01-12,Consumer Electronics,Soundbar,North America,Retail Partner,180,7,0.0,1260.0,781.2,478.8
+BSH-ORD-10461,2025-08-26,Small Domestic,Blender,Europe-Central,Online Store,65,7,0.1,409.5,282.1,127.4
+BSH-ORD-10462,2025-11-04,Home Appliances,Microwave,Europe-West,Direct Sales,160,7,0.0,1120.0,694.4,425.6
+BSH-ORD-10463,2025-09-29,Consumer Electronics,Espresso Machine,Europe-West,Retail Partner,350,7,0.15,2082.5,1519.0,563.5
+BSH-ORD-10464,2024-11-02,Home Appliances,Dishwasher,Middle East,Retail Partner,550,5,0.0,2750.0,1705.0,1045.0
+BSH-ORD-10465,2025-10-05,Small Domestic,Kettle,Europe-West,Online Store,45,4,0.05,171.0,111.6,59.4
+BSH-ORD-10466,2024-05-03,Home Appliances,Refrigerator,Europe-Central,Distributor,900,7,0.1,5670.0,3906.0,1764.0
+BSH-ORD-10467,2025-08-30,Consumer Electronics,Air Conditioner,Asia-Pacific,Online Store,750,1,0.0,750.0,465.0,285.0
+BSH-ORD-10468,2024-03-30,Home Appliances,Refrigerator,Middle East,Direct Sales,900,3,0.05,2565.0,1674.0,891.0
+BSH-ORD-10469,2024-09-23,Small Domestic,Iron,North America,Online Store,55,4,0.05,209.0,136.4,72.6
+BSH-ORD-10470,2024-02-18,Small Domestic,Toaster,Europe-West,Retail Partner,40,7,0.0,280.0,173.6,106.4
+BSH-ORD-10471,2025-11-16,Home Appliances,Washing Machine,Asia-Pacific,Retail Partner,650,1,0.05,617.5,403.0,214.5
+BSH-ORD-10472,2025-07-19,Home Appliances,Vacuum Cleaner,Europe-Central,Online Store,220,5,0.15,935.0,682.0,253.0
+BSH-ORD-10473,2025-07-11,Home Appliances,Vacuum Cleaner,Asia-Pacific,Direct Sales,220,6,0.05,1254.0,818.4,435.6
+BSH-ORD-10474,2024-08-10,Home Appliances,Vacuum Cleaner,Middle East,Retail Partner,220,5,0.0,1100.0,682.0,418.0
+BSH-ORD-10475,2024-06-09,Home Appliances,Dishwasher,North America,Direct Sales,550,4,0.1,1980.0,1364.0,616.0
+BSH-ORD-10476,2025-11-11,Home Appliances,Dishwasher,Europe-Central,Retail Partner,550,3,0.2,1320.0,1023.0,297.0
+BSH-ORD-10477,2024-11-27,Home Appliances,Washing Machine,Asia-Pacific,Online Store,650,6,0.05,3705.0,2418.0,1287.0
+BSH-ORD-10478,2024-06-02,Home Appliances,Oven,North America,Distributor,480,2,0.1,864.0,595.2,268.8
+BSH-ORD-10479,2024-09-01,Small Domestic,Toaster,North America,Online Store,40,6,0.1,216.0,148.8,67.2
+BSH-ORD-10480,2025-05-09,Home Appliances,Dishwasher,north america,Online Store,550,2,,1100.0,682.0,418.0
+BSH-ORD-10481,2024-03-26,Consumer Electronics,Smart TV,Europe-West,Online Store,800,4,0.0,3200.0,1984.0,1216.0
+BSH-ORD-10482,2024-06-19,Home Appliances,Refrigerator,Europe-West,Direct Sales,900,3,0.0,2700.0,1674.0,1026.0
+BSH-ORD-10483,2024-06-03,Home Appliances,Dishwasher,Middle East,Online Store,550,4,0.0,2200.0,1364.0,836.0
+BSH-ORD-10484,2024-09-03,Small Domestic,Blender,Europe-Central,Retail Partner,65,7,0.0,455.0,282.1,172.9
+BSH-ORD-10485,2025-02-07,Consumer Electronics,Air Conditioner,Europe-West,Retail Partner,750,2,0.0,1500.0,930.0,570.0
+BSH-ORD-10486,2024-09-30,Small Domestic,Kettle,Europe-Central,Online Store,45,4,0.1,162.0,111.6,50.4
+BSH-ORD-10487,2024-02-27,Small Domestic,Iron,Europe-West,Retail Partner,55,3,0.1,148.5,102.3,46.2
+BSH-ORD-10488,2024-07-11,Home Appliances,Refrigerator,North America,Online Store,900,4,0.05,3420.0,2232.0,1188.0
+BSH-ORD-10489,2025-10-12,Consumer Electronics,Smart TV,Europe-Central,Direct Sales,800,3,0.0,2400.0,1488.0,912.0
+BSH-ORD-10490,2024-07-17,Small Domestic,Blender,Middle East,Retail Partner,65,6,0.1,351.0,241.8,109.2
+BSH-ORD-10491,2024-03-24,Home Appliances,Oven,Europe-West,Online Store,480,3,0.05,1368.0,892.8,475.2
+BSH-ORD-10492,2025-07-11,Home Appliances,Washing Machine,Europe-Central,Online Store,650,3,0.05,1852.5,1209.0,643.5
+BSH-ORD-10493,2025-12-07,Home Appliances,Dishwasher,Middle East,Online Store,550,2,0.1,990.0,682.0,308.0
+BSH-ORD-10494,2025-06-19,Consumer Electronics,Air Conditioner,Europe-Central,Retail Partner,750,5,0.0,3750.0,2325.0,1425.0
+BSH-ORD-10495,2024-10-05,Small Domestic,Blender,Europe-West,Direct Sales,65,1,0.05,61.75,40.3,21.45
+BSH-ORD-10496,2025-11-30,Consumer Electronics,Smart TV,North America,Online Store,800,7,0.0,5600.0,3472.0,2128.0
+BSH-ORD-10497,2024-11-12,Home Appliances,Dishwasher,Europe-West,Online Store,550,4,0.0,2200.0,1364.0,836.0
+BSH-ORD-10498,2025-05-25,Consumer Electronics,Smart TV,Middle East,Retail Partner,800,2,0.15,1360.0,992.0,368.0
+BSH-ORD-10499,2025-06-20,Home Appliances,Dishwasher,Europe-West,Online Store,550,3,0.2,1320.0,1023.0,297.0
+BSH-ORD-10500,2025-07-04,Home Appliances,Vacuum Cleaner,Europe-Central,Retail Partner,220,1,0.0,220.0,136.4,83.6
+BSH-ORD-10501,2024-07-20,Home Appliances,Refrigerator,North America,Retail Partner,900,3,0.05,2565.0,1674.0,891.0
+BSH-ORD-10502,2025-12-26,Home Appliances,Oven,Asia-Pacific,Retail Partner,480,3,0.1,1296.0,892.8,403.2
+BSH-ORD-10503,2024-04-11,Consumer Electronics,Air Conditioner,Europe-Central,Online Store,750,1,0.05,712.5,465.0,247.5
+BSH-ORD-10504,2024-07-12,Consumer Electronics,Espresso Machine,Europe-West,Direct Sales,350,7,0.1,2205.0,1519.0,686.0
+BSH-ORD-10505,2024-06-15,Small Domestic,Kettle,Europe-West,Direct Sales,45,5,0.0,225.0,139.5,85.5
+BSH-ORD-10506,2025-08-04,Home Appliances,Oven,Europe-West,Online Store,480,1,0.1,432.0,297.6,134.4
+BSH-ORD-10507,2024-06-23,Home Appliances,Washing Machine,Europe-West,Retail Partner,650,4,0.1,2340.0,1612.0,728.0
+BSH-ORD-10508,2024-05-07,Small Domestic,Kettle,Europe-West,Direct Sales,45,6,0.1,243.0,167.4,75.6
+BSH-ORD-10509,2024-09-26,Small Domestic,Blender,Europe-West,Direct Sales,65,3,0.1,175.5,120.9,54.6
+BSH-ORD-10510,2024-06-16,Home Appliances,Washing Machine,Europe-West,Retail Partner,650,5,0.2,2600.0,2015.0,585.0
+BSH-ORD-10511,2025-04-27,Small Domestic,Iron,Europe-West,Direct Sales,55,4,0.1,198.0,136.4,61.6
+BSH-ORD-10512,2025-03-03,Home Appliances,Vacuum Cleaner,North America,Direct Sales,220,7,0.0,1540.0,954.8,585.2
+BSH-ORD-10513,2025-01-09,Consumer Electronics,Espresso Machine,Asia-Pacific,Retail Partner,350,4,0.1,1260.0,868.0,392.0
+BSH-ORD-10514,2024-05-03,Home Appliances,Oven,Europe-West,Online Store,480,3,0.05,1368.0,892.8,475.2
+BSH-ORD-10515,2024-04-06,Home Appliances,Oven,Europe-Central,Online Store,480,3,0.0,1440.0,892.8,547.2
+BSH-ORD-10516,2024-02-19,Home Appliances,Dishwasher,North America,Online Store,550,6,0.0,3300.0,2046.0,1254.0
+BSH-ORD-10517,2025-03-27,Small Domestic,Iron,North America,Retail Partner,55,6,0.1,297.0,204.6,92.4
+BSH-ORD-10518,2024-05-07,Consumer Electronics,Espresso Machine,Asia-Pacific,Online Store,350,7,0.05,2327.5,1519.0,808.5
+BSH-ORD-10519,2025-07-22,Home Appliances,Vacuum Cleaner,Europe-Central,Online Store,220,6,0.05,1254.0,818.4,435.6
+BSH-ORD-10520,2025-02-15,Home Appliances,Microwave,Europe-West,Retail Partner,160,1,0.0,160.0,99.2,60.8
+BSH-ORD-10521,2024-07-22,Home Appliances,Dishwasher,Europe-West,Retail Partner,550,2,0.0,1100.0,682.0,418.0
+BSH-ORD-10522,2025-08-08,Consumer Electronics,Soundbar,North America,Online Store,180,5,0.15,765.0,558.0,207.0
+BSH-ORD-10523,2024-01-20,Home Appliances,Vacuum Cleaner,North America,Retail Partner,220,3,0.05,627.0,409.2,217.8
+BSH-ORD-10524,2025-02-17,Consumer Electronics,Soundbar,Asia-Pacific,Online Store,180,2,0.05,342.0,223.2,118.8
+BSH-ORD-10525,2024-12-17,Consumer Electronics,Smart TV,Europe-Central,Online Store,800,2,0.15,1360.0,992.0,368.0
+BSH-ORD-10526,2024-03-05,Home Appliances,Washing Machine,Europe-West,Distributor,650,6,0.15,3315.0,2418.0,897.0
+BSH-ORD-10527,2024-09-04,Consumer Electronics,Soundbar,Europe-Central,Online Store,180,1,0.0,180.0,111.6,68.4
+BSH-ORD-10528,2024-03-08,Small Domestic,Kettle,Europe-Central,Distributor,45,4,0.1,162.0,111.6,50.4
+BSH-ORD-10529,2024-02-15,Home Appliances,Vacuum Cleaner,Asia-Pacific,Online Store,220,2,0.1,396.0,272.8,123.2
+BSH-ORD-10530,2025-11-20,Home Appliances,Dishwasher,Europe-West,Direct Sales,550,7,0.0,3850.0,2387.0,1463.0
+BSH-ORD-10531,2025-08-27,Consumer Electronics,Air Conditioner,Europe-West,Retail Partner,750,1,0.05,712.5,465.0,247.5
+BSH-ORD-10532,2024-02-10,Home Appliances,Oven,Europe-West,Retail Partner,480,5,0.15,2040.0,1488.0,552.0
+BSH-ORD-10533,2025-04-24,Small Domestic,Iron,Europe-West,Online Store,55,5,0.0,275.0,170.5,104.5
+BSH-ORD-10534,2024-10-22,Home Appliances,Refrigerator,North America,Retail Partner,900,3,0.05,2565.0,1674.0,891.0
+BSH-ORD-10535,2025-08-28,Small Domestic,Toaster,Middle East,Online Store,40,4,0.15,136.0,99.2,36.8
+BSH-ORD-10536,2025-08-11,Consumer Electronics,Air Conditioner,North America,Direct Sales,750,3,0.05,2137.5,1395.0,742.5
+BSH-ORD-10537,2025-11-21,Consumer Electronics,Smart TV,Asia-Pacific,Retail Partner,800,1,0.0,800.0,496.0,304.0
+BSH-ORD-10538,2025-11-24,Small Domestic,Toaster,North America,Retail Partner,40,5,0.15,170.0,124.0,46.0
+BSH-ORD-10539,2024-05-02,Consumer Electronics,Soundbar,Europe-Central,Retail Partner,180,3,0.15,459.0,334.8,124.2
+BSH-ORD-10540,2024-04-01,Home Appliances,Vacuum Cleaner,North America,Retail Partner,220,5,0.0,1100.0,682.0,418.0
+BSH-ORD-10541,2024-09-12,Home Appliances,Dishwasher,Europe-Central,Distributor,550,7,0.0,3850.0,2387.0,1463.0
+BSH-ORD-10542,2024-01-03,Home Appliances,Refrigerator,Europe-Central,Distributor,900,5,0.0,4500.0,2790.0,1710.0
+BSH-ORD-10543,2025-10-06,Consumer Electronics,Espresso Machine,North America,Direct Sales,350,5,0.1,1575.0,1085.0,490.0
+BSH-ORD-10544,2025-08-17,Home Appliances,Microwave,Europe-West,Distributor,160,3,0.05,456.0,297.6,158.4
+BSH-ORD-10545,2025-06-18,Home Appliances,Microwave,Europe-Central,Direct Sales,160,1,0.1,144.0,99.2,44.8
+BSH-ORD-10546,2025-06-27,Small Domestic,Kettle,Europe-West,Online Store,45,2,0.0,90.0,55.8,34.2
+BSH-ORD-10547,2024-04-06,Home Appliances,Microwave,Europe-Central,Retail Partner,160,3,0.0,480.0,297.6,182.4
+BSH-ORD-10548,2025-02-28,Small Domestic,Toaster,Middle East,Online Store,40,3,0.05,114.0,74.4,39.6
+BSH-ORD-10549,2025-12-26,Home Appliances,Microwave,Europe-Central,Direct Sales,160,4,0.0,640.0,396.8,243.2
+BSH-ORD-10550,2024-02-14,Home Appliances,Microwave,North America,Direct Sales,160,2,0.0,320.0,198.4,121.6
+BSH-ORD-10551,2024-10-15,Home Appliances,Vacuum Cleaner,Europe-West,Direct Sales,220,6,0.0,1320.0,818.4,501.6
+BSH-ORD-10552,2024-04-24,Home Appliances,Washing Machine,Europe-West,Online Store,650,7,0.0,4550.0,2821.0,1729.0
+BSH-ORD-10553,2024-05-06,Home Appliances,Vacuum Cleaner,Asia-Pacific,Retail Partner,220,5,0.05,1045.0,682.0,363.0
+BSH-ORD-10554,2024-10-15,Home Appliances,Dishwasher,North America,Retail Partner,550,2,0.0,1100.0,682.0,418.0
+BSH-ORD-10555,2024-12-19,Home Appliances,Vacuum Cleaner,Europe-Central,Online Store,220,7,0.0,1540.0,954.8,585.2
+BSH-ORD-10556,2025-03-08,Home Appliances,Microwave,Europe-West,Online Store,160,2,0.05,304.0,198.4,105.6
+BSH-ORD-10557,2024-09-25,Home Appliances,Washing Machine,North America,Direct Sales,650,7,0.05,4322.5,2821.0,1501.5
+BSH-ORD-10558,2025-07-27,Consumer Electronics,Smart TV,North America,Retail Partner,800,5,0.05,3800.0,2480.0,1320.0
+BSH-ORD-10559,2025-02-19,Consumer Electronics,Espresso Machine,Europe-West,Direct Sales,350,1,0.05,332.5,217.0,115.5
+BSH-ORD-10560,2025-08-20,Small Domestic,Blender,Europe-West,Online Store,65,7,,455.0,282.1,172.9
+BSH-ORD-10561,2024-12-04,Small Domestic,Kettle,Middle East,Retail Partner,45,5,0.05,213.75,139.5,74.25
+BSH-ORD-10562,2024-02-26,Small Domestic,Blender,Europe-West,Online Store,65,6,0.05,370.5,241.8,128.7
+BSH-ORD-10563,2024-07-03,Consumer Electronics,Air Conditioner,Europe-West,Retail Partner,750,5,0.05,3562.5,2325.0,1237.5
+BSH-ORD-10564,2024-11-28,Small Domestic,Blender,Europe-West,Distributor,65,2,0.0,130.0,80.6,49.4
+BSH-ORD-10565,2024-01-03,Home Appliances,Dishwasher,North America,Online Store,550,4,0.1,1980.0,1364.0,616.0
+BSH-ORD-10566,2024-05-01,Home Appliances,Dishwasher,Europe-Central,Direct Sales,550,1,0.0,550.0,341.0,209.0
+BSH-ORD-10567,2025-11-01,Small Domestic,Kettle,Europe-West,Online Store,45,4,0.1,162.0,111.6,50.4
+BSH-ORD-10568,2024-09-06,Consumer Electronics,Espresso Machine,North America,Direct Sales,350,2,0.1,630.0,434.0,196.0
+BSH-ORD-10569,2024-12-20,Consumer Electronics,Espresso Machine,North America,Online Store,350,4,0.0,1400.0,868.0,532.0
+BSH-ORD-10570,2024-08-07,Home Appliances,Refrigerator,Asia-Pacific,Direct Sales,900,3,0.05,2565.0,1674.0,891.0
+BSH-ORD-10571,2025-05-04,Consumer Electronics,Soundbar,North America,Online Store,180,5,0.1,810.0,558.0,252.0
+BSH-ORD-10572,2024-02-23,Home Appliances,Dishwasher,Europe-West,Retail Partner,550,2,0.05,1045.0,682.0,363.0
+BSH-ORD-10573,2025-12-16,Consumer Electronics,Air Conditioner,Europe-West,Online Store,750,2,0.0,1500.0,930.0,570.0
+BSH-ORD-10574,2025-01-05,Small Domestic,Toaster,Asia-Pacific,Retail Partner,40,6,0.1,216.0,148.8,67.2
+BSH-ORD-10575,2024-08-26,Consumer Electronics,Air Conditioner,North America,Online Store,750,5,0.1,3375.0,2325.0,1050.0
+BSH-ORD-10576,2025-01-12,Home Appliances,Dishwasher,Europe-Central,Online Store,550,7,0.1,3465.0,2387.0,1078.0
+BSH-ORD-10577,2024-07-25,Consumer Electronics,Air Conditioner,Asia-Pacific,Direct Sales,750,2,0.1,1350.0,930.0,420.0
+BSH-ORD-10578,2024-07-22,Home Appliances,Washing Machine,Europe-Central,Online Store,650,5,0.15,2762.5,2015.0,747.5
+BSH-ORD-10579,2025-11-05,Small Domestic,Iron,Europe-West,Retail Partner,55,6,0.05,313.5,204.6,108.9
+BSH-ORD-10580,2024-12-31,Small Domestic,Iron,North America,Retail Partner,55,5,0.1,247.5,170.5,77.0
+BSH-ORD-10581,2024-09-14,Consumer Electronics,Smart TV,Europe-Central,Online Store,800,3,0.2,1920.0,1488.0,432.0
+BSH-ORD-10582,2024-10-25,Small Domestic,Blender,Middle East,Direct Sales,65,5,0.05,308.75,201.5,107.25
+BSH-ORD-10583,2024-12-16,Home Appliances,Microwave,Europe-West,Distributor,160,3,0.0,480.0,297.6,182.4
+BSH-ORD-10584,2025-05-13,Home Appliances,Vacuum Cleaner,Europe-West,Retail Partner,220,3,0.0,660.0,409.2,250.8
+BSH-ORD-10585,2025-02-18,Consumer Electronics,Soundbar,North America,Online Store,180,7,0.1,1134.0,781.2,352.8
+BSH-ORD-10586,2024-08-22,Home Appliances,Dishwasher,North America,Direct Sales,550,2,0.0,1100.0,682.0,418.0
+BSH-ORD-10587,2024-03-08,Small Domestic,Blender,North America,Retail Partner,65,5,0.0,325.0,201.5,123.5
+BSH-ORD-10588,2024-10-02,Consumer Electronics,Air Conditioner,Asia-Pacific,Distributor,750,7,0.05,4987.5,3255.0,1732.5
+BSH-ORD-10589,2024-07-09,Home Appliances,Dishwasher,Europe-Central,Retail Partner,550,6,0.1,2970.0,2046.0,924.0
+BSH-ORD-10590,2025-04-12,Small Domestic,Toaster,Europe-West,Retail Partner,40,2,0.0,80.0,49.6,30.4
+BSH-ORD-10591,2025-11-24,Home Appliances,Dishwasher,Europe-West,Retail Partner,550,1,0.05,522.5,341.0,181.5
+BSH-ORD-10592,2024-06-30,Home Appliances,Dishwasher,North America,Direct Sales,550,1,0.0,550.0,341.0,209.0
+BSH-ORD-10593,2025-02-09,Home Appliances,Washing Machine,Middle East,Online Store,650,4,0.1,2340.0,1612.0,728.0
+BSH-ORD-10594,2025-01-09,Home Appliances,Oven,Europe-Central,Retail Partner,480,6,0.05,2736.0,1785.6,950.4
+BSH-ORD-10595,2024-07-02,Small Domestic,Kettle,Europe-West,Retail Partner,45,6,0.05,256.5,167.4,89.1
+BSH-ORD-10596,2025-03-13,Consumer Electronics,Espresso Machine,Europe-West,Retail Partner,350,4,0.0,1400.0,868.0,532.0
+BSH-ORD-10597,2024-10-22,Home Appliances,Washing Machine,North America,Direct Sales,650,6,0.1,3510.0,2418.0,1092.0
+BSH-ORD-10598,2025-06-02,Consumer Electronics,Air Conditioner,Middle East,Online Store,750,5,0.1,3375.0,2325.0,1050.0
+BSH-ORD-10599,2024-09-12,Small Domestic,Blender,Europe-West,Online Store,65,1,0.05,61.75,40.3,21.45
+BSH-ORD-10600,2025-09-22,Consumer Electronics,Air Conditioner,middle east,Online Store,750,-1,0.0,750.0,465.0,285.0
+BSH-ORD-10601,2024-11-04,Small Domestic,Kettle,North America,Direct Sales,45,5,0.0,225.0,139.5,85.5
+BSH-ORD-10602,2025-06-06,Consumer Electronics,Air Conditioner,Europe-West,Online Store,750,4,0.0,3000.0,1860.0,1140.0
+BSH-ORD-10603,2025-12-28,Home Appliances,Oven,Europe-Central,Retail Partner,480,5,0.1,2160.0,1488.0,672.0
+BSH-ORD-10604,2025-08-06,Home Appliances,Dishwasher,Europe-West,Online Store,550,6,0.0,3300.0,2046.0,1254.0
+BSH-ORD-10605,2025-10-11,Home Appliances,Washing Machine,Europe-Central,Online Store,650,4,0.0,2600.0,1612.0,988.0
+BSH-ORD-10606,2024-03-26,Small Domestic,Toaster,Europe-West,Direct Sales,40,7,0.0,280.0,173.6,106.4
+BSH-ORD-10607,2025-10-03,Small Domestic,Blender,Europe-Central,Direct Sales,65,5,0.05,308.75,201.5,107.25
+BSH-ORD-10608,2024-09-22,Consumer Electronics,Soundbar,Europe-West,Online Store,180,4,0.05,684.0,446.4,237.6
+BSH-ORD-10609,2024-05-24,Home Appliances,Refrigerator,Middle East,Online Store,900,2,0.05,1710.0,1116.0,594.0
+BSH-ORD-10610,2024-03-29,Consumer Electronics,Air Conditioner,Asia-Pacific,Retail Partner,750,2,0.0,1500.0,930.0,570.0
+BSH-ORD-10611,2025-05-17,Small Domestic,Kettle,North America,Distributor,45,2,0.0,90.0,55.8,34.2
+BSH-ORD-10612,2024-03-22,Home Appliances,Washing Machine,Europe-Central,Retail Partner,650,3,0.1,1755.0,1209.0,546.0
+BSH-ORD-10613,2024-08-14,Consumer Electronics,Espresso Machine,Europe-West,Retail Partner,350,1,0.05,332.5,217.0,115.5
+BSH-ORD-10614,2025-05-02,Home Appliances,Washing Machine,Middle East,Retail Partner,650,5,0.05,3087.5,2015.0,1072.5
+BSH-ORD-10615,2024-09-26,Consumer Electronics,Espresso Machine,Asia-Pacific,Distributor,350,5,0.1,1575.0,1085.0,490.0
+BSH-ORD-10616,2025-04-30,Home Appliances,Oven,Europe-West,Direct Sales,480,3,0.0,1440.0,892.8,547.2
+BSH-ORD-10617,2025-12-20,Home Appliances,Microwave,Europe-Central,Retail Partner,160,6,0.0,960.0,595.2,364.8
+BSH-ORD-10618,2024-07-24,Home Appliances,Refrigerator,Europe-Central,Online Store,900,1,0.1,810.0,558.0,252.0
+BSH-ORD-10619,2024-12-14,Consumer Electronics,Soundbar,Asia-Pacific,Online Store,180,7,0.0,1260.0,781.2,478.8
+BSH-ORD-10620,2025-08-18,Home Appliances,Vacuum Cleaner,North America,Retail Partner,220,2,0.1,396.0,272.8,123.2
+BSH-ORD-10621,2024-10-02,Home Appliances,Washing Machine,Europe-West,Retail Partner,650,7,0.0,4550.0,2821.0,1729.0
+BSH-ORD-10622,2024-02-27,Home Appliances,Dishwasher,Europe-West,Online Store,550,3,0.0,1650.0,1023.0,627.0
+BSH-ORD-10623,2025-11-29,Consumer Electronics,Smart TV,Europe-Central,Direct Sales,800,7,0.05,5320.0,3472.0,1848.0
+BSH-ORD-10624,2025-12-22,Consumer Electronics,Soundbar,Asia-Pacific,Direct Sales,180,5,0.1,810.0,558.0,252.0
+BSH-ORD-10625,2024-12-03,Home Appliances,Microwave,North America,Online Store,160,1,0.05,152.0,99.2,52.8
+BSH-ORD-10626,2025-09-19,Consumer Electronics,Espresso Machine,Europe-Central,Retail Partner,350,7,0.05,2327.5,1519.0,808.5
+BSH-ORD-10627,2025-02-20,Small Domestic,Kettle,Middle East,Online Store,45,3,0.1,121.5,83.7,37.8
+BSH-ORD-10628,2025-12-20,Home Appliances,Oven,North America,Online Store,480,1,0.0,480.0,297.6,182.4
+BSH-ORD-10629,2025-10-28,Home Appliances,Washing Machine,North America,Online Store,650,3,0.1,1755.0,1209.0,546.0
+BSH-ORD-10630,2025-11-13,Consumer Electronics,Smart TV,Europe-West,Retail Partner,800,5,0.1,3600.0,2480.0,1120.0
+BSH-ORD-10631,2025-07-21,Home Appliances,Refrigerator,Europe-West,Direct Sales,900,3,0.05,2565.0,1674.0,891.0
+BSH-ORD-10632,2024-08-20,Home Appliances,Dishwasher,Europe-West,Online Store,550,3,0.0,1650.0,1023.0,627.0
+BSH-ORD-10633,2024-04-13,Small Domestic,Iron,Europe-Central,Retail Partner,55,6,0.0,330.0,204.6,125.4
+BSH-ORD-10634,2025-07-03,Small Domestic,Blender,Europe-Central,Online Store,65,1,0.0,65.0,40.3,24.7
+BSH-ORD-10635,2024-02-27,Home Appliances,Refrigerator,North America,Direct Sales,900,7,0.05,5985.0,3906.0,2079.0
+BSH-ORD-10636,2024-03-23,Home Appliances,Dishwasher,Europe-West,Online Store,550,4,0.0,2200.0,1364.0,836.0
+BSH-ORD-10637,2024-07-28,Small Domestic,Kettle,Asia-Pacific,Online Store,45,2,0.15,76.5,55.8,20.7
+BSH-ORD-10638,2025-05-06,Home Appliances,Oven,Europe-West,Online Store,480,5,0.05,2280.0,1488.0,792.0
+BSH-ORD-10639,2025-08-01,Home Appliances,Vacuum Cleaner,Europe-West,Distributor,220,4,0.1,792.0,545.6,246.4
+BSH-ORD-10640,2024-01-10,Home Appliances,Microwave,Europe-West,Distributor,160,1,,160.0,99.2,60.8
+BSH-ORD-10641,2025-04-04,Small Domestic,Iron,Europe-Central,Retail Partner,55,7,0.0,385.0,238.7,146.3
+BSH-ORD-10642,2024-05-19,Small Domestic,Blender,Europe-West,Online Store,65,6,0.0,390.0,241.8,148.2
+BSH-ORD-10643,2025-10-31,Small Domestic,Kettle,Europe-Central,Direct Sales,45,6,0.0,270.0,167.4,102.6
+BSH-ORD-10644,2025-04-25,Home Appliances,Microwave,Europe-Central,Online Store,160,4,0.1,576.0,396.8,179.2
+BSH-ORD-10645,2024-01-25,Home Appliances,Washing Machine,Europe-Central,Online Store,650,3,0.0,1950.0,1209.0,741.0
+BSH-ORD-10646,2024-10-29,Home Appliances,Dishwasher,Asia-Pacific,Direct Sales,550,6,0.05,3135.0,2046.0,1089.0
+BSH-ORD-10647,2024-07-10,Small Domestic,Toaster,Europe-Central,Distributor,40,7,0.0,280.0,173.6,106.4
+BSH-ORD-10648,2024-07-10,Home Appliances,Microwave,Europe-West,Online Store,160,3,0.2,384.0,297.6,86.4
+BSH-ORD-10649,2024-07-15,Home Appliances,Refrigerator,North America,Online Store,900,6,0.15,4590.0,3348.0,1242.0
+BSH-ORD-10650,2024-04-17,Home Appliances,Refrigerator,North America,Direct Sales,900,5,0.0,4500.0,2790.0,1710.0
+BSH-ORD-10651,2025-08-28,Home Appliances,Refrigerator,Europe-Central,Online Store,900,7,0.0,6300.0,3906.0,2394.0
+BSH-ORD-10652,2025-08-10,Consumer Electronics,Soundbar,Europe-West,Retail Partner,180,1,0.0,180.0,111.6,68.4
+BSH-ORD-10653,2025-05-04,Home Appliances,Microwave,North America,Online Store,160,3,0.0,480.0,297.6,182.4
+BSH-ORD-10654,2024-01-08,Home Appliances,Washing Machine,Europe-West,Online Store,650,1,0.1,585.0,403.0,182.0
+BSH-ORD-10655,2025-05-10,Home Appliances,Vacuum Cleaner,Europe-Central,Online Store,220,5,0.05,1045.0,682.0,363.0
+BSH-ORD-10656,2025-05-23,Home Appliances,Washing Machine,Europe-West,Online Store,650,4,0.0,2600.0,1612.0,988.0
+BSH-ORD-10657,2025-07-23,Consumer Electronics,Smart TV,North America,Distributor,800,2,0.05,1520.0,992.0,528.0
+BSH-ORD-10658,2025-12-10,Consumer Electronics,Soundbar,Asia-Pacific,Retail Partner,180,6,0.1,972.0,669.6,302.4
+BSH-ORD-10659,2025-01-18,Home Appliances,Dishwasher,North America,Online Store,550,3,0.0,1650.0,1023.0,627.0
+BSH-ORD-10660,2025-09-03,Consumer Electronics,Soundbar,Middle East,Direct Sales,180,5,0.05,855.0,558.0,297.0
+BSH-ORD-10661,2024-11-22,Home Appliances,Washing Machine,Europe-Central,Direct Sales,650,6,0.1,3510.0,2418.0,1092.0
+BSH-ORD-10662,2025-02-01,Home Appliances,Vacuum Cleaner,Europe-West,Online Store,220,4,0.15,748.0,545.6,202.4
+BSH-ORD-10663,2025-01-22,Home Appliances,Oven,Europe-Central,Direct Sales,480,3,0.0,1440.0,892.8,547.2
+BSH-ORD-10664,2024-06-19,Home Appliances,Microwave,Middle East,Online Store,160,4,0.15,544.0,396.8,147.2
+BSH-ORD-10665,2024-05-04,Consumer Electronics,Air Conditioner,Europe-West,Online Store,750,2,0.1,1350.0,930.0,420.0
+BSH-ORD-10666,2025-02-26,Consumer Electronics,Air Conditioner,Middle East,Retail Partner,750,6,0.05,4275.0,2790.0,1485.0
+BSH-ORD-10667,2025-09-25,Home Appliances,Oven,Europe-Central,Distributor,480,2,0.1,864.0,595.2,268.8
+BSH-ORD-10668,2025-02-27,Consumer Electronics,Smart TV,Europe-West,Retail Partner,800,3,0.05,2280.0,1488.0,792.0
+BSH-ORD-10669,2024-04-15,Home Appliances,Washing Machine,North America,Online Store,650,1,0.1,585.0,403.0,182.0
+BSH-ORD-10670,2025-02-19,Consumer Electronics,Soundbar,Europe-Central,Online Store,180,6,0.1,972.0,669.6,302.4
+BSH-ORD-10671,2025-05-29,Small Domestic,Iron,North America,Retail Partner,55,1,0.0,55.0,34.1,20.9
+BSH-ORD-10672,2025-12-14,Consumer Electronics,Air Conditioner,Europe-Central,Retail Partner,750,7,0.05,4987.5,3255.0,1732.5
+BSH-ORD-10673,2024-08-24,Consumer Electronics,Air Conditioner,North America,Direct Sales,750,1,0.1,675.0,465.0,210.0
+BSH-ORD-10674,2025-08-28,Home Appliances,Washing Machine,Europe-West,Online Store,650,2,0.0,1300.0,806.0,494.0
+BSH-ORD-10675,2025-04-03,Home Appliances,Microwave,Asia-Pacific,Online Store,160,1,0.0,160.0,99.2,60.8
+BSH-ORD-10676,2025-07-29,Home Appliances,Washing Machine,Europe-Central,Online Store,650,3,0.05,1852.5,1209.0,643.5
+BSH-ORD-10677,2025-06-13,Small Domestic,Blender,Europe-Central,Online Store,65,4,0.0,260.0,161.2,98.8
+BSH-ORD-10678,2024-08-26,Home Appliances,Oven,Europe-Central,Retail Partner,480,6,0.05,2736.0,1785.6,950.4
+BSH-ORD-10679,2024-10-09,Consumer Electronics,Espresso Machine,Asia-Pacific,Online Store,350,6,0.0,2100.0,1302.0,798.0
+BSH-ORD-10680,2024-01-12,Home Appliances,Dishwasher,Middle East,Online Store,550,4,0.1,1980.0,1364.0,616.0
+BSH-ORD-10681,2024-03-30,Home Appliances,Oven,Europe-West,Retail Partner,480,5,0.0,2400.0,1488.0,912.0
+BSH-ORD-10682,2025-02-03,Home Appliances,Microwave,Middle East,Direct Sales,160,5,0.0,800.0,496.0,304.0
+BSH-ORD-10683,2024-08-15,Consumer Electronics,Espresso Machine,Europe-West,Retail Partner,350,5,0.1,1575.0,1085.0,490.0
+BSH-ORD-10684,2024-10-11,Home Appliances,Vacuum Cleaner,Europe-West,Retail Partner,220,2,0.0,440.0,272.8,167.2
+BSH-ORD-10685,2024-01-30,Home Appliances,Refrigerator,Europe-West,Retail Partner,900,5,0.0,4500.0,2790.0,1710.0
+BSH-ORD-10686,2025-11-22,Small Domestic,Iron,Europe-West,Online Store,55,6,0.0,330.0,204.6,125.4
+BSH-ORD-10687,2024-08-26,Consumer Electronics,Espresso Machine,North America,Direct Sales,350,2,0.0,700.0,434.0,266.0
+BSH-ORD-10688,2025-09-29,Consumer Electronics,Soundbar,North America,Online Store,180,2,0.0,360.0,223.2,136.8
+BSH-ORD-10689,2025-10-10,Home Appliances,Oven,Asia-Pacific,Direct Sales,480,3,0.05,1368.0,892.8,475.2
+BSH-ORD-10690,2024-07-07,Consumer Electronics,Air Conditioner,Europe-Central,Retail Partner,750,4,0.05,2850.0,1860.0,990.0
+BSH-ORD-10691,2024-07-12,Home Appliances,Washing Machine,Europe-Central,Retail Partner,650,7,0.15,3867.5,2821.0,1046.5
+BSH-ORD-10692,2024-04-16,Home Appliances,Dishwasher,Europe-Central,Direct Sales,550,2,0.05,1045.0,682.0,363.0
+BSH-ORD-10693,2025-08-29,Home Appliances,Dishwasher,Asia-Pacific,Online Store,550,4,0.1,1980.0,1364.0,616.0
+BSH-ORD-10694,2025-12-11,Home Appliances,Oven,Europe-West,Online Store,480,2,0.1,864.0,595.2,268.8
+BSH-ORD-10695,2025-05-07,Home Appliances,Dishwasher,North America,Retail Partner,550,2,0.1,990.0,682.0,308.0
+BSH-ORD-10696,2024-11-11,Home Appliances,Oven,Europe-West,Direct Sales,480,5,0.05,2280.0,1488.0,792.0
+BSH-ORD-10697,2024-10-24,Home Appliances,Microwave,North America,Retail Partner,160,7,0.0,1120.0,694.4,425.6
+BSH-ORD-10698,2025-12-20,Home Appliances,Washing Machine,Middle East,Online Store,650,1,0.2,520.0,403.0,117.0
+BSH-ORD-10699,2024-06-08,Home Appliances,Refrigerator,Europe-Central,Online Store,900,2,0.0,1800.0,1116.0,684.0
+BSH-ORD-10700,2025-05-19,Home Appliances,Oven,Europe-Central,Direct Sales,480,3,0.05,1368.0,892.8,475.2
+BSH-ORD-10701,2025-02-11,Home Appliances,Refrigerator,North America,Distributor,900,5,0.1,4050.0,2790.0,1260.0
+BSH-ORD-10702,2025-09-04,Consumer Electronics,Smart TV,Europe-West,Online Store,800,6,0.0,4800.0,2976.0,1824.0
+BSH-ORD-10703,2025-10-19,Home Appliances,Refrigerator,Asia-Pacific,Retail Partner,900,6,0.1,4860.0,3348.0,1512.0
+BSH-ORD-10704,2025-02-23,Consumer Electronics,Air Conditioner,North America,Distributor,750,1,0.0,750.0,465.0,285.0
+BSH-ORD-10705,2024-06-12,Consumer Electronics,Soundbar,Europe-West,Online Store,180,3,0.0,540.0,334.8,205.2
+BSH-ORD-10706,2025-03-27,Home Appliances,Dishwasher,Europe-Central,Online Store,550,6,0.1,2970.0,2046.0,924.0
+BSH-ORD-10707,2024-12-02,Consumer Electronics,Soundbar,Europe-West,Online Store,180,7,0.0,1260.0,781.2,478.8
+BSH-ORD-10708,2025-11-11,Home Appliances,Oven,North America,Online Store,480,4,0.05,1824.0,1190.4,633.6
+BSH-ORD-10709,2024-07-24,Home Appliances,Washing Machine,Europe-West,Online Store,650,4,0.0,2600.0,1612.0,988.0
+BSH-ORD-10710,2024-07-08,Consumer Electronics,Espresso Machine,Middle East,Direct Sales,350,5,0.05,1662.5,1085.0,577.5
+BSH-ORD-10711,2024-11-21,Small Domestic,Blender,Europe-Central,Retail Partner,65,4,0.0,260.0,161.2,98.8
+BSH-ORD-10712,2024-03-12,Home Appliances,Oven,Europe-West,Online Store,480,7,0.2,2688.0,2083.2,604.8
+BSH-ORD-10713,2024-12-09,Home Appliances,Vacuum Cleaner,Middle East,Distributor,220,6,0.05,1254.0,818.4,435.6
+BSH-ORD-10714,2024-02-27,Home Appliances,Washing Machine,Europe-Central,Retail Partner,650,6,0.05,3705.0,2418.0,1287.0
+BSH-ORD-10715,2024-04-21,Home Appliances,Dishwasher,North America,Retail Partner,550,4,0.1,1980.0,1364.0,616.0
+BSH-ORD-10716,2025-09-12,Home Appliances,Oven,Europe-Central,Distributor,480,3,0.05,1368.0,892.8,475.2
+BSH-ORD-10717,2025-10-14,Consumer Electronics,Smart TV,Europe-West,Retail Partner,800,5,0.1,3600.0,2480.0,1120.0
+BSH-ORD-10718,2024-02-12,Home Appliances,Oven,Europe-Central,Retail Partner,480,3,0.05,1368.0,892.8,475.2
+BSH-ORD-10719,2024-10-25,Home Appliances,Washing Machine,Europe-West,Online Store,650,7,0.2,3640.0,2821.0,819.0
+BSH-ORD-10720,2024-07-25,Consumer Electronics,Soundbar,europe-west,Online Store,180,3,,540.0,334.8,205.2
+BSH-ORD-10721,2025-03-02,Home Appliances,Vacuum Cleaner,Europe-West,Online Store,220,2,0.0,440.0,272.8,167.2
+BSH-ORD-10722,2024-08-19,Consumer Electronics,Espresso Machine,North America,Online Store,350,3,0.15,892.5,651.0,241.5
+BSH-ORD-10723,2024-11-19,Home Appliances,Refrigerator,North America,Online Store,900,3,0.15,2295.0,1674.0,621.0
+BSH-ORD-10724,2024-02-15,Consumer Electronics,Espresso Machine,Europe-West,Direct Sales,350,6,0.0,2100.0,1302.0,798.0
+BSH-ORD-10725,2024-04-25,Consumer Electronics,Air Conditioner,Asia-Pacific,Retail Partner,750,2,0.05,1425.0,930.0,495.0
+BSH-ORD-10726,2025-03-13,Consumer Electronics,Smart TV,Europe-West,Retail Partner,800,7,0.0,5600.0,3472.0,2128.0
+BSH-ORD-10727,2024-02-23,Home Appliances,Washing Machine,Europe-Central,Online Store,650,6,0.05,3705.0,2418.0,1287.0
+BSH-ORD-10728,2025-12-20,Home Appliances,Oven,Europe-Central,Online Store,480,1,0.05,456.0,297.6,158.4
+BSH-ORD-10729,2025-09-09,Consumer Electronics,Smart TV,Europe-Central,Retail Partner,800,6,0.05,4560.0,2976.0,1584.0
+BSH-ORD-10730,2024-08-04,Small Domestic,Toaster,Europe-West,Online Store,40,2,0.05,76.0,49.6,26.4
+BSH-ORD-10731,2025-01-25,Consumer Electronics,Soundbar,Europe-Central,Online Store,180,1,0.0,180.0,111.6,68.4
+BSH-ORD-10732,2024-07-06,Home Appliances,Washing Machine,North America,Retail Partner,650,4,0.05,2470.0,1612.0,858.0
+BSH-ORD-10733,2025-04-22,Home Appliances,Microwave,Europe-Central,Online Store,160,3,0.0,480.0,297.6,182.4
+BSH-ORD-10734,2025-09-26,Consumer Electronics,Espresso Machine,Asia-Pacific,Online Store,350,4,0.15,1190.0,868.0,322.0
+BSH-ORD-10735,2024-12-20,Home Appliances,Dishwasher,Europe-Central,Retail Partner,550,7,0.15,3272.5,2387.0,885.5
+BSH-ORD-10736,2024-02-08,Consumer Electronics,Soundbar,Europe-West,Retail Partner,180,4,0.15,612.0,446.4,165.6
+BSH-ORD-10737,2025-06-13,Home Appliances,Microwave,Europe-West,Direct Sales,160,7,0.0,1120.0,694.4,425.6
+BSH-ORD-10738,2025-01-24,Consumer Electronics,Espresso Machine,Middle East,Retail Partner,350,2,0.05,665.0,434.0,231.0
+BSH-ORD-10739,2024-12-22,Home Appliances,Refrigerator,Europe-Central,Direct Sales,900,6,0.05,5130.0,3348.0,1782.0
+BSH-ORD-10740,2025-02-26,Small Domestic,Kettle,Europe-West,Online Store,45,3,0.0,135.0,83.7,51.3
+BSH-ORD-10741,2024-09-27,Consumer Electronics,Air Conditioner,Europe-Central,Online Store,750,3,0.0,2250.0,1395.0,855.0
+BSH-ORD-10742,2025-12-22,Home Appliances,Microwave,Asia-Pacific,Direct Sales,160,7,0.1,1008.0,694.4,313.6
+BSH-ORD-10743,2025-08-02,Home Appliances,Oven,Europe-Central,Direct Sales,480,6,0.0,2880.0,1785.6,1094.4
+BSH-ORD-10744,2025-01-17,Consumer Electronics,Smart TV,Europe-Central,Online Store,800,3,0.2,1920.0,1488.0,432.0
+BSH-ORD-10745,2025-11-09,Consumer Electronics,Espresso Machine,Europe-West,Retail Partner,350,2,0.0,700.0,434.0,266.0
+BSH-ORD-10746,2025-02-19,Small Domestic,Kettle,North America,Retail Partner,45,2,0.05,85.5,55.8,29.7
+BSH-ORD-10747,2024-05-02,Home Appliances,Dishwasher,North America,Online Store,550,3,0.0,1650.0,1023.0,627.0
+BSH-ORD-10748,2025-09-14,Small Domestic,Kettle,Europe-Central,Online Store,45,7,0.0,315.0,195.3,119.7
+BSH-ORD-10749,2024-06-23,Consumer Electronics,Smart TV,Europe-West,Retail Partner,800,5,0.2,3200.0,2480.0,720.0
+BSH-ORD-10750,2024-01-09,Consumer Electronics,Smart TV,Europe-West,Distributor,800,-1,0.0,800.0,496.0,304.0
+BSH-ORD-10751,2025-02-28,Small Domestic,Kettle,North America,Online Store,45,3,0.05,128.25,83.7,44.55
+BSH-ORD-10752,2025-12-12,Home Appliances,Washing Machine,Asia-Pacific,Distributor,650,4,0.0,2600.0,1612.0,988.0
+BSH-ORD-10753,2025-01-02,Consumer Electronics,Espresso Machine,Europe-Central,Distributor,350,7,0.1,2205.0,1519.0,686.0
+BSH-ORD-10754,2024-01-25,Home Appliances,Microwave,Europe-West,Online Store,160,3,0.0,480.0,297.6,182.4
+BSH-ORD-10755,2025-03-16,Home Appliances,Dishwasher,North America,Retail Partner,550,4,0.05,2090.0,1364.0,726.0
+BSH-ORD-10756,2024-03-08,Home Appliances,Refrigerator,Europe-West,Distributor,900,6,0.1,4860.0,3348.0,1512.0
+BSH-ORD-10757,2025-03-07,Home Appliances,Microwave,Europe-West,Online Store,160,6,0.05,912.0,595.2,316.8
+BSH-ORD-10758,2024-03-06,Consumer Electronics,Smart TV,Europe-Central,Distributor,800,7,0.05,5320.0,3472.0,1848.0
+BSH-ORD-10759,2024-04-20,Home Appliances,Dishwasher,Middle East,Online Store,550,2,0.15,935.0,682.0,253.0
+BSH-ORD-10760,2025-01-08,Consumer Electronics,Espresso Machine,Europe-Central,Retail Partner,350,7,0.05,2327.5,1519.0,808.5
+BSH-ORD-10761,2025-03-15,Consumer Electronics,Soundbar,Middle East,Online Store,180,4,0.05,684.0,446.4,237.6
+BSH-ORD-10762,2025-06-23,Small Domestic,Kettle,Europe-West,Distributor,45,3,0.0,135.0,83.7,51.3
+BSH-ORD-10763,2025-04-27,Home Appliances,Vacuum Cleaner,Europe-Central,Retail Partner,220,6,0.0,1320.0,818.4,501.6
+BSH-ORD-10764,2025-06-23,Consumer Electronics,Espresso Machine,Asia-Pacific,Online Store,350,7,0.15,2082.5,1519.0,563.5
+BSH-ORD-10765,2024-03-25,Home Appliances,Microwave,Asia-Pacific,Online Store,160,7,0.0,1120.0,694.4,425.6
+BSH-ORD-10766,2024-12-08,Home Appliances,Vacuum Cleaner,Asia-Pacific,Online Store,220,7,0.0,1540.0,954.8,585.2
+BSH-ORD-10767,2024-11-08,Home Appliances,Dishwasher,Europe-Central,Online Store,550,3,0.1,1485.0,1023.0,462.0
+BSH-ORD-10768,2025-03-10,Home Appliances,Refrigerator,Europe-West,Retail Partner,900,3,0.1,2430.0,1674.0,756.0
+BSH-ORD-10769,2024-04-18,Home Appliances,Microwave,North America,Retail Partner,160,5,0.05,760.0,496.0,264.0
+BSH-ORD-10770,2025-10-21,Home Appliances,Microwave,Europe-West,Retail Partner,160,2,0.0,320.0,198.4,121.6
+BSH-ORD-10771,2025-05-12,Home Appliances,Dishwasher,Europe-West,Direct Sales,550,5,0.0,2750.0,1705.0,1045.0
+BSH-ORD-10772,2024-06-16,Home Appliances,Microwave,Europe-Central,Online Store,160,2,0.1,288.0,198.4,89.6
+BSH-ORD-10773,2024-12-09,Consumer Electronics,Soundbar,North America,Online Store,180,1,0.15,153.0,111.6,41.4
+BSH-ORD-10774,2025-05-05,Consumer Electronics,Espresso Machine,Europe-Central,Direct Sales,350,3,0.05,997.5,651.0,346.5
+BSH-ORD-10775,2024-06-30,Small Domestic,Kettle,Europe-West,Online Store,45,4,0.1,162.0,111.6,50.4
+BSH-ORD-10776,2025-02-05,Home Appliances,Microwave,Europe-Central,Retail Partner,160,6,0.05,912.0,595.2,316.8
+BSH-ORD-10777,2024-02-17,Home Appliances,Refrigerator,North America,Direct Sales,900,2,0.0,1800.0,1116.0,684.0
+BSH-ORD-10778,2025-01-15,Small Domestic,Blender,Europe-Central,Direct Sales,65,5,0.1,292.5,201.5,91.0
+BSH-ORD-10779,2025-01-22,Home Appliances,Dishwasher,Europe-Central,Direct Sales,550,5,0.05,2612.5,1705.0,907.5
+BSH-ORD-10780,2025-10-19,Small Domestic,Kettle,Asia-Pacific,Distributor,45,2,0.0,90.0,55.8,34.2
+BSH-ORD-10781,2025-09-08,Small Domestic,Iron,Europe-West,Online Store,55,6,0.0,330.0,204.6,125.4
+BSH-ORD-10782,2025-09-02,Small Domestic,Toaster,Middle East,Retail Partner,40,4,0.0,160.0,99.2,60.8
+BSH-ORD-10783,2025-05-22,Consumer Electronics,Espresso Machine,Europe-Central,Retail Partner,350,4,0.0,1400.0,868.0,532.0
+BSH-ORD-10784,2025-05-01,Home Appliances,Microwave,Europe-West,Direct Sales,160,7,0.0,1120.0,694.4,425.6
+BSH-ORD-10785,2025-03-09,Home Appliances,Washing Machine,Europe-West,Distributor,650,2,0.05,1235.0,806.0,429.0
+BSH-ORD-10786,2024-04-15,Consumer Electronics,Air Conditioner,Europe-West,Retail Partner,750,6,0.0,4500.0,2790.0,1710.0
+BSH-ORD-10787,2024-11-20,Home Appliances,Dishwasher,Europe-West,Retail Partner,550,6,0.1,2970.0,2046.0,924.0
+BSH-ORD-10788,2024-08-03,Small Domestic,Blender,North America,Direct Sales,65,7,0.0,455.0,282.1,172.9
+BSH-ORD-10789,2025-04-11,Small Domestic,Blender,Europe-West,Direct Sales,65,7,0.0,455.0,282.1,172.9
+BSH-ORD-10790,2025-11-21,Home Appliances,Oven,Europe-Central,Retail Partner,480,1,0.0,480.0,297.6,182.4
+BSH-ORD-10791,2024-01-07,Small Domestic,Toaster,Europe-West,Distributor,40,2,0.15,68.0,49.6,18.4
+BSH-ORD-10792,2024-10-11,Home Appliances,Washing Machine,North America,Online Store,650,7,0.0,4550.0,2821.0,1729.0
+BSH-ORD-10793,2025-04-26,Home Appliances,Dishwasher,Middle East,Online Store,550,2,0.0,1100.0,682.0,418.0
+BSH-ORD-10794,2025-07-19,Consumer Electronics,Soundbar,Asia-Pacific,Direct Sales,180,6,0.15,918.0,669.6,248.4
+BSH-ORD-10795,2025-09-12,Consumer Electronics,Air Conditioner,Europe-West,Retail Partner,750,3,0.15,1912.5,1395.0,517.5
+BSH-ORD-10796,2024-08-24,Home Appliances,Dishwasher,Asia-Pacific,Online Store,550,7,0.0,3850.0,2387.0,1463.0
+BSH-ORD-10797,2025-07-06,Small Domestic,Toaster,Europe-Central,Online Store,40,4,0.05,152.0,99.2,52.8
+BSH-ORD-10798,2025-11-29,Consumer Electronics,Air Conditioner,North America,Distributor,750,3,0.1,2025.0,1395.0,630.0
+BSH-ORD-10799,2025-03-21,Home Appliances,Vacuum Cleaner,North America,Retail Partner,220,7,0.0,1540.0,954.8,585.2
+BSH-ORD-10800,2024-01-24,Home Appliances,Refrigerator,Europe-Central,Direct Sales,900,7,,6300.0,3906.0,2394.0
+BSH-ORD-10801,2024-01-27,Consumer Electronics,Espresso Machine,Europe-West,Retail Partner,350,6,0.15,1785.0,1302.0,483.0
+BSH-ORD-10802,2024-12-26,Home Appliances,Microwave,Europe-West,Online Store,160,1,0.0,160.0,99.2,60.8
+BSH-ORD-10803,2025-06-29,Home Appliances,Oven,Europe-Central,Online Store,480,2,0.05,912.0,595.2,316.8
+BSH-ORD-10804,2025-04-21,Home Appliances,Microwave,Europe-Central,Online Store,160,3,0.0,480.0,297.6,182.4
+BSH-ORD-10805,2024-07-27,Home Appliances,Washing Machine,Europe-Central,Retail Partner,650,5,0.05,3087.5,2015.0,1072.5
+BSH-ORD-10806,2024-01-22,Home Appliances,Refrigerator,North America,Retail Partner,900,1,0.0,900.0,558.0,342.0
+BSH-ORD-10807,2025-05-17,Consumer Electronics,Smart TV,North America,Direct Sales,800,1,0.2,640.0,496.0,144.0
+BSH-ORD-10808,2024-11-20,Home Appliances,Dishwasher,Europe-West,Online Store,550,5,0.15,2337.5,1705.0,632.5
+BSH-ORD-10809,2024-09-21,Consumer Electronics,Soundbar,Middle East,Direct Sales,180,7,0.1,1134.0,781.2,352.8
+BSH-ORD-10810,2024-09-07,Home Appliances,Refrigerator,North America,Online Store,900,1,0.0,900.0,558.0,342.0
+BSH-ORD-10811,2024-09-16,Home Appliances,Dishwasher,Europe-Central,Retail Partner,550,4,0.0,2200.0,1364.0,836.0
+BSH-ORD-10812,2025-03-14,Home Appliances,Vacuum Cleaner,Europe-West,Online Store,220,2,0.0,440.0,272.8,167.2
+BSH-ORD-10813,2024-02-25,Consumer Electronics,Espresso Machine,Middle East,Online Store,350,5,0.1,1575.0,1085.0,490.0
+BSH-ORD-10814,2024-07-07,Consumer Electronics,Air Conditioner,North America,Retail Partner,750,6,0.1,4050.0,2790.0,1260.0
+BSH-ORD-10815,2025-12-08,Small Domestic,Iron,Europe-West,Retail Partner,55,6,0.0,330.0,204.6,125.4
+BSH-ORD-10816,2024-07-11,Small Domestic,Kettle,Middle East,Online Store,45,5,0.05,213.75,139.5,74.25
+BSH-ORD-10817,2025-06-04,Home Appliances,Oven,Asia-Pacific,Online Store,480,6,0.0,2880.0,1785.6,1094.4
+BSH-ORD-10818,2025-02-14,Home Appliances,Washing Machine,Asia-Pacific,Online Store,650,7,0.0,4550.0,2821.0,1729.0
+BSH-ORD-10819,2025-11-27,Home Appliances,Dishwasher,Europe-Central,Retail Partner,550,3,0.15,1402.5,1023.0,379.5
+BSH-ORD-10820,2025-02-16,Consumer Electronics,Soundbar,Europe-West,Distributor,180,2,0.0,360.0,223.2,136.8
+BSH-ORD-10821,2024-09-29,Home Appliances,Washing Machine,Middle East,Distributor,650,3,0.05,1852.5,1209.0,643.5
+BSH-ORD-10822,2025-07-22,Home Appliances,Dishwasher,North America,Online Store,550,5,0.05,2612.5,1705.0,907.5
+BSH-ORD-10823,2024-11-16,Small Domestic,Blender,North America,Online Store,65,3,0.15,165.75,120.9,44.85
+BSH-ORD-10824,2025-11-10,Home Appliances,Oven,North America,Distributor,480,3,0.0,1440.0,892.8,547.2
+BSH-ORD-10825,2025-11-29,Small Domestic,Iron,North America,Retail Partner,55,2,0.0,110.0,68.2,41.8
+BSH-ORD-10826,2025-03-27,Consumer Electronics,Espresso Machine,Europe-West,Retail Partner,350,2,0.0,700.0,434.0,266.0
+BSH-ORD-10827,2024-03-21,Consumer Electronics,Soundbar,North America,Retail Partner,180,1,0.0,180.0,111.6,68.4
+BSH-ORD-10828,2025-05-15,Home Appliances,Dishwasher,Europe-Central,Retail Partner,550,7,0.2,3080.0,2387.0,693.0
+BSH-ORD-10829,2025-04-05,Small Domestic,Iron,Asia-Pacific,Direct Sales,55,4,0.0,220.0,136.4,83.6
+BSH-ORD-10830,2025-12-04,Home Appliances,Microwave,Europe-West,Direct Sales,160,1,0.05,152.0,99.2,52.8
+BSH-ORD-10831,2025-09-22,Home Appliances,Microwave,Europe-West,Retail Partner,160,7,0.05,1064.0,694.4,369.6
+BSH-ORD-10832,2025-08-31,Small Domestic,Blender,North America,Direct Sales,65,7,0.1,409.5,282.1,127.4
+BSH-ORD-10833,2025-09-08,Home Appliances,Vacuum Cleaner,North America,Distributor,220,2,0.0,440.0,272.8,167.2
+BSH-ORD-10834,2024-08-13,Consumer Electronics,Smart TV,Europe-Central,Online Store,800,2,0.2,1280.0,992.0,288.0
+BSH-ORD-10835,2025-11-12,Consumer Electronics,Espresso Machine,North America,Retail Partner,350,7,0.1,2205.0,1519.0,686.0
+BSH-ORD-10836,2024-10-10,Home Appliances,Vacuum Cleaner,Europe-Central,Retail Partner,220,7,0.0,1540.0,954.8,585.2
+BSH-ORD-10837,2024-07-17,Home Appliances,Washing Machine,North America,Online Store,650,7,0.05,4322.5,2821.0,1501.5
+BSH-ORD-10838,2025-12-15,Home Appliances,Microwave,Europe-Central,Online Store,160,1,0.0,160.0,99.2,60.8
+BSH-ORD-10839,2025-02-27,Home Appliances,Washing Machine,Europe-West,Distributor,650,2,0.0,1300.0,806.0,494.0
+BSH-ORD-10840,2024-11-13,Small Domestic,Iron,asia-pacific,Online Store,55,6,0.0,330.0,204.6,125.4
+BSH-ORD-10841,2025-12-15,Home Appliances,Refrigerator,Middle East,Retail Partner,900,5,0.15,3825.0,2790.0,1035.0
+BSH-ORD-10842,2025-07-07,Home Appliances,Microwave,Europe-Central,Online Store,160,6,0.1,864.0,595.2,268.8
+BSH-ORD-10843,2024-05-11,Small Domestic,Iron,Europe-Central,Retail Partner,55,4,0.0,220.0,136.4,83.6
+BSH-ORD-10844,2024-03-19,Home Appliances,Oven,Europe-West,Direct Sales,480,4,0.05,1824.0,1190.4,633.6
+BSH-ORD-10845,2024-06-02,Home Appliances,Oven,North America,Direct Sales,480,3,0.0,1440.0,892.8,547.2
+BSH-ORD-10846,2024-09-29,Home Appliances,Oven,Middle East,Online Store,480,3,0.1,1296.0,892.8,403.2
+BSH-ORD-10847,2025-10-27,Home Appliances,Oven,North America,Retail Partner,480,6,0.1,2592.0,1785.6,806.4
+BSH-ORD-10848,2025-02-11,Small Domestic,Toaster,Europe-Central,Online Store,40,6,0.1,216.0,148.8,67.2
+BSH-ORD-10849,2025-03-17,Consumer Electronics,Air Conditioner,Europe-Central,Retail Partner,750,7,0.1,4725.0,3255.0,1470.0
+BSH-ORD-10850,2025-10-27,Home Appliances,Washing Machine,North America,Retail Partner,650,7,0.0,4550.0,2821.0,1729.0
+BSH-ORD-10851,2024-03-08,Consumer Electronics,Air Conditioner,North America,Direct Sales,750,1,0.15,637.5,465.0,172.5
+BSH-ORD-10852,2025-07-09,Consumer Electronics,Soundbar,Europe-West,Retail Partner,180,2,0.05,342.0,223.2,118.8
+BSH-ORD-10853,2025-07-31,Home Appliances,Microwave,North America,Direct Sales,160,4,0.1,576.0,396.8,179.2
+BSH-ORD-10854,2024-10-02,Consumer Electronics,Air Conditioner,Europe-Central,Direct Sales,750,4,0.05,2850.0,1860.0,990.0
+BSH-ORD-10855,2024-12-04,Home Appliances,Microwave,Europe-Central,Retail Partner,160,4,0.0,640.0,396.8,243.2
+BSH-ORD-10856,2025-06-07,Small Domestic,Toaster,Europe-Central,Online Store,40,7,0.05,266.0,173.6,92.4
+BSH-ORD-10857,2024-01-19,Home Appliances,Dishwasher,Middle East,Online Store,550,7,0.1,3465.0,2387.0,1078.0
+BSH-ORD-10858,2025-06-06,Home Appliances,Dishwasher,Europe-West,Direct Sales,550,5,0.0,2750.0,1705.0,1045.0
+BSH-ORD-10859,2025-01-21,Home Appliances,Washing Machine,Europe-Central,Direct Sales,650,1,0.05,617.5,403.0,214.5
+BSH-ORD-10860,2025-09-09,Consumer Electronics,Air Conditioner,Europe-West,Online Store,750,2,0.15,1275.0,930.0,345.0
+BSH-ORD-10861,2024-12-29,Home Appliances,Refrigerator,Europe-West,Direct Sales,900,1,0.1,810.0,558.0,252.0
+BSH-ORD-10862,2025-05-30,Home Appliances,Refrigerator,Europe-Central,Retail Partner,900,4,0.05,3420.0,2232.0,1188.0
+BSH-ORD-10863,2024-01-19,Small Domestic,Kettle,North America,Online Store,45,5,0.1,202.5,139.5,63.0
+BSH-ORD-10864,2025-03-22,Home Appliances,Oven,Europe-Central,Retail Partner,480,3,0.0,1440.0,892.8,547.2
+BSH-ORD-10865,2025-06-05,Small Domestic,Iron,Europe-West,Online Store,55,4,0.05,209.0,136.4,72.6
+BSH-ORD-10866,2025-03-13,Consumer Electronics,Soundbar,Europe-Central,Online Store,180,7,0.15,1071.0,781.2,289.8
+BSH-ORD-10867,2024-05-14,Home Appliances,Refrigerator,North America,Online Store,900,4,0.0,3600.0,2232.0,1368.0
+BSH-ORD-10868,2025-01-09,Home Appliances,Vacuum Cleaner,Europe-Central,Direct Sales,220,3,0.0,660.0,409.2,250.8
+BSH-ORD-10869,2025-12-12,Home Appliances,Vacuum Cleaner,North America,Online Store,220,1,0.05,209.0,136.4,72.6
+BSH-ORD-10870,2024-12-17,Small Domestic,Toaster,Europe-West,Retail Partner,40,4,0.0,160.0,99.2,60.8
+BSH-ORD-10871,2024-01-25,Home Appliances,Refrigerator,Europe-Central,Retail Partner,900,7,0.0,6300.0,3906.0,2394.0
+BSH-ORD-10872,2025-07-29,Consumer Electronics,Smart TV,Middle East,Online Store,800,1,0.0,800.0,496.0,304.0
+BSH-ORD-10873,2025-08-18,Home Appliances,Refrigerator,Europe-West,Retail Partner,900,6,0.0,5400.0,3348.0,2052.0
+BSH-ORD-10874,2025-06-25,Home Appliances,Refrigerator,Europe-Central,Distributor,900,2,0.2,1440.0,1116.0,324.0
+BSH-ORD-10875,2024-06-12,Consumer Electronics,Smart TV,North America,Online Store,800,3,0.1,2160.0,1488.0,672.0
+BSH-ORD-10876,2024-10-01,Home Appliances,Dishwasher,Europe-West,Online Store,550,2,0.0,1100.0,682.0,418.0
+BSH-ORD-10877,2025-06-13,Small Domestic,Kettle,Europe-West,Online Store,45,3,0.0,135.0,83.7,51.3
+BSH-ORD-10878,2024-03-30,Consumer Electronics,Soundbar,Europe-Central,Online Store,180,3,0.1,486.0,334.8,151.2
+BSH-ORD-10879,2025-08-16,Home Appliances,Vacuum Cleaner,North America,Online Store,220,7,0.15,1309.0,954.8,354.2
+BSH-ORD-10880,2024-03-28,Home Appliances,Vacuum Cleaner,North America,Retail Partner,220,5,,1100.0,682.0,418.0
+BSH-ORD-10881,2025-04-03,Small Domestic,Kettle,Europe-West,Online Store,45,7,0.0,315.0,195.3,119.7
+BSH-ORD-10882,2025-09-30,Consumer Electronics,Espresso Machine,North America,Online Store,350,4,0.1,1260.0,868.0,392.0
+BSH-ORD-10883,2025-07-30,Home Appliances,Oven,North America,Online Store,480,5,0.05,2280.0,1488.0,792.0
+BSH-ORD-10884,2024-08-24,Home Appliances,Dishwasher,Middle East,Online Store,550,3,0.0,1650.0,1023.0,627.0
+BSH-ORD-10885,2024-07-07,Small Domestic,Iron,Europe-Central,Online Store,55,1,0.0,55.0,34.1,20.9
+BSH-ORD-10886,2025-08-24,Small Domestic,Iron,Europe-West,Retail Partner,55,5,0.15,233.75,170.5,63.25
+BSH-ORD-10887,2025-11-24,Consumer Electronics,Air Conditioner,Europe-West,Distributor,750,5,0.05,3562.5,2325.0,1237.5
+BSH-ORD-10888,2024-12-30,Consumer Electronics,Soundbar,Europe-West,Retail Partner,180,5,0.0,900.0,558.0,342.0
+BSH-ORD-10889,2025-07-21,Consumer Electronics,Smart TV,Asia-Pacific,Online Store,800,1,0.0,800.0,496.0,304.0
+BSH-ORD-10890,2025-02-02,Home Appliances,Dishwasher,Europe-West,Online Store,550,6,0.2,2640.0,2046.0,594.0
+BSH-ORD-10891,2024-10-07,Home Appliances,Refrigerator,Middle East,Retail Partner,900,5,0.15,3825.0,2790.0,1035.0
+BSH-ORD-10892,2025-05-24,Home Appliances,Refrigerator,North America,Online Store,900,1,0.0,900.0,558.0,342.0
+BSH-ORD-10893,2025-03-09,Consumer Electronics,Soundbar,Asia-Pacific,Online Store,180,2,0.05,342.0,223.2,118.8
+BSH-ORD-10894,2024-06-15,Consumer Electronics,Smart TV,Europe-Central,Online Store,800,3,0.05,2280.0,1488.0,792.0
+BSH-ORD-10895,2024-03-30,Consumer Electronics,Soundbar,North America,Online Store,180,3,0.05,513.0,334.8,178.2
+BSH-ORD-10896,2024-07-17,Home Appliances,Washing Machine,North America,Retail Partner,650,7,0.05,4322.5,2821.0,1501.5
+BSH-ORD-10897,2025-01-01,Small Domestic,Blender,Europe-Central,Direct Sales,65,1,0.1,58.5,40.3,18.2
+BSH-ORD-10898,2024-03-20,Consumer Electronics,Smart TV,Middle East,Retail Partner,800,6,0.0,4800.0,2976.0,1824.0
+BSH-ORD-10899,2025-02-23,Consumer Electronics,Smart TV,Europe-West,Direct Sales,800,7,0.05,5320.0,3472.0,1848.0
+BSH-ORD-10900,2025-08-10,Consumer Electronics,Espresso Machine,North America,Direct Sales,350,-1,0.1,315.0,217.0,98.0
+BSH-ORD-10901,2024-03-24,Home Appliances,Oven,Europe-West,Retail Partner,480,1,0.05,456.0,297.6,158.4
+BSH-ORD-10902,2024-11-28,Consumer Electronics,Smart TV,Europe-West,Online Store,800,4,0.1,2880.0,1984.0,896.0
+BSH-ORD-10903,2024-01-19,Home Appliances,Washing Machine,Europe-West,Online Store,650,2,0.1,1170.0,806.0,364.0
+BSH-ORD-10904,2024-02-24,Small Domestic,Toaster,Europe-West,Online Store,40,2,0.05,76.0,49.6,26.4
+BSH-ORD-10905,2024-12-23,Home Appliances,Dishwasher,Europe-Central,Online Store,550,1,0.0,550.0,341.0,209.0
+BSH-ORD-10906,2024-03-25,Consumer Electronics,Smart TV,Europe-West,Direct Sales,800,1,0.0,800.0,496.0,304.0
+BSH-ORD-10907,2025-03-20,Small Domestic,Blender,Europe-West,Direct Sales,65,1,0.0,65.0,40.3,24.7
+BSH-ORD-10908,2025-08-31,Consumer Electronics,Air Conditioner,Europe-Central,Retail Partner,750,2,0.05,1425.0,930.0,495.0
+BSH-ORD-10909,2024-03-11,Home Appliances,Microwave,Asia-Pacific,Online Store,160,6,0.05,912.0,595.2,316.8
+BSH-ORD-10910,2025-04-30,Home Appliances,Oven,Europe-West,Retail Partner,480,7,0.0,3360.0,2083.2,1276.8
+BSH-ORD-10911,2025-08-27,Small Domestic,Kettle,Asia-Pacific,Online Store,45,5,0.0,225.0,139.5,85.5
+BSH-ORD-10912,2025-07-05,Home Appliances,Microwave,Europe-Central,Online Store,160,4,0.0,640.0,396.8,243.2
+BSH-ORD-10913,2024-07-02,Small Domestic,Blender,Europe-Central,Online Store,65,1,0.15,55.25,40.3,14.95
+BSH-ORD-10914,2025-05-23,Small Domestic,Blender,North America,Retail Partner,65,2,0.2,104.0,80.6,23.4
+BSH-ORD-10915,2024-11-24,Home Appliances,Refrigerator,Europe-Central,Retail Partner,900,1,0.0,900.0,558.0,342.0
+BSH-ORD-10916,2025-04-10,Home Appliances,Dishwasher,Europe-West,Direct Sales,550,5,0.0,2750.0,1705.0,1045.0
+BSH-ORD-10917,2025-12-09,Home Appliances,Oven,North America,Online Store,480,3,0.0,1440.0,892.8,547.2
+BSH-ORD-10918,2024-05-25,Home Appliances,Dishwasher,North America,Online Store,550,3,0.0,1650.0,1023.0,627.0
+BSH-ORD-10919,2024-07-27,Small Domestic,Iron,Europe-Central,Direct Sales,55,4,0.1,198.0,136.4,61.6
+BSH-ORD-10920,2025-12-26,Consumer Electronics,Smart TV,Middle East,Online Store,800,1,0.1,720.0,496.0,224.0
+BSH-ORD-10921,2025-06-05,Home Appliances,Dishwasher,Europe-West,Online Store,550,6,0.05,3135.0,2046.0,1089.0
+BSH-ORD-10922,2024-01-27,Consumer Electronics,Air Conditioner,Europe-West,Retail Partner,750,4,0.05,2850.0,1860.0,990.0
+BSH-ORD-10923,2025-04-23,Consumer Electronics,Air Conditioner,Europe-Central,Online Store,750,3,0.0,2250.0,1395.0,855.0
+BSH-ORD-10924,2025-12-13,Home Appliances,Dishwasher,Asia-Pacific,Online Store,550,4,0.1,1980.0,1364.0,616.0
+BSH-ORD-10925,2024-06-15,Small Domestic,Kettle,Middle East,Online Store,45,6,0.1,243.0,167.4,75.6
+BSH-ORD-10926,2024-10-05,Home Appliances,Microwave,Europe-West,Online Store,160,1,0.0,160.0,99.2,60.8
+BSH-ORD-10927,2025-11-27,Home Appliances,Refrigerator,Europe-West,Online Store,900,6,0.1,4860.0,3348.0,1512.0
+BSH-ORD-10928,2025-10-19,Consumer Electronics,Air Conditioner,Europe-Central,Distributor,750,4,0.05,2850.0,1860.0,990.0
+BSH-ORD-10929,2025-04-23,Small Domestic,Blender,Europe-West,Retail Partner,65,6,0.05,370.5,241.8,128.7
+BSH-ORD-10930,2024-02-14,Consumer Electronics,Soundbar,Europe-Central,Retail Partner,180,6,0.1,972.0,669.6,302.4
+BSH-ORD-10931,2025-02-19,Home Appliances,Vacuum Cleaner,North America,Online Store,220,5,0.0,1100.0,682.0,418.0
+BSH-ORD-10932,2025-11-18,Home Appliances,Microwave,Europe-Central,Online Store,160,7,0.1,1008.0,694.4,313.6
+BSH-ORD-10933,2024-02-21,Home Appliances,Microwave,North America,Online Store,160,5,0.0,800.0,496.0,304.0
+BSH-ORD-10934,2025-06-19,Small Domestic,Iron,Asia-Pacific,Direct Sales,55,1,0.0,55.0,34.1,20.9
+BSH-ORD-10935,2025-11-18,Home Appliances,Oven,Europe-Central,Online Store,480,6,0.1,2592.0,1785.6,806.4
+BSH-ORD-10936,2025-10-28,Consumer Electronics,Espresso Machine,Europe-West,Online Store,350,1,0.2,280.0,217.0,63.0
+BSH-ORD-10937,2025-08-11,Home Appliances,Oven,Europe-West,Direct Sales,480,6,0.0,2880.0,1785.6,1094.4
+BSH-ORD-10938,2025-03-14,Small Domestic,Iron,Europe-Central,Direct Sales,55,4,0.15,187.0,136.4,50.6
+BSH-ORD-10939,2024-01-13,Home Appliances,Microwave,Europe-Central,Retail Partner,160,2,0.0,320.0,198.4,121.6
+BSH-ORD-10940,2024-02-09,Home Appliances,Microwave,Europe-West,Online Store,160,2,0.05,304.0,198.4,105.6
+BSH-ORD-10941,2024-04-26,Consumer Electronics,Soundbar,North America,Retail Partner,180,7,0.0,1260.0,781.2,478.8
+BSH-ORD-10942,2024-03-06,Small Domestic,Blender,Europe-Central,Online Store,65,2,0.05,123.5,80.6,42.9
+BSH-ORD-10943,2025-01-30,Home Appliances,Washing Machine,Europe-Central,Online Store,650,7,0.0,4550.0,2821.0,1729.0
+BSH-ORD-10944,2024-03-10,Home Appliances,Vacuum Cleaner,North America,Retail Partner,220,1,0.1,198.0,136.4,61.6
+BSH-ORD-10945,2025-11-07,Consumer Electronics,Smart TV,Europe-Central,Retail Partner,800,7,0.1,5040.0,3472.0,1568.0
+BSH-ORD-10946,2025-01-08,Home Appliances,Vacuum Cleaner,Europe-Central,Online Store,220,7,0.0,1540.0,954.8,585.2
+BSH-ORD-10947,2025-11-18,Small Domestic,Blender,Europe-West,Online Store,65,3,0.05,185.25,120.9,64.35
+BSH-ORD-10948,2025-05-28,Consumer Electronics,Smart TV,Europe-West,Distributor,800,4,0.15,2720.0,1984.0,736.0
+BSH-ORD-10949,2024-10-27,Consumer Electronics,Smart TV,Europe-West,Online Store,800,3,0.0,2400.0,1488.0,912.0
+BSH-ORD-10950,2025-06-02,Home Appliances,Microwave,Europe-West,Online Store,160,4,0.05,608.0,396.8,211.2
+BSH-ORD-10951,2024-08-11,Consumer Electronics,Air Conditioner,Europe-Central,Distributor,750,6,0.05,4275.0,2790.0,1485.0
+BSH-ORD-10952,2024-06-27,Home Appliances,Vacuum Cleaner,Europe-West,Online Store,220,4,0.1,792.0,545.6,246.4
+BSH-ORD-10953,2025-03-17,Home Appliances,Washing Machine,Middle East,Distributor,650,6,0.0,3900.0,2418.0,1482.0
+BSH-ORD-10954,2024-06-12,Small Domestic,Toaster,Middle East,Retail Partner,40,3,0.1,108.0,74.4,33.6
+BSH-ORD-10955,2025-09-06,Consumer Electronics,Air Conditioner,Europe-Central,Online Store,750,3,0.0,2250.0,1395.0,855.0
+BSH-ORD-10956,2024-05-05,Consumer Electronics,Espresso Machine,Middle East,Direct Sales,350,2,0.05,665.0,434.0,231.0
+BSH-ORD-10957,2024-07-07,Small Domestic,Toaster,Europe-West,Retail Partner,40,1,0.0,40.0,24.8,15.2
+BSH-ORD-10958,2025-11-19,Small Domestic,Kettle,Europe-Central,Retail Partner,45,5,0.1,202.5,139.5,63.0
+BSH-ORD-10959,2024-09-11,Home Appliances,Microwave,Europe-West,Retail Partner,160,1,0.0,160.0,99.2,60.8
+BSH-ORD-10960,2024-09-15,Small Domestic,Blender,asia-pacific,Distributor,65,3,,195.0,120.9,74.1
+BSH-ORD-10961,2025-03-13,Consumer Electronics,Soundbar,Europe-West,Retail Partner,180,6,0.15,918.0,669.6,248.4
+BSH-ORD-10962,2025-03-31,Home Appliances,Microwave,North America,Online Store,160,3,0.05,456.0,297.6,158.4
+BSH-ORD-10963,2025-03-23,Consumer Electronics,Espresso Machine,Middle East,Retail Partner,350,1,0.05,332.5,217.0,115.5
+BSH-ORD-10964,2024-09-27,Consumer Electronics,Soundbar,Europe-Central,Online Store,180,4,0.0,720.0,446.4,273.6
+BSH-ORD-10965,2025-07-02,Home Appliances,Washing Machine,Middle East,Online Store,650,4,0.0,2600.0,1612.0,988.0
+BSH-ORD-10966,2024-06-07,Small Domestic,Kettle,Europe-Central,Online Store,45,3,0.0,135.0,83.7,51.3
+BSH-ORD-10967,2025-08-24,Home Appliances,Washing Machine,North America,Retail Partner,650,7,0.1,4095.0,2821.0,1274.0
+BSH-ORD-10968,2025-07-07,Home Appliances,Oven,Europe-West,Retail Partner,480,2,0.1,864.0,595.2,268.8
+BSH-ORD-10969,2024-05-08,Home Appliances,Refrigerator,Europe-West,Online Store,900,3,0.05,2565.0,1674.0,891.0
+BSH-ORD-10970,2024-11-09,Consumer Electronics,Soundbar,Europe-West,Retail Partner,180,2,0.0,360.0,223.2,136.8
+BSH-ORD-10971,2025-02-07,Small Domestic,Iron,Europe-West,Online Store,55,3,0.2,132.0,102.3,29.7
+BSH-ORD-10972,2025-09-19,Small Domestic,Kettle,Europe-West,Direct Sales,45,3,0.0,135.0,83.7,51.3
+BSH-ORD-10973,2025-05-06,Home Appliances,Microwave,Europe-West,Online Store,160,3,0.2,384.0,297.6,86.4
+BSH-ORD-10974,2025-04-28,Small Domestic,Iron,North America,Online Store,55,7,0.0,385.0,238.7,146.3
+BSH-ORD-10975,2025-12-05,Consumer Electronics,Air Conditioner,Asia-Pacific,Distributor,750,5,0.2,3000.0,2325.0,675.0
+BSH-ORD-10976,2025-04-26,Home Appliances,Refrigerator,Europe-West,Direct Sales,900,7,0.15,5355.0,3906.0,1449.0
+BSH-ORD-10977,2024-01-07,Small Domestic,Kettle,Europe-West,Retail Partner,45,1,0.05,42.75,27.9,14.85
+BSH-ORD-10978,2025-10-05,Consumer Electronics,Smart TV,Asia-Pacific,Retail Partner,800,1,0.05,760.0,496.0,264.0
+BSH-ORD-10979,2025-06-30,Home Appliances,Vacuum Cleaner,Europe-West,Retail Partner,220,2,0.05,418.0,272.8,145.2
+BSH-ORD-10980,2024-11-20,Home Appliances,Vacuum Cleaner,Europe-Central,Direct Sales,220,5,0.0,1100.0,682.0,418.0
+BSH-ORD-10981,2025-11-06,Home Appliances,Oven,Middle East,Online Store,480,1,0.0,480.0,297.6,182.4
+BSH-ORD-10982,2024-03-06,Consumer Electronics,Espresso Machine,Europe-West,Online Store,350,5,0.0,1750.0,1085.0,665.0
+BSH-ORD-10983,2025-08-19,Home Appliances,Oven,Europe-Central,Direct Sales,480,6,0.0,2880.0,1785.6,1094.4
+BSH-ORD-10984,2025-05-28,Consumer Electronics,Soundbar,Europe-Central,Retail Partner,180,2,0.1,324.0,223.2,100.8
+BSH-ORD-10985,2025-05-09,Small Domestic,Toaster,Europe-West,Direct Sales,40,5,0.1,180.0,124.0,56.0
+BSH-ORD-10986,2025-01-22,Consumer Electronics,Air Conditioner,Europe-West,Online Store,750,5,0.1,3375.0,2325.0,1050.0
+BSH-ORD-10987,2024-04-15,Home Appliances,Dishwasher,Europe-West,Direct Sales,550,1,0.05,522.5,341.0,181.5
+BSH-ORD-10988,2024-04-09,Small Domestic,Toaster,Asia-Pacific,Retail Partner,40,6,0.0,240.0,148.8,91.2
+BSH-ORD-10989,2025-01-24,Consumer Electronics,Smart TV,North America,Online Store,800,2,0.0,1600.0,992.0,608.0
+BSH-ORD-10990,2024-06-20,Small Domestic,Blender,North America,Retail Partner,65,6,0.0,390.0,241.8,148.2
+BSH-ORD-10991,2024-04-11,Home Appliances,Refrigerator,Asia-Pacific,Online Store,900,1,0.1,810.0,558.0,252.0
+BSH-ORD-10992,2025-04-05,Home Appliances,Vacuum Cleaner,North America,Online Store,220,4,0.1,792.0,545.6,246.4
+BSH-ORD-10993,2025-01-08,Small Domestic,Kettle,Asia-Pacific,Online Store,45,6,0.05,256.5,167.4,89.1
+BSH-ORD-10994,2024-04-23,Home Appliances,Dishwasher,Europe-West,Online Store,550,1,0.0,550.0,341.0,209.0
+BSH-ORD-10995,2024-03-02,Home Appliances,Oven,Europe-Central,Online Store,480,4,0.0,1920.0,1190.4,729.6
+BSH-ORD-10996,2025-04-15,Home Appliances,Microwave,Europe-West,Retail Partner,160,7,0.05,1064.0,694.4,369.6
+BSH-ORD-10997,2024-05-09,Home Appliances,Microwave,Middle East,Retail Partner,160,4,0.05,608.0,396.8,211.2
+BSH-ORD-10998,2025-11-13,Home Appliances,Refrigerator,North America,Online Store,900,6,0.05,5130.0,3348.0,1782.0
+BSH-ORD-10999,2025-01-31,Home Appliances,Washing Machine,Middle East,Retail Partner,650,3,0.0,1950.0,1209.0,741.0
+BSH-ORD-11000,2025-12-16,Home Appliances,Refrigerator,Europe-West,Distributor,900,2,0.0,1800.0,1116.0,684.0
+BSH-ORD-11001,2025-09-07,Home Appliances,Oven,Middle East,Online Store,480,2,0.0,960.0,595.2,364.8
+BSH-ORD-11002,2025-01-15,Home Appliances,Refrigerator,Europe-West,Distributor,900,4,0.1,3240.0,2232.0,1008.0
+BSH-ORD-11003,2024-10-01,Home Appliances,Dishwasher,Europe-West,Online Store,550,2,0.05,1045.0,682.0,363.0
+BSH-ORD-11004,2024-03-23,Consumer Electronics,Soundbar,North America,Direct Sales,180,1,0.05,171.0,111.6,59.4
+BSH-ORD-11005,2025-08-31,Home Appliances,Refrigerator,Europe-West,Online Store,900,2,0.05,1710.0,1116.0,594.0
+BSH-ORD-11006,2025-11-19,Home Appliances,Vacuum Cleaner,North America,Online Store,220,3,0.05,627.0,409.2,217.8
+BSH-ORD-11007,2024-01-18,Home Appliances,Vacuum Cleaner,Asia-Pacific,Direct Sales,220,1,0.05,209.0,136.4,72.6
+BSH-ORD-11008,2025-02-25,Home Appliances,Vacuum Cleaner,Middle East,Retail Partner,220,2,0.05,418.0,272.8,145.2
+BSH-ORD-11009,2024-03-12,Consumer Electronics,Smart TV,Europe-Central,Online Store,800,6,0.1,4320.0,2976.0,1344.0
+BSH-ORD-11010,2024-09-02,Small Domestic,Blender,Asia-Pacific,Retail Partner,65,3,0.0,195.0,120.9,74.1
+BSH-ORD-11011,2025-03-30,Home Appliances,Washing Machine,North America,Retail Partner,650,5,0.0,3250.0,2015.0,1235.0
+BSH-ORD-11012,2025-06-04,Home Appliances,Refrigerator,Middle East,Distributor,900,2,0.05,1710.0,1116.0,594.0
+BSH-ORD-11013,2024-05-10,Home Appliances,Dishwasher,North America,Online Store,550,1,0.1,495.0,341.0,154.0
+BSH-ORD-11014,2024-07-28,Small Domestic,Iron,Asia-Pacific,Distributor,55,1,0.1,49.5,34.1,15.4
+BSH-ORD-11015,2024-05-08,Consumer Electronics,Air Conditioner,Europe-Central,Online Store,750,1,0.0,750.0,465.0,285.0
+BSH-ORD-11016,2024-06-21,Home Appliances,Dishwasher,Europe-Central,Distributor,550,2,0.0,1100.0,682.0,418.0
+BSH-ORD-11017,2025-05-10,Home Appliances,Oven,Europe-West,Distributor,480,2,0.0,960.0,595.2,364.8
+BSH-ORD-11018,2025-11-02,Home Appliances,Refrigerator,Europe-West,Distributor,900,7,0.1,5670.0,3906.0,1764.0
+BSH-ORD-11019,2025-06-24,Home Appliances,Vacuum Cleaner,North America,Online Store,220,5,0.05,1045.0,682.0,363.0
+BSH-ORD-11020,2025-01-27,Consumer Electronics,Smart TV,Middle East,Retail Partner,800,2,0.0,1600.0,992.0,608.0
+BSH-ORD-11021,2025-07-09,Home Appliances,Microwave,North America,Retail Partner,160,2,0.15,272.0,198.4,73.6
+BSH-ORD-11022,2024-03-16,Small Domestic,Toaster,Europe-West,Direct Sales,40,6,0.0,240.0,148.8,91.2
+BSH-ORD-11023,2024-03-25,Small Domestic,Blender,Europe-Central,Online Store,65,7,0.05,432.25,282.1,150.15
+BSH-ORD-11024,2025-08-28,Home Appliances,Dishwasher,Asia-Pacific,Online Store,550,7,0.0,3850.0,2387.0,1463.0
+BSH-ORD-11025,2025-09-08,Home Appliances,Refrigerator,North America,Direct Sales,900,5,0.2,3600.0,2790.0,810.0
+BSH-ORD-11026,2024-12-06,Home Appliances,Microwave,Europe-West,Retail Partner,160,2,0.1,288.0,198.4,89.6
+BSH-ORD-11027,2024-01-26,Home Appliances,Washing Machine,Middle East,Retail Partner,650,5,0.15,2762.5,2015.0,747.5
+BSH-ORD-11028,2025-07-13,Home Appliances,Dishwasher,North America,Direct Sales,550,2,0.05,1045.0,682.0,363.0
+BSH-ORD-11029,2024-07-23,Home Appliances,Vacuum Cleaner,Middle East,Distributor,220,7,0.0,1540.0,954.8,585.2
+BSH-ORD-11030,2024-04-13,Consumer Electronics,Espresso Machine,Europe-Central,Retail Partner,350,2,0.0,700.0,434.0,266.0
+BSH-ORD-11031,2025-12-17,Small Domestic,Blender,Asia-Pacific,Distributor,65,6,0.0,390.0,241.8,148.2
+BSH-ORD-11032,2024-06-20,Home Appliances,Refrigerator,Europe-West,Retail Partner,900,4,0.0,3600.0,2232.0,1368.0
+BSH-ORD-11033,2025-06-10,Home Appliances,Microwave,Europe-West,Direct Sales,160,2,0.0,320.0,198.4,121.6
+BSH-ORD-11034,2025-05-30,Consumer Electronics,Espresso Machine,Europe-West,Retail Partner,350,2,0.1,630.0,434.0,196.0
+BSH-ORD-11035,2025-10-24,Small Domestic,Blender,Europe-Central,Direct Sales,65,1,0.05,61.75,40.3,21.45
+BSH-ORD-11036,2024-07-04,Consumer Electronics,Espresso Machine,Europe-Central,Direct Sales,350,5,0.1,1575.0,1085.0,490.0
+BSH-ORD-11037,2025-03-21,Small Domestic,Blender,Europe-Central,Retail Partner,65,5,0.1,292.5,201.5,91.0
+BSH-ORD-11038,2025-06-14,Home Appliances,Dishwasher,North America,Retail Partner,550,1,0.0,550.0,341.0,209.0
+BSH-ORD-11039,2024-07-20,Consumer Electronics,Air Conditioner,Europe-West,Online Store,750,5,0.05,3562.5,2325.0,1237.5
+BSH-ORD-11040,2025-08-14,Consumer Electronics,Air Conditioner,Europe-Central,Retail Partner,750,4,,3000.0,1860.0,1140.0
+BSH-ORD-11041,2024-01-21,Small Domestic,Iron,Europe-West,Online Store,55,6,0.05,313.5,204.6,108.9
+BSH-ORD-11042,2025-02-07,Consumer Electronics,Smart TV,North America,Online Store,800,3,0.05,2280.0,1488.0,792.0
+BSH-ORD-11043,2024-04-12,Home Appliances,Washing Machine,Asia-Pacific,Distributor,650,7,0.0,4550.0,2821.0,1729.0
+BSH-ORD-11044,2024-01-26,Small Domestic,Toaster,Middle East,Online Store,40,2,0.05,76.0,49.6,26.4
+BSH-ORD-11045,2024-11-10,Small Domestic,Toaster,Europe-West,Retail Partner,40,4,0.0,160.0,99.2,60.8
+BSH-ORD-11046,2025-05-10,Home Appliances,Vacuum Cleaner,North America,Online Store,220,4,0.05,836.0,545.6,290.4
+BSH-ORD-11047,2024-02-06,Consumer Electronics,Espresso Machine,Europe-Central,Online Store,350,6,0.1,1890.0,1302.0,588.0
+BSH-ORD-11048,2025-04-11,Home Appliances,Oven,Europe-West,Distributor,480,7,0.15,2856.0,2083.2,772.8
+BSH-ORD-11049,2024-04-09,Consumer Electronics,Air Conditioner,Europe-West,Online Store,750,5,0.0,3750.0,2325.0,1425.0
+BSH-ORD-11050,2025-06-24,Consumer Electronics,Soundbar,Europe-West,Retail Partner,180,-1,0.05,171.0,111.6,59.4
+BSH-ORD-11051,2024-06-14,Consumer Electronics,Soundbar,Europe-Central,Retail Partner,180,2,0.0,360.0,223.2,136.8
+BSH-ORD-11052,2025-02-16,Home Appliances,Refrigerator,Europe-West,Retail Partner,900,6,0.05,5130.0,3348.0,1782.0
+BSH-ORD-11053,2025-04-27,Home Appliances,Oven,Europe-Central,Online Store,480,6,0.05,2736.0,1785.6,950.4
+BSH-ORD-11054,2024-03-15,Home Appliances,Microwave,North America,Distributor,160,6,0.05,912.0,595.2,316.8
+BSH-ORD-11055,2025-01-06,Home Appliances,Refrigerator,North America,Direct Sales,900,4,0.05,3420.0,2232.0,1188.0
+BSH-ORD-11056,2025-06-04,Home Appliances,Dishwasher,Europe-West,Online Store,550,1,0.05,522.5,341.0,181.5
+BSH-ORD-11057,2025-05-26,Home Appliances,Refrigerator,Middle East,Online Store,900,4,0.0,3600.0,2232.0,1368.0
+BSH-ORD-11058,2024-08-24,Home Appliances,Microwave,Europe-West,Online Store,160,4,0.0,640.0,396.8,243.2
+BSH-ORD-11059,2024-06-06,Small Domestic,Toaster,Europe-Central,Online Store,40,3,0.0,120.0,74.4,45.6
+BSH-ORD-11060,2024-08-16,Home Appliances,Vacuum Cleaner,North America,Distributor,220,3,0.05,627.0,409.2,217.8
+BSH-ORD-11061,2024-01-24,Home Appliances,Oven,Europe-West,Distributor,480,4,0.0,1920.0,1190.4,729.6
+BSH-ORD-11062,2025-11-04,Consumer Electronics,Soundbar,Europe-West,Distributor,180,4,0.05,684.0,446.4,237.6
+BSH-ORD-11063,2024-07-24,Home Appliances,Refrigerator,Middle East,Retail Partner,900,4,0.0,3600.0,2232.0,1368.0
+BSH-ORD-11064,2024-09-17,Home Appliances,Refrigerator,Europe-West,Online Store,900,7,0.0,6300.0,3906.0,2394.0
+BSH-ORD-11065,2024-10-19,Consumer Electronics,Air Conditioner,Europe-Central,Direct Sales,750,7,0.0,5250.0,3255.0,1995.0
+BSH-ORD-11066,2025-04-06,Home Appliances,Vacuum Cleaner,Asia-Pacific,Direct Sales,220,1,0.05,209.0,136.4,72.6
+BSH-ORD-11067,2025-10-29,Home Appliances,Oven,Europe-West,Online Store,480,4,0.0,1920.0,1190.4,729.6
+BSH-ORD-11068,2025-01-14,Consumer Electronics,Air Conditioner,Europe-Central,Retail Partner,750,7,0.0,5250.0,3255.0,1995.0
+BSH-ORD-11069,2025-02-06,Consumer Electronics,Espresso Machine,Europe-Central,Online Store,350,5,0.1,1575.0,1085.0,490.0
+BSH-ORD-11070,2025-08-12,Home Appliances,Dishwasher,Middle East,Online Store,550,3,0.0,1650.0,1023.0,627.0
+BSH-ORD-11071,2024-07-09,Home Appliances,Dishwasher,North America,Retail Partner,550,7,0.2,3080.0,2387.0,693.0
+BSH-ORD-11072,2025-01-28,Home Appliances,Vacuum Cleaner,Europe-West,Distributor,220,3,0.15,561.0,409.2,151.8
+BSH-ORD-11073,2025-12-16,Small Domestic,Blender,Europe-West,Direct Sales,65,3,0.0,195.0,120.9,74.1
+BSH-ORD-11074,2025-12-13,Consumer Electronics,Smart TV,Europe-Central,Retail Partner,800,7,0.1,5040.0,3472.0,1568.0
+BSH-ORD-11075,2025-03-19,Consumer Electronics,Soundbar,Europe-West,Direct Sales,180,3,0.05,513.0,334.8,178.2
+BSH-ORD-11076,2024-09-13,Consumer Electronics,Smart TV,Europe-Central,Online Store,800,1,0.05,760.0,496.0,264.0
+BSH-ORD-11077,2025-07-22,Home Appliances,Washing Machine,Europe-West,Online Store,650,7,0.1,4095.0,2821.0,1274.0
+BSH-ORD-11078,2024-11-05,Small Domestic,Kettle,Europe-West,Retail Partner,45,6,0.1,243.0,167.4,75.6
+BSH-ORD-11079,2024-10-28,Home Appliances,Dishwasher,North America,Online Store,550,6,0.05,3135.0,2046.0,1089.0
+BSH-ORD-11080,2024-12-13,Home Appliances,Oven,middle east,Direct Sales,480,6,0.1,2592.0,1785.6,806.4
+BSH-ORD-11081,2024-01-09,Home Appliances,Washing Machine,North America,Retail Partner,650,5,0.0,3250.0,2015.0,1235.0
+BSH-ORD-11082,2024-04-24,Consumer Electronics,Smart TV,Europe-West,Retail Partner,800,2,0.1,1440.0,992.0,448.0
+BSH-ORD-11083,2024-08-20,Home Appliances,Oven,Middle East,Online Store,480,1,0.1,432.0,297.6,134.4
+BSH-ORD-11084,2025-09-21,Home Appliances,Microwave,Europe-West,Direct Sales,160,1,0.0,160.0,99.2,60.8
+BSH-ORD-11085,2024-09-09,Home Appliances,Dishwasher,North America,Retail Partner,550,3,0.1,1485.0,1023.0,462.0
+BSH-ORD-11086,2024-03-20,Small Domestic,Kettle,Asia-Pacific,Retail Partner,45,5,0.2,180.0,139.5,40.5
+BSH-ORD-11087,2024-04-12,Consumer Electronics,Espresso Machine,Europe-West,Direct Sales,350,6,0.2,1680.0,1302.0,378.0
+BSH-ORD-11088,2024-08-19,Small Domestic,Toaster,Asia-Pacific,Retail Partner,40,4,0.1,144.0,99.2,44.8
+BSH-ORD-11089,2025-03-03,Home Appliances,Microwave,North America,Online Store,160,4,0.0,640.0,396.8,243.2
+BSH-ORD-11090,2024-08-10,Consumer Electronics,Smart TV,Middle East,Retail Partner,800,1,0.0,800.0,496.0,304.0
+BSH-ORD-11091,2024-09-26,Home Appliances,Microwave,North America,Retail Partner,160,5,0.2,640.0,496.0,144.0
+BSH-ORD-11092,2024-12-28,Home Appliances,Microwave,Europe-Central,Online Store,160,3,0.15,408.0,297.6,110.4
+BSH-ORD-11093,2025-02-25,Consumer Electronics,Soundbar,North America,Online Store,180,2,0.05,342.0,223.2,118.8
+BSH-ORD-11094,2025-01-26,Home Appliances,Dishwasher,North America,Online Store,550,4,0.0,2200.0,1364.0,836.0
+BSH-ORD-11095,2025-01-16,Small Domestic,Iron,Europe-Central,Direct Sales,55,1,0.05,52.25,34.1,18.15
+BSH-ORD-11096,2024-09-10,Home Appliances,Oven,Asia-Pacific,Retail Partner,480,6,0.05,2736.0,1785.6,950.4
+BSH-ORD-11097,2025-09-08,Consumer Electronics,Air Conditioner,Europe-Central,Direct Sales,750,1,0.0,750.0,465.0,285.0
+BSH-ORD-11098,2025-11-18,Home Appliances,Washing Machine,North America,Direct Sales,650,6,0.2,3120.0,2418.0,702.0
+BSH-ORD-11099,2025-03-02,Home Appliances,Refrigerator,Europe-West,Retail Partner,900,6,0.1,4860.0,3348.0,1512.0
+BSH-ORD-11100,2025-10-17,Consumer Electronics,Espresso Machine,Europe-Central,Online Store,350,7,0.15,2082.5,1519.0,563.5
+BSH-ORD-11101,2025-11-26,Home Appliances,Microwave,North America,Retail Partner,160,5,0.0,800.0,496.0,304.0
+BSH-ORD-11102,2024-11-09,Home Appliances,Vacuum Cleaner,Europe-West,Online Store,220,3,0.1,594.0,409.2,184.8
+BSH-ORD-11103,2024-11-29,Consumer Electronics,Soundbar,Asia-Pacific,Retail Partner,180,1,0.0,180.0,111.6,68.4
+BSH-ORD-11104,2024-02-23,Consumer Electronics,Soundbar,Asia-Pacific,Retail Partner,180,6,0.05,1026.0,669.6,356.4
+BSH-ORD-11105,2025-10-08,Home Appliances,Microwave,Europe-Central,Online Store,160,2,0.2,256.0,198.4,57.6
+BSH-ORD-11106,2024-05-07,Consumer Electronics,Smart TV,Asia-Pacific,Retail Partner,800,2,0.15,1360.0,992.0,368.0
+BSH-ORD-11107,2024-08-06,Home Appliances,Dishwasher,Asia-Pacific,Direct Sales,550,2,0.05,1045.0,682.0,363.0
+BSH-ORD-11108,2025-01-13,Consumer Electronics,Air Conditioner,Asia-Pacific,Retail Partner,750,6,0.1,4050.0,2790.0,1260.0
+BSH-ORD-11109,2025-07-05,Consumer Electronics,Soundbar,Europe-Central,Retail Partner,180,7,0.0,1260.0,781.2,478.8
+BSH-ORD-11110,2024-07-18,Home Appliances,Oven,Europe-Central,Retail Partner,480,1,0.0,480.0,297.6,182.4
+BSH-ORD-11111,2024-05-17,Consumer Electronics,Air Conditioner,Europe-West,Distributor,750,5,0.15,3187.5,2325.0,862.5
+BSH-ORD-11112,2024-11-06,Home Appliances,Refrigerator,North America,Online Store,900,1,0.2,720.0,558.0,162.0
+BSH-ORD-11113,2024-01-11,Home Appliances,Dishwasher,Middle East,Direct Sales,550,1,0.0,550.0,341.0,209.0
+BSH-ORD-11114,2025-08-17,Consumer Electronics,Air Conditioner,Europe-West,Direct Sales,750,2,0.1,1350.0,930.0,420.0
+BSH-ORD-11115,2025-11-01,Small Domestic,Toaster,Middle East,Direct Sales,40,7,0.05,266.0,173.6,92.4
+BSH-ORD-11116,2025-06-29,Home Appliances,Dishwasher,Europe-Central,Distributor,550,7,0.0,3850.0,2387.0,1463.0
+BSH-ORD-11117,2025-08-15,Consumer Electronics,Espresso Machine,Middle East,Online Store,350,5,0.15,1487.5,1085.0,402.5
+BSH-ORD-11118,2024-10-23,Small Domestic,Iron,Europe-West,Online Store,55,1,0.0,55.0,34.1,20.9
+BSH-ORD-11119,2024-11-21,Home Appliances,Dishwasher,Europe-Central,Retail Partner,550,2,0.2,880.0,682.0,198.0
+BSH-ORD-11120,2024-06-13,Home Appliances,Vacuum Cleaner,Europe-Central,Online Store,220,7,,1540.0,954.8,585.2
+BSH-ORD-11121,2025-06-13,Consumer Electronics,Air Conditioner,Europe-West,Retail Partner,750,4,0.0,3000.0,1860.0,1140.0
+BSH-ORD-11122,2025-12-07,Consumer Electronics,Soundbar,Europe-West,Retail Partner,180,6,0.1,972.0,669.6,302.4
+BSH-ORD-11123,2025-10-18,Home Appliances,Washing Machine,Europe-Central,Retail Partner,650,4,0.0,2600.0,1612.0,988.0
+BSH-ORD-11124,2025-05-14,Home Appliances,Vacuum Cleaner,Europe-Central,Retail Partner,220,7,0.05,1463.0,954.8,508.2
+BSH-ORD-11125,2024-06-09,Home Appliances,Oven,North America,Distributor,480,6,0.15,2448.0,1785.6,662.4
+BSH-ORD-11126,2024-12-05,Home Appliances,Dishwasher,Middle East,Distributor,550,7,0.15,3272.5,2387.0,885.5
+BSH-ORD-11127,2024-07-20,Consumer Electronics,Soundbar,Europe-West,Direct Sales,180,5,0.0,900.0,558.0,342.0
+BSH-ORD-11128,2025-02-14,Home Appliances,Vacuum Cleaner,Europe-West,Online Store,220,7,0.05,1463.0,954.8,508.2
+BSH-ORD-11129,2025-07-13,Small Domestic,Iron,Europe-West,Distributor,55,1,0.05,52.25,34.1,18.15
+BSH-ORD-11130,2024-12-06,Consumer Electronics,Espresso Machine,Europe-West,Retail Partner,350,2,0.0,700.0,434.0,266.0
+BSH-ORD-11131,2024-12-28,Small Domestic,Iron,Asia-Pacific,Online Store,55,7,0.0,385.0,238.7,146.3
+BSH-ORD-11132,2024-09-05,Home Appliances,Vacuum Cleaner,North America,Retail Partner,220,1,0.0,220.0,136.4,83.6
+BSH-ORD-11133,2024-05-04,Home Appliances,Dishwasher,Europe-West,Retail Partner,550,6,0.05,3135.0,2046.0,1089.0
+BSH-ORD-11134,2024-04-15,Consumer Electronics,Soundbar,Europe-West,Direct Sales,180,3,0.0,540.0,334.8,205.2
+BSH-ORD-11135,2025-07-04,Home Appliances,Oven,Europe-West,Retail Partner,480,2,0.15,816.0,595.2,220.8
+BSH-ORD-11136,2024-07-02,Home Appliances,Microwave,Europe-West,Retail Partner,160,6,0.0,960.0,595.2,364.8
+BSH-ORD-11137,2025-02-18,Consumer Electronics,Espresso Machine,Europe-West,Retail Partner,350,4,0.1,1260.0,868.0,392.0
+BSH-ORD-11138,2025-02-25,Consumer Electronics,Soundbar,Europe-Central,Online Store,180,2,0.0,360.0,223.2,136.8
+BSH-ORD-11139,2025-08-22,Home Appliances,Oven,Europe-Central,Online Store,480,6,0.0,2880.0,1785.6,1094.4
+BSH-ORD-11140,2024-05-12,Home Appliances,Refrigerator,Europe-Central,Direct Sales,900,5,0.1,4050.0,2790.0,1260.0
+BSH-ORD-11141,2025-04-15,Home Appliances,Oven,Europe-West,Direct Sales,480,2,0.1,864.0,595.2,268.8
+BSH-ORD-11142,2025-01-16,Home Appliances,Vacuum Cleaner,Middle East,Online Store,220,4,0.0,880.0,545.6,334.4
+BSH-ORD-11143,2025-04-05,Consumer Electronics,Smart TV,Europe-West,Retail Partner,800,6,0.1,4320.0,2976.0,1344.0
+BSH-ORD-11144,2025-05-11,Consumer Electronics,Air Conditioner,Europe-West,Retail Partner,750,2,0.05,1425.0,930.0,495.0
+BSH-ORD-11145,2024-02-11,Home Appliances,Dishwasher,Europe-West,Direct Sales,550,2,0.0,1100.0,682.0,418.0
+BSH-ORD-11146,2025-03-06,Home Appliances,Refrigerator,North America,Retail Partner,900,5,0.1,4050.0,2790.0,1260.0
+BSH-ORD-11147,2024-05-09,Home Appliances,Oven,Europe-West,Retail Partner,480,6,0.1,2592.0,1785.6,806.4
+BSH-ORD-11148,2025-08-07,Home Appliances,Dishwasher,North America,Distributor,550,4,0.05,2090.0,1364.0,726.0
+BSH-ORD-11149,2024-05-29,Home Appliances,Refrigerator,Middle East,Retail Partner,900,3,0.1,2430.0,1674.0,756.0
+BSH-ORD-11150,2024-08-26,Home Appliances,Microwave,Europe-Central,Direct Sales,160,7,0.1,1008.0,694.4,313.6
+BSH-ORD-11151,2024-06-13,Home Appliances,Refrigerator,North America,Online Store,900,5,0.2,3600.0,2790.0,810.0
+BSH-ORD-11152,2024-08-26,Home Appliances,Refrigerator,Europe-West,Retail Partner,900,4,0.1,3240.0,2232.0,1008.0
+BSH-ORD-11153,2025-08-11,Small Domestic,Toaster,Middle East,Retail Partner,40,1,0.1,36.0,24.8,11.2
+BSH-ORD-11154,2024-07-19,Consumer Electronics,Smart TV,Middle East,Direct Sales,800,2,0.1,1440.0,992.0,448.0
+BSH-ORD-11155,2025-11-30,Consumer Electronics,Air Conditioner,Europe-Central,Online Store,750,6,0.05,4275.0,2790.0,1485.0
+BSH-ORD-11156,2024-08-02,Home Appliances,Oven,Europe-Central,Direct Sales,480,7,0.15,2856.0,2083.2,772.8
+BSH-ORD-11157,2024-01-09,Home Appliances,Washing Machine,Europe-Central,Retail Partner,650,5,0.0,3250.0,2015.0,1235.0
+BSH-ORD-11158,2024-06-17,Consumer Electronics,Soundbar,Asia-Pacific,Online Store,180,7,0.0,1260.0,781.2,478.8
+BSH-ORD-11159,2025-07-01,Home Appliances,Oven,Middle East,Online Store,480,4,0.05,1824.0,1190.4,633.6
+BSH-ORD-11160,2024-04-13,Home Appliances,Microwave,Europe-Central,Distributor,160,2,0.0,320.0,198.4,121.6
+BSH-ORD-11161,2024-10-03,Consumer Electronics,Espresso Machine,Europe-West,Retail Partner,350,7,0.15,2082.5,1519.0,563.5
+BSH-ORD-11162,2025-01-14,Small Domestic,Kettle,Europe-Central,Direct Sales,45,6,0.0,270.0,167.4,102.6
+BSH-ORD-11163,2024-11-28,Home Appliances,Washing Machine,Europe-West,Distributor,650,5,0.0,3250.0,2015.0,1235.0
+BSH-ORD-11164,2025-01-03,Home Appliances,Vacuum Cleaner,Europe-West,Online Store,220,3,0.05,627.0,409.2,217.8
+BSH-ORD-11165,2024-11-15,Consumer Electronics,Air Conditioner,Asia-Pacific,Direct Sales,750,5,0.0,3750.0,2325.0,1425.0
+BSH-ORD-11166,2025-12-09,Home Appliances,Washing Machine,North America,Direct Sales,650,2,0.0,1300.0,806.0,494.0
+BSH-ORD-11167,2024-05-11,Consumer Electronics,Soundbar,Middle East,Direct Sales,180,7,0.1,1134.0,781.2,352.8
+BSH-ORD-11168,2024-02-12,Consumer Electronics,Soundbar,Europe-West,Direct Sales,180,2,0.05,342.0,223.2,118.8
+BSH-ORD-11169,2025-12-16,Small Domestic,Iron,Asia-Pacific,Online Store,55,5,0.0,275.0,170.5,104.5
+BSH-ORD-11170,2024-11-25,Small Domestic,Toaster,Europe-Central,Online Store,40,3,0.0,120.0,74.4,45.6
+BSH-ORD-11171,2024-10-02,Consumer Electronics,Soundbar,Europe-West,Online Store,180,2,0.05,342.0,223.2,118.8
+BSH-ORD-11172,2024-04-24,Small Domestic,Blender,Europe-Central,Retail Partner,65,6,0.15,331.5,241.8,89.7
+BSH-ORD-11173,2025-09-14,Small Domestic,Kettle,North America,Retail Partner,45,6,0.0,270.0,167.4,102.6
+BSH-ORD-11174,2025-02-17,Small Domestic,Blender,North America,Online Store,65,6,0.15,331.5,241.8,89.7
+BSH-ORD-11175,2024-06-07,Home Appliances,Washing Machine,Europe-West,Direct Sales,650,1,0.0,650.0,403.0,247.0
+BSH-ORD-11176,2024-05-23,Home Appliances,Microwave,Europe-Central,Online Store,160,5,0.0,800.0,496.0,304.0
+BSH-ORD-11177,2025-04-26,Small Domestic,Kettle,Europe-Central,Online Store,45,6,0.1,243.0,167.4,75.6
+BSH-ORD-11178,2024-06-04,Home Appliances,Washing Machine,Europe-West,Online Store,650,3,0.15,1657.5,1209.0,448.5
+BSH-ORD-11179,2024-09-26,Home Appliances,Microwave,Middle East,Retail Partner,160,3,0.05,456.0,297.6,158.4
+BSH-ORD-11180,2024-10-11,Small Domestic,Blender,North America,Retail Partner,65,7,0.1,409.5,282.1,127.4
+BSH-ORD-11181,2025-11-12,Small Domestic,Toaster,Europe-Central,Online Store,40,3,0.15,102.0,74.4,27.6
+BSH-ORD-11182,2024-05-15,Consumer Electronics,Air Conditioner,North America,Online Store,750,4,0.1,2700.0,1860.0,840.0
+BSH-ORD-11183,2025-05-13,Home Appliances,Vacuum Cleaner,Europe-Central,Distributor,220,3,0.15,561.0,409.2,151.8
+BSH-ORD-11184,2024-02-22,Home Appliances,Dishwasher,North America,Retail Partner,550,4,0.05,2090.0,1364.0,726.0
+BSH-ORD-11185,2024-02-16,Small Domestic,Iron,Europe-West,Online Store,55,4,0.15,187.0,136.4,50.6
+BSH-ORD-11186,2025-10-12,Home Appliances,Washing Machine,Europe-Central,Online Store,650,2,0.0,1300.0,806.0,494.0
+BSH-ORD-11187,2025-07-04,Home Appliances,Dishwasher,Europe-West,Retail Partner,550,5,0.0,2750.0,1705.0,1045.0
+BSH-ORD-11188,2024-09-01,Home Appliances,Vacuum Cleaner,Europe-West,Direct Sales,220,1,0.05,209.0,136.4,72.6
+BSH-ORD-11189,2025-01-02,Home Appliances,Washing Machine,North America,Online Store,650,5,0.1,2925.0,2015.0,910.0
+BSH-ORD-11190,2024-10-29,Home Appliances,Refrigerator,Europe-West,Distributor,900,4,0.0,3600.0,2232.0,1368.0
+BSH-ORD-11191,2024-09-24,Small Domestic,Toaster,Europe-Central,Retail Partner,40,7,0.0,280.0,173.6,106.4
+BSH-ORD-11192,2025-07-14,Consumer Electronics,Smart TV,Asia-Pacific,Distributor,800,2,0.0,1600.0,992.0,608.0
+BSH-ORD-11193,2025-05-24,Consumer Electronics,Soundbar,Europe-Central,Retail Partner,180,7,0.0,1260.0,781.2,478.8
+BSH-ORD-11194,2025-07-11,Consumer Electronics,Soundbar,Europe-Central,Retail Partner,180,3,0.0,540.0,334.8,205.2
+BSH-ORD-11195,2025-12-02,Small Domestic,Toaster,Europe-West,Retail Partner,40,6,0.05,228.0,148.8,79.2
+BSH-ORD-11196,2025-07-11,Home Appliances,Washing Machine,Europe-West,Retail Partner,650,1,0.1,585.0,403.0,182.0
+BSH-ORD-11197,2024-09-02,Home Appliances,Oven,Middle East,Online Store,480,3,0.0,1440.0,892.8,547.2
+BSH-ORD-11198,2024-10-18,Consumer Electronics,Smart TV,Europe-Central,Direct Sales,800,7,0.05,5320.0,3472.0,1848.0
+BSH-ORD-11199,2025-07-22,Home Appliances,Washing Machine,Europe-Central,Retail Partner,650,5,0.0,3250.0,2015.0,1235.0
+BSH-ORD-11200,2024-04-20,Home Appliances,Oven,north america,Online Store,480,-1,,480.0,297.6,182.4
+BSH-ORD-11201,2024-06-15,Consumer Electronics,Air Conditioner,Europe-Central,Direct Sales,750,1,0.15,637.5,465.0,172.5
+BSH-ORD-11202,2024-02-21,Home Appliances,Oven,Middle East,Distributor,480,1,0.1,432.0,297.6,134.4
+BSH-ORD-11203,2025-09-12,Home Appliances,Oven,Asia-Pacific,Online Store,480,4,0.0,1920.0,1190.4,729.6
+BSH-ORD-11204,2025-09-08,Home Appliances,Oven,North America,Retail Partner,480,3,0.1,1296.0,892.8,403.2
+BSH-ORD-11205,2025-02-05,Small Domestic,Iron,Europe-Central,Retail Partner,55,4,0.05,209.0,136.4,72.6
+BSH-ORD-11206,2024-01-11,Consumer Electronics,Soundbar,Asia-Pacific,Online Store,180,3,0.1,486.0,334.8,151.2
+BSH-ORD-11207,2025-11-19,Consumer Electronics,Smart TV,Europe-Central,Direct Sales,800,5,0.0,4000.0,2480.0,1520.0
+BSH-ORD-11208,2024-05-26,Home Appliances,Vacuum Cleaner,Europe-Central,Direct Sales,220,2,0.0,440.0,272.8,167.2
+BSH-ORD-11209,2024-09-13,Home Appliances,Washing Machine,Asia-Pacific,Retail Partner,650,4,0.05,2470.0,1612.0,858.0
+BSH-ORD-11210,2024-08-08,Home Appliances,Dishwasher,Europe-Central,Online Store,550,2,0.0,1100.0,682.0,418.0
+BSH-ORD-11211,2025-05-11,Home Appliances,Oven,Asia-Pacific,Online Store,480,5,0.0,2400.0,1488.0,912.0
+BSH-ORD-11212,2025-01-18,Small Domestic,Kettle,Europe-Central,Direct Sales,45,7,0.0,315.0,195.3,119.7
+BSH-ORD-11213,2025-12-19,Home Appliances,Refrigerator,North America,Online Store,900,3,0.05,2565.0,1674.0,891.0
+BSH-ORD-11214,2024-01-15,Home Appliances,Dishwasher,Europe-West,Distributor,550,4,0.05,2090.0,1364.0,726.0
+BSH-ORD-11215,2024-12-16,Home Appliances,Microwave,Middle East,Online Store,160,6,0.0,960.0,595.2,364.8
+BSH-ORD-11216,2025-08-04,Home Appliances,Microwave,Asia-Pacific,Distributor,160,6,0.0,960.0,595.2,364.8
+BSH-ORD-11217,2024-01-31,Home Appliances,Washing Machine,Europe-West,Direct Sales,650,7,0.1,4095.0,2821.0,1274.0
+BSH-ORD-11218,2025-07-02,Small Domestic,Toaster,North America,Online Store,40,5,0.15,170.0,124.0,46.0
+BSH-ORD-11219,2025-01-27,Home Appliances,Microwave,Europe-Central,Distributor,160,5,0.05,760.0,496.0,264.0
+BSH-ORD-11220,2025-03-10,Home Appliances,Vacuum Cleaner,North America,Online Store,220,1,0.0,220.0,136.4,83.6
+BSH-ORD-11221,2025-04-10,Home Appliances,Refrigerator,Europe-Central,Retail Partner,900,7,0.05,5985.0,3906.0,2079.0
+BSH-ORD-11222,2024-08-21,Small Domestic,Kettle,North America,Retail Partner,45,5,0.1,202.5,139.5,63.0
+BSH-ORD-11223,2024-12-16,Home Appliances,Washing Machine,North America,Direct Sales,650,6,0.05,3705.0,2418.0,1287.0
+BSH-ORD-11224,2024-12-18,Home Appliances,Dishwasher,Europe-West,Distributor,550,6,0.1,2970.0,2046.0,924.0
+BSH-ORD-11225,2025-08-13,Small Domestic,Blender,Europe-West,Direct Sales,65,1,0.05,61.75,40.3,21.45
+BSH-ORD-11226,2025-06-21,Small Domestic,Kettle,North America,Direct Sales,45,3,0.05,128.25,83.7,44.55
+BSH-ORD-11227,2025-11-29,Home Appliances,Oven,Europe-West,Distributor,480,3,0.15,1224.0,892.8,331.2
+BSH-ORD-11228,2024-05-28,Consumer Electronics,Air Conditioner,Europe-West,Distributor,750,6,0.1,4050.0,2790.0,1260.0
+BSH-ORD-11229,2025-05-06,Home Appliances,Microwave,Europe-West,Retail Partner,160,5,0.0,800.0,496.0,304.0
+BSH-ORD-11230,2025-12-08,Home Appliances,Dishwasher,Europe-Central,Online Store,550,1,0.0,550.0,341.0,209.0
+BSH-ORD-11231,2025-12-12,Consumer Electronics,Smart TV,North America,Direct Sales,800,7,0.15,4760.0,3472.0,1288.0
+BSH-ORD-11232,2025-12-08,Home Appliances,Dishwasher,Europe-Central,Online Store,550,3,0.0,1650.0,1023.0,627.0
+BSH-ORD-11233,2024-12-24,Consumer Electronics,Soundbar,Asia-Pacific,Online Store,180,5,0.0,900.0,558.0,342.0
+BSH-ORD-11234,2024-07-17,Consumer Electronics,Espresso Machine,North America,Retail Partner,350,1,0.15,297.5,217.0,80.5
+BSH-ORD-11235,2024-04-18,Consumer Electronics,Soundbar,North America,Online Store,180,5,0.1,810.0,558.0,252.0
+BSH-ORD-11236,2024-08-31,Home Appliances,Washing Machine,Asia-Pacific,Retail Partner,650,4,0.0,2600.0,1612.0,988.0
+BSH-ORD-11237,2024-12-07,Home Appliances,Microwave,Middle East,Online Store,160,6,0.0,960.0,595.2,364.8
+BSH-ORD-11238,2025-07-08,Home Appliances,Microwave,North America,Online Store,160,3,0.0,480.0,297.6,182.4
+BSH-ORD-11239,2024-02-29,Home Appliances,Vacuum Cleaner,Middle East,Retail Partner,220,7,0.2,1232.0,954.8,277.2
+BSH-ORD-11240,2025-12-18,Small Domestic,Blender,Europe-Central,Retail Partner,65,5,0.0,325.0,201.5,123.5
+BSH-ORD-11241,2024-03-31,Home Appliances,Refrigerator,Europe-West,Online Store,900,1,0.15,765.0,558.0,207.0
+BSH-ORD-11242,2024-11-01,Small Domestic,Blender,Europe-West,Retail Partner,65,4,0.2,208.0,161.2,46.8
+BSH-ORD-11243,2025-12-30,Consumer Electronics,Smart TV,North America,Online Store,800,1,0.1,720.0,496.0,224.0
+BSH-ORD-11244,2024-07-23,Home Appliances,Vacuum Cleaner,Europe-West,Online Store,220,4,0.05,836.0,545.6,290.4
+BSH-ORD-11245,2025-03-06,Small Domestic,Toaster,Asia-Pacific,Retail Partner,40,7,0.0,280.0,173.6,106.4
+BSH-ORD-11246,2025-12-14,Small Domestic,Toaster,Europe-Central,Direct Sales,40,1,0.05,38.0,24.8,13.2
+BSH-ORD-11247,2024-02-07,Home Appliances,Microwave,Europe-West,Retail Partner,160,7,0.1,1008.0,694.4,313.6
+BSH-ORD-11248,2025-07-22,Consumer Electronics,Espresso Machine,Asia-Pacific,Retail Partner,350,4,0.1,1260.0,868.0,392.0
+BSH-ORD-11249,2025-08-23,Home Appliances,Washing Machine,Europe-West,Distributor,650,1,0.1,585.0,403.0,182.0
+BSH-ORD-11250,2025-02-16,Small Domestic,Kettle,Europe-West,Retail Partner,45,4,0.0,180.0,111.6,68.4
+BSH-ORD-11251,2025-07-14,Home Appliances,Oven,Europe-West,Direct Sales,480,2,0.1,864.0,595.2,268.8
+BSH-ORD-11252,2024-06-26,Home Appliances,Refrigerator,Europe-Central,Online Store,900,7,0.0,6300.0,3906.0,2394.0
+BSH-ORD-11253,2025-09-28,Small Domestic,Iron,North America,Retail Partner,55,1,0.0,55.0,34.1,20.9
+BSH-ORD-11254,2025-01-16,Home Appliances,Microwave,Europe-West,Direct Sales,160,6,0.0,960.0,595.2,364.8
+BSH-ORD-11255,2025-11-28,Home Appliances,Oven,Europe-Central,Online Store,480,1,0.0,480.0,297.6,182.4
+BSH-ORD-11256,2024-06-29,Home Appliances,Microwave,Europe-West,Online Store,160,3,0.0,480.0,297.6,182.4
+BSH-ORD-11257,2025-04-17,Consumer Electronics,Espresso Machine,Europe-Central,Direct Sales,350,7,0.05,2327.5,1519.0,808.5
+BSH-ORD-11258,2025-05-07,Home Appliances,Dishwasher,Europe-Central,Retail Partner,550,3,0.1,1485.0,1023.0,462.0
+BSH-ORD-11259,2025-07-02,Consumer Electronics,Air Conditioner,Europe-Central,Retail Partner,750,2,0.0,1500.0,930.0,570.0
+BSH-ORD-11260,2024-05-26,Small Domestic,Kettle,North America,Direct Sales,45,7,0.1,283.5,195.3,88.2
+BSH-ORD-11261,2025-03-24,Consumer Electronics,Air Conditioner,Middle East,Retail Partner,750,6,0.0,4500.0,2790.0,1710.0
+BSH-ORD-11262,2025-10-10,Consumer Electronics,Smart TV,Europe-West,Retail Partner,800,2,0.05,1520.0,992.0,528.0
+BSH-ORD-11263,2025-03-02,Home Appliances,Microwave,Europe-West,Online Store,160,3,0.0,480.0,297.6,182.4
+BSH-ORD-11264,2025-10-14,Consumer Electronics,Smart TV,North America,Retail Partner,800,6,0.2,3840.0,2976.0,864.0
+BSH-ORD-11265,2025-08-21,Consumer Electronics,Soundbar,Europe-West,Online Store,180,3,0.0,540.0,334.8,205.2
+BSH-ORD-11266,2025-01-18,Consumer Electronics,Air Conditioner,Europe-West,Direct Sales,750,7,0.05,4987.5,3255.0,1732.5
+BSH-ORD-11267,2025-09-10,Small Domestic,Kettle,Middle East,Retail Partner,45,1,0.0,45.0,27.9,17.1
+BSH-ORD-11268,2025-08-29,Home Appliances,Vacuum Cleaner,Europe-Central,Online Store,220,4,0.05,836.0,545.6,290.4
+BSH-ORD-11269,2024-08-03,Home Appliances,Washing Machine,Europe-West,Retail Partner,650,5,0.0,3250.0,2015.0,1235.0
+BSH-ORD-11270,2025-06-16,Home Appliances,Oven,Europe-Central,Online Store,480,5,0.0,2400.0,1488.0,912.0
+BSH-ORD-11271,2025-11-02,Consumer Electronics,Espresso Machine,Europe-Central,Online Store,350,4,0.05,1330.0,868.0,462.0
+BSH-ORD-11272,2024-02-20,Consumer Electronics,Air Conditioner,Europe-West,Online Store,750,7,0.15,4462.5,3255.0,1207.5
+BSH-ORD-11273,2024-01-23,Home Appliances,Dishwasher,Europe-West,Retail Partner,550,3,0.0,1650.0,1023.0,627.0
+BSH-ORD-11274,2025-10-04,Consumer Electronics,Air Conditioner,Europe-West,Online Store,750,5,0.15,3187.5,2325.0,862.5
+BSH-ORD-11275,2025-01-22,Home Appliances,Refrigerator,North America,Online Store,900,3,0.1,2430.0,1674.0,756.0
+BSH-ORD-11276,2024-08-20,Home Appliances,Microwave,Middle East,Online Store,160,2,0.05,304.0,198.4,105.6
+BSH-ORD-11277,2024-08-14,Consumer Electronics,Air Conditioner,Middle East,Distributor,750,4,0.2,2400.0,1860.0,540.0
+BSH-ORD-11278,2024-03-01,Home Appliances,Vacuum Cleaner,Europe-Central,Online Store,220,1,0.0,220.0,136.4,83.6
+BSH-ORD-11279,2024-02-13,Home Appliances,Microwave,Middle East,Direct Sales,160,3,0.05,456.0,297.6,158.4
+BSH-ORD-11280,2025-02-20,Home Appliances,Microwave,Europe-West,Direct Sales,160,1,,160.0,99.2,60.8
+BSH-ORD-11281,2025-12-17,Small Domestic,Iron,Europe-West,Direct Sales,55,3,0.0,165.0,102.3,62.7
+BSH-ORD-11282,2025-07-17,Home Appliances,Oven,Europe-West,Direct Sales,480,5,0.1,2160.0,1488.0,672.0
+BSH-ORD-11283,2024-09-04,Small Domestic,Blender,Middle East,Distributor,65,7,0.0,455.0,282.1,172.9
+BSH-ORD-11284,2025-12-01,Home Appliances,Oven,Middle East,Online Store,480,7,0.05,3192.0,2083.2,1108.8
+BSH-ORD-11285,2024-04-22,Home Appliances,Oven,Europe-Central,Distributor,480,1,0.0,480.0,297.6,182.4
+BSH-ORD-11286,2025-04-26,Home Appliances,Washing Machine,Europe-Central,Online Store,650,2,0.05,1235.0,806.0,429.0
+BSH-ORD-11287,2024-07-18,Small Domestic,Kettle,Europe-Central,Distributor,45,2,0.05,85.5,55.8,29.7
+BSH-ORD-11288,2024-03-02,Home Appliances,Refrigerator,Europe-West,Direct Sales,900,3,0.0,2700.0,1674.0,1026.0
+BSH-ORD-11289,2024-08-05,Consumer Electronics,Air Conditioner,Asia-Pacific,Distributor,750,5,0.05,3562.5,2325.0,1237.5
+BSH-ORD-11290,2025-04-25,Home Appliances,Washing Machine,North America,Online Store,650,7,0.0,4550.0,2821.0,1729.0
+BSH-ORD-11291,2025-08-23,Home Appliances,Dishwasher,Europe-Central,Retail Partner,550,5,0.1,2475.0,1705.0,770.0
+BSH-ORD-11292,2025-04-12,Small Domestic,Kettle,Europe-Central,Online Store,45,2,0.1,81.0,55.8,25.2
+BSH-ORD-11293,2024-01-20,Small Domestic,Toaster,Asia-Pacific,Retail Partner,40,1,0.0,40.0,24.8,15.2
+BSH-ORD-11294,2024-12-15,Consumer Electronics,Air Conditioner,Asia-Pacific,Retail Partner,750,4,0.15,2550.0,1860.0,690.0
+BSH-ORD-11295,2025-02-24,Home Appliances,Washing Machine,Europe-Central,Online Store,650,2,0.1,1170.0,806.0,364.0
+BSH-ORD-11296,2024-04-19,Consumer Electronics,Espresso Machine,Europe-West,Online Store,350,5,0.15,1487.5,1085.0,402.5
+BSH-ORD-11297,2024-12-09,Small Domestic,Kettle,Middle East,Online Store,45,3,0.2,108.0,83.7,24.3
+BSH-ORD-11298,2024-07-02,Home Appliances,Refrigerator,Europe-West,Retail Partner,900,4,0.05,3420.0,2232.0,1188.0
+BSH-ORD-11299,2025-09-28,Home Appliances,Dishwasher,North America,Retail Partner,550,5,0.1,2475.0,1705.0,770.0
+BSH-ORD-11300,2024-01-09,Home Appliances,Washing Machine,Europe-Central,Online Store,650,2,0.1,1170.0,806.0,364.0
+BSH-ORD-11301,2024-02-02,Home Appliances,Vacuum Cleaner,Asia-Pacific,Online Store,220,2,0.2,352.0,272.8,79.2
+BSH-ORD-11302,2024-12-04,Small Domestic,Iron,Europe-West,Distributor,55,5,0.0,275.0,170.5,104.5
+BSH-ORD-11303,2024-12-03,Consumer Electronics,Air Conditioner,Asia-Pacific,Online Store,750,1,0.1,675.0,465.0,210.0
+BSH-ORD-11304,2025-05-09,Home Appliances,Vacuum Cleaner,Europe-West,Online Store,220,1,0.1,198.0,136.4,61.6
+BSH-ORD-11305,2025-10-23,Home Appliances,Oven,North America,Online Store,480,5,0.2,1920.0,1488.0,432.0
+BSH-ORD-11306,2024-12-10,Home Appliances,Microwave,Europe-West,Direct Sales,160,1,0.05,152.0,99.2,52.8
+BSH-ORD-11307,2025-07-15,Home Appliances,Washing Machine,Europe-Central,Distributor,650,7,0.05,4322.5,2821.0,1501.5
+BSH-ORD-11308,2024-06-21,Consumer Electronics,Soundbar,Middle East,Direct Sales,180,3,0.0,540.0,334.8,205.2
+BSH-ORD-11309,2025-08-28,Home Appliances,Microwave,Europe-West,Online Store,160,1,0.2,128.0,99.2,28.8
+BSH-ORD-11310,2025-07-06,Home Appliances,Microwave,Europe-West,Retail Partner,160,7,0.0,1120.0,694.4,425.6
+BSH-ORD-11311,2025-07-14,Home Appliances,Refrigerator,North America,Online Store,900,3,0.0,2700.0,1674.0,1026.0
+BSH-ORD-11312,2025-10-09,Consumer Electronics,Smart TV,Europe-West,Online Store,800,7,0.05,5320.0,3472.0,1848.0
+BSH-ORD-11313,2024-09-10,Home Appliances,Microwave,Europe-West,Online Store,160,6,0.0,960.0,595.2,364.8
+BSH-ORD-11314,2024-07-26,Consumer Electronics,Soundbar,Middle East,Online Store,180,5,0.0,900.0,558.0,342.0
+BSH-ORD-11315,2024-02-16,Small Domestic,Blender,Asia-Pacific,Retail Partner,65,2,0.1,117.0,80.6,36.4
+BSH-ORD-11316,2024-06-05,Home Appliances,Washing Machine,Europe-West,Distributor,650,7,0.05,4322.5,2821.0,1501.5
+BSH-ORD-11317,2024-01-15,Home Appliances,Microwave,Europe-Central,Online Store,160,3,0.0,480.0,297.6,182.4
+BSH-ORD-11318,2025-04-30,Consumer Electronics,Smart TV,Europe-West,Direct Sales,800,3,0.15,2040.0,1488.0,552.0
+BSH-ORD-11319,2024-05-22,Home Appliances,Dishwasher,Europe-Central,Retail Partner,550,4,0.0,2200.0,1364.0,836.0
+BSH-ORD-11320,2024-03-17,Small Domestic,Kettle,europe-west,Retail Partner,45,4,0.1,162.0,111.6,50.4
+BSH-ORD-11321,2024-12-04,Consumer Electronics,Espresso Machine,Europe-Central,Online Store,350,1,0.0,350.0,217.0,133.0
+BSH-ORD-11322,2025-12-18,Home Appliances,Vacuum Cleaner,Europe-Central,Online Store,220,5,0.0,1100.0,682.0,418.0
+BSH-ORD-11323,2024-03-10,Small Domestic,Kettle,North America,Online Store,45,4,0.15,153.0,111.6,41.4
+BSH-ORD-11324,2024-10-22,Home Appliances,Microwave,Asia-Pacific,Online Store,160,7,0.05,1064.0,694.4,369.6
+BSH-ORD-11325,2024-07-01,Home Appliances,Oven,Europe-Central,Online Store,480,1,0.1,432.0,297.6,134.4
+BSH-ORD-11326,2024-12-01,Small Domestic,Kettle,Asia-Pacific,Online Store,45,4,0.05,171.0,111.6,59.4
+BSH-ORD-11327,2024-01-24,Consumer Electronics,Smart TV,Europe-West,Direct Sales,800,3,0.05,2280.0,1488.0,792.0
+BSH-ORD-11328,2025-03-25,Home Appliances,Oven,Europe-West,Distributor,480,4,0.0,1920.0,1190.4,729.6
+BSH-ORD-11329,2025-10-10,Small Domestic,Blender,Europe-Central,Online Store,65,5,0.1,292.5,201.5,91.0
+BSH-ORD-11330,2024-12-10,Small Domestic,Toaster,Europe-Central,Online Store,40,5,0.0,200.0,124.0,76.0
+BSH-ORD-11331,2024-07-06,Small Domestic,Blender,North America,Online Store,65,7,0.1,409.5,282.1,127.4
+BSH-ORD-11332,2024-10-29,Home Appliances,Vacuum Cleaner,North America,Online Store,220,5,0.0,1100.0,682.0,418.0
+BSH-ORD-11333,2025-05-17,Consumer Electronics,Smart TV,Middle East,Direct Sales,800,5,0.15,3400.0,2480.0,920.0
+BSH-ORD-11334,2025-12-10,Home Appliances,Washing Machine,North America,Online Store,650,7,0.05,4322.5,2821.0,1501.5
+BSH-ORD-11335,2024-07-29,Small Domestic,Kettle,Europe-West,Retail Partner,45,3,0.0,135.0,83.7,51.3
+BSH-ORD-11336,2024-02-02,Home Appliances,Dishwasher,Asia-Pacific,Online Store,550,4,0.15,1870.0,1364.0,506.0
+BSH-ORD-11337,2025-03-14,Consumer Electronics,Air Conditioner,Europe-West,Online Store,750,5,0.2,3000.0,2325.0,675.0
+BSH-ORD-11338,2024-06-23,Home Appliances,Microwave,Asia-Pacific,Online Store,160,2,0.0,320.0,198.4,121.6
+BSH-ORD-11339,2025-01-11,Home Appliances,Dishwasher,Europe-West,Retail Partner,550,7,0.05,3657.5,2387.0,1270.5
+BSH-ORD-11340,2024-12-18,Consumer Electronics,Air Conditioner,Europe-Central,Online Store,750,1,0.05,712.5,465.0,247.5
+BSH-ORD-11341,2025-08-05,Consumer Electronics,Smart TV,Middle East,Distributor,800,3,0.0,2400.0,1488.0,912.0
+BSH-ORD-11342,2024-04-30,Home Appliances,Oven,Europe-Central,Online Store,480,6,0.05,2736.0,1785.6,950.4
+BSH-ORD-11343,2024-06-23,Home Appliances,Microwave,Asia-Pacific,Direct Sales,160,6,0.15,816.0,595.2,220.8
+BSH-ORD-11344,2024-11-13,Home Appliances,Microwave,Europe-West,Retail Partner,160,7,0.1,1008.0,694.4,313.6
+BSH-ORD-11345,2024-09-12,Small Domestic,Iron,Europe-West,Distributor,55,1,0.0,55.0,34.1,20.9
+BSH-ORD-11346,2024-08-20,Home Appliances,Oven,Europe-West,Retail Partner,480,2,0.05,912.0,595.2,316.8
+BSH-ORD-11347,2025-11-25,Home Appliances,Washing Machine,Middle East,Retail Partner,650,7,0.0,4550.0,2821.0,1729.0
+BSH-ORD-11348,2025-01-15,Consumer Electronics,Smart TV,Europe-West,Distributor,800,2,0.05,1520.0,992.0,528.0
+BSH-ORD-11349,2025-09-30,Home Appliances,Refrigerator,Middle East,Online Store,900,1,0.0,900.0,558.0,342.0
+BSH-ORD-11350,2025-12-06,Small Domestic,Kettle,North America,Online Store,45,-1,0.0,45.0,27.9,17.1
+BSH-ORD-11351,2024-06-14,Consumer Electronics,Soundbar,Europe-Central,Direct Sales,180,7,0.05,1197.0,781.2,415.8
+BSH-ORD-11352,2025-02-03,Home Appliances,Refrigerator,Europe-West,Retail Partner,900,1,0.05,855.0,558.0,297.0
+BSH-ORD-11353,2024-06-11,Home Appliances,Vacuum Cleaner,Europe-Central,Direct Sales,220,6,0.05,1254.0,818.4,435.6
+BSH-ORD-11354,2025-06-16,Small Domestic,Toaster,Europe-West,Direct Sales,40,7,0.1,252.0,173.6,78.4
+BSH-ORD-11355,2025-12-05,Small Domestic,Iron,Europe-West,Direct Sales,55,4,0.05,209.0,136.4,72.6
+BSH-ORD-11356,2024-08-22,Consumer Electronics,Air Conditioner,Europe-Central,Online Store,750,1,0.05,712.5,465.0,247.5
+BSH-ORD-11357,2025-12-13,Consumer Electronics,Air Conditioner,Europe-Central,Retail Partner,750,6,0.05,4275.0,2790.0,1485.0
+BSH-ORD-11358,2025-01-30,Small Domestic,Toaster,Europe-West,Distributor,40,4,0.05,152.0,99.2,52.8
+BSH-ORD-11359,2025-10-28,Consumer Electronics,Espresso Machine,Europe-West,Direct Sales,350,5,0.0,1750.0,1085.0,665.0
+BSH-ORD-11360,2025-08-13,Home Appliances,Dishwasher,Europe-Central,Retail Partner,550,6,,3300.0,2046.0,1254.0
+BSH-ORD-11361,2024-10-06,Home Appliances,Refrigerator,North America,Online Store,900,1,0.0,900.0,558.0,342.0
+BSH-ORD-11362,2025-11-15,Consumer Electronics,Soundbar,North America,Retail Partner,180,2,0.2,288.0,223.2,64.8
+BSH-ORD-11363,2025-10-27,Consumer Electronics,Espresso Machine,North America,Direct Sales,350,2,0.15,595.0,434.0,161.0
+BSH-ORD-11364,2025-04-22,Home Appliances,Vacuum Cleaner,Middle East,Online Store,220,4,0.2,704.0,545.6,158.4
+BSH-ORD-11365,2025-10-01,Consumer Electronics,Smart TV,Europe-West,Retail Partner,800,5,0.05,3800.0,2480.0,1320.0
+BSH-ORD-11366,2025-10-27,Home Appliances,Vacuum Cleaner,North America,Online Store,220,3,0.0,660.0,409.2,250.8
+BSH-ORD-11367,2025-01-15,Home Appliances,Washing Machine,North America,Direct Sales,650,7,0.1,4095.0,2821.0,1274.0
+BSH-ORD-11368,2024-07-15,Home Appliances,Dishwasher,Europe-Central,Online Store,550,2,0.0,1100.0,682.0,418.0
+BSH-ORD-11369,2025-11-05,Home Appliances,Microwave,Europe-West,Retail Partner,160,5,0.0,800.0,496.0,304.0
+BSH-ORD-11370,2025-05-28,Consumer Electronics,Soundbar,Europe-West,Online Store,180,4,0.0,720.0,446.4,273.6
+BSH-ORD-11371,2025-05-12,Home Appliances,Vacuum Cleaner,Europe-West,Online Store,220,1,0.15,187.0,136.4,50.6
+BSH-ORD-11372,2024-09-05,Home Appliances,Oven,North America,Online Store,480,7,0.0,3360.0,2083.2,1276.8
+BSH-ORD-11373,2025-05-19,Consumer Electronics,Smart TV,North America,Online Store,800,6,0.05,4560.0,2976.0,1584.0
+BSH-ORD-11374,2024-07-18,Home Appliances,Vacuum Cleaner,Europe-Central,Direct Sales,220,2,0.0,440.0,272.8,167.2
+BSH-ORD-11375,2025-02-19,Small Domestic,Kettle,Europe-Central,Direct Sales,45,2,0.1,81.0,55.8,25.2
+BSH-ORD-11376,2024-03-01,Consumer Electronics,Air Conditioner,Middle East,Online Store,750,2,0.0,1500.0,930.0,570.0
+BSH-ORD-11377,2024-08-08,Small Domestic,Kettle,Europe-West,Online Store,45,7,0.1,283.5,195.3,88.2
+BSH-ORD-11378,2024-01-12,Home Appliances,Washing Machine,Europe-West,Online Store,650,7,0.0,4550.0,2821.0,1729.0
+BSH-ORD-11379,2025-06-28,Home Appliances,Dishwasher,Europe-Central,Direct Sales,550,6,0.0,3300.0,2046.0,1254.0
+BSH-ORD-11380,2024-01-25,Consumer Electronics,Air Conditioner,North America,Direct Sales,750,1,0.0,750.0,465.0,285.0
+BSH-ORD-11381,2024-05-15,Home Appliances,Washing Machine,Europe-West,Direct Sales,650,4,0.0,2600.0,1612.0,988.0
+BSH-ORD-11382,2025-09-29,Home Appliances,Microwave,Asia-Pacific,Online Store,160,3,0.0,480.0,297.6,182.4
+BSH-ORD-11383,2025-06-11,Home Appliances,Refrigerator,Europe-West,Online Store,900,1,0.1,810.0,558.0,252.0
+BSH-ORD-11384,2025-09-28,Home Appliances,Washing Machine,Europe-West,Retail Partner,650,7,0.05,4322.5,2821.0,1501.5
+BSH-ORD-11385,2024-02-11,Home Appliances,Dishwasher,Europe-West,Online Store,550,4,0.15,1870.0,1364.0,506.0
+BSH-ORD-11386,2025-07-13,Consumer Electronics,Air Conditioner,North America,Online Store,750,4,0.0,3000.0,1860.0,1140.0
+BSH-ORD-11387,2024-03-17,Home Appliances,Vacuum Cleaner,Europe-Central,Online Store,220,5,0.15,935.0,682.0,253.0
+BSH-ORD-11388,2024-03-14,Home Appliances,Vacuum Cleaner,Europe-West,Online Store,220,2,0.2,352.0,272.8,79.2
+BSH-ORD-11389,2025-02-01,Home Appliances,Dishwasher,Middle East,Retail Partner,550,3,0.05,1567.5,1023.0,544.5
+BSH-ORD-11390,2024-08-15,Consumer Electronics,Smart TV,North America,Online Store,800,6,0.2,3840.0,2976.0,864.0
+BSH-ORD-11391,2025-04-09,Home Appliances,Oven,Europe-West,Direct Sales,480,4,0.1,1728.0,1190.4,537.6
+BSH-ORD-11392,2025-02-12,Consumer Electronics,Air Conditioner,North America,Online Store,750,1,0.0,750.0,465.0,285.0
+BSH-ORD-11393,2025-02-17,Home Appliances,Refrigerator,Middle East,Online Store,900,2,0.1,1620.0,1116.0,504.0
+BSH-ORD-11394,2024-09-14,Consumer Electronics,Soundbar,Europe-Central,Retail Partner,180,5,0.0,900.0,558.0,342.0
+BSH-ORD-11395,2024-09-09,Small Domestic,Toaster,Europe-Central,Direct Sales,40,5,0.1,180.0,124.0,56.0
+BSH-ORD-11396,2024-11-02,Home Appliances,Vacuum Cleaner,Asia-Pacific,Online Store,220,7,0.0,1540.0,954.8,585.2
+BSH-ORD-11397,2024-07-05,Home Appliances,Washing Machine,Europe-West,Retail Partner,650,4,0.0,2600.0,1612.0,988.0
+BSH-ORD-11398,2025-07-13,Home Appliances,Dishwasher,Europe-West,Direct Sales,550,4,0.0,2200.0,1364.0,836.0
+BSH-ORD-11399,2024-12-31,Consumer Electronics,Smart TV,Europe-Central,Retail Partner,800,1,0.05,760.0,496.0,264.0
+BSH-ORD-11400,2024-06-23,Home Appliances,Vacuum Cleaner,Europe-West,Retail Partner,220,3,0.2,528.0,409.2,118.8
+BSH-ORD-11401,2025-08-02,Consumer Electronics,Soundbar,Europe-Central,Online Store,180,4,0.15,612.0,446.4,165.6
+BSH-ORD-11402,2025-10-02,Home Appliances,Dishwasher,Europe-West,Online Store,550,7,0.0,3850.0,2387.0,1463.0
+BSH-ORD-11403,2024-09-05,Home Appliances,Microwave,Asia-Pacific,Online Store,160,1,0.05,152.0,99.2,52.8
+BSH-ORD-11404,2025-06-12,Small Domestic,Toaster,Europe-West,Online Store,40,6,0.0,240.0,148.8,91.2
+BSH-ORD-11405,2024-07-28,Home Appliances,Washing Machine,Europe-Central,Direct Sales,650,5,0.0,3250.0,2015.0,1235.0
+BSH-ORD-11406,2024-08-03,Consumer Electronics,Espresso Machine,Europe-West,Retail Partner,350,2,0.0,700.0,434.0,266.0
+BSH-ORD-11407,2024-07-20,Consumer Electronics,Soundbar,Europe-Central,Distributor,180,1,0.0,180.0,111.6,68.4
+BSH-ORD-11408,2024-09-22,Small Domestic,Blender,North America,Online Store,65,4,0.1,234.0,161.2,72.8
+BSH-ORD-11409,2025-12-24,Home Appliances,Dishwasher,Europe-West,Online Store,550,2,0.15,935.0,682.0,253.0
+BSH-ORD-11410,2025-05-23,Home Appliances,Microwave,Middle East,Online Store,160,3,0.05,456.0,297.6,158.4
+BSH-ORD-11411,2024-02-28,Home Appliances,Vacuum Cleaner,Europe-Central,Online Store,220,5,0.05,1045.0,682.0,363.0
+BSH-ORD-11412,2025-08-27,Home Appliances,Microwave,North America,Direct Sales,160,4,0.0,640.0,396.8,243.2
+BSH-ORD-11413,2024-08-14,Consumer Electronics,Soundbar,North America,Direct Sales,180,6,0.0,1080.0,669.6,410.4
+BSH-ORD-11414,2025-12-09,Home Appliances,Microwave,Europe-Central,Distributor,160,4,0.1,576.0,396.8,179.2
+BSH-ORD-11415,2025-02-15,Small Domestic,Toaster,Europe-West,Online Store,40,2,0.0,80.0,49.6,30.4
+BSH-ORD-11416,2024-09-29,Small Domestic,Kettle,Europe-West,Online Store,45,6,0.0,270.0,167.4,102.6
+BSH-ORD-11417,2025-07-23,Small Domestic,Blender,Middle East,Online Store,65,7,0.05,432.25,282.1,150.15
+BSH-ORD-11418,2024-12-22,Consumer Electronics,Air Conditioner,Europe-West,Direct Sales,750,3,0.0,2250.0,1395.0,855.0
+BSH-ORD-11419,2025-12-14,Small Domestic,Iron,North America,Retail Partner,55,7,0.0,385.0,238.7,146.3
+BSH-ORD-11420,2024-12-18,Home Appliances,Washing Machine,Europe-West,Direct Sales,650,6,0.05,3705.0,2418.0,1287.0
+BSH-ORD-11421,2024-05-18,Home Appliances,Microwave,Europe-West,Online Store,160,7,0.05,1064.0,694.4,369.6
+BSH-ORD-11422,2025-06-15,Consumer Electronics,Espresso Machine,Europe-West,Retail Partner,350,4,0.1,1260.0,868.0,392.0
+BSH-ORD-11423,2025-11-10,Consumer Electronics,Soundbar,Middle East,Direct Sales,180,1,0.05,171.0,111.6,59.4
+BSH-ORD-11424,2024-12-07,Home Appliances,Oven,Europe-Central,Direct Sales,480,3,0.0,1440.0,892.8,547.2
+BSH-ORD-11425,2025-02-18,Consumer Electronics,Air Conditioner,Europe-Central,Online Store,750,5,0.15,3187.5,2325.0,862.5
+BSH-ORD-11426,2024-11-18,Home Appliances,Dishwasher,Middle East,Direct Sales,550,4,0.0,2200.0,1364.0,836.0
+BSH-ORD-11427,2025-05-01,Home Appliances,Washing Machine,Europe-Central,Online Store,650,3,0.1,1755.0,1209.0,546.0
+BSH-ORD-11428,2025-10-25,Small Domestic,Iron,Asia-Pacific,Online Store,55,6,0.05,313.5,204.6,108.9
+BSH-ORD-11429,2025-02-01,Home Appliances,Refrigerator,North America,Retail Partner,900,3,0.0,2700.0,1674.0,1026.0
+BSH-ORD-11430,2024-12-06,Consumer Electronics,Air Conditioner,Europe-West,Online Store,750,7,0.0,5250.0,3255.0,1995.0
+BSH-ORD-11431,2025-02-20,Consumer Electronics,Air Conditioner,North America,Direct Sales,750,2,0.05,1425.0,930.0,495.0
+BSH-ORD-11432,2025-02-01,Small Domestic,Iron,Middle East,Retail Partner,55,4,0.1,198.0,136.4,61.6
+BSH-ORD-11433,2024-08-22,Small Domestic,Kettle,Europe-West,Online Store,45,1,0.0,45.0,27.9,17.1
+BSH-ORD-11434,2025-08-14,Home Appliances,Microwave,North America,Retail Partner,160,1,0.1,144.0,99.2,44.8
+BSH-ORD-11435,2025-02-01,Home Appliances,Dishwasher,Europe-West,Retail Partner,550,6,0.05,3135.0,2046.0,1089.0
+BSH-ORD-11436,2025-04-10,Consumer Electronics,Soundbar,Europe-West,Online Store,180,3,0.0,540.0,334.8,205.2
+BSH-ORD-11437,2024-08-30,Consumer Electronics,Smart TV,Europe-Central,Online Store,800,1,0.0,800.0,496.0,304.0
+BSH-ORD-11438,2024-04-01,Consumer Electronics,Espresso Machine,Europe-West,Retail Partner,350,3,0.2,840.0,651.0,189.0
+BSH-ORD-11439,2024-10-06,Small Domestic,Iron,Europe-West,Online Store,55,4,0.05,209.0,136.4,72.6
+BSH-ORD-11440,2024-08-08,Small Domestic,Blender,europe-central,Online Store,65,7,,455.0,282.1,172.9
+BSH-ORD-11441,2024-01-14,Home Appliances,Oven,Middle East,Retail Partner,480,2,0.05,912.0,595.2,316.8
+BSH-ORD-11442,2025-07-03,Consumer Electronics,Espresso Machine,Asia-Pacific,Online Store,350,7,0.1,2205.0,1519.0,686.0
+BSH-ORD-11443,2025-08-24,Home Appliances,Oven,Europe-West,Online Store,480,1,0.0,480.0,297.6,182.4
+BSH-ORD-11444,2025-12-09,Home Appliances,Oven,Europe-West,Online Store,480,3,0.1,1296.0,892.8,403.2
+BSH-ORD-11445,2025-11-10,Home Appliances,Microwave,Europe-West,Direct Sales,160,5,0.0,800.0,496.0,304.0
+BSH-ORD-11446,2024-01-11,Home Appliances,Washing Machine,Middle East,Distributor,650,6,0.0,3900.0,2418.0,1482.0
+BSH-ORD-11447,2024-08-15,Home Appliances,Dishwasher,North America,Online Store,550,3,0.0,1650.0,1023.0,627.0
+BSH-ORD-11448,2025-09-08,Consumer Electronics,Soundbar,Europe-West,Retail Partner,180,6,0.2,864.0,669.6,194.4
+BSH-ORD-11449,2024-06-24,Home Appliances,Refrigerator,North America,Online Store,900,7,0.1,5670.0,3906.0,1764.0
+BSH-ORD-11450,2024-05-20,Small Domestic,Iron,North America,Online Store,55,1,0.0,55.0,34.1,20.9
+BSH-ORD-11451,2025-04-21,Small Domestic,Blender,North America,Retail Partner,65,6,0.2,312.0,241.8,70.2
+BSH-ORD-11452,2025-04-22,Home Appliances,Dishwasher,North America,Distributor,550,7,0.0,3850.0,2387.0,1463.0
+BSH-ORD-11453,2024-01-18,Home Appliances,Oven,Europe-West,Direct Sales,480,5,0.1,2160.0,1488.0,672.0
+BSH-ORD-11454,2024-10-04,Consumer Electronics,Smart TV,Europe-West,Online Store,800,5,0.0,4000.0,2480.0,1520.0
+BSH-ORD-11455,2025-06-04,Home Appliances,Oven,North America,Direct Sales,480,7,0.1,3024.0,2083.2,940.8
+BSH-ORD-11456,2025-05-03,Home Appliances,Oven,Europe-West,Direct Sales,480,1,0.05,456.0,297.6,158.4
+BSH-ORD-11457,2025-04-21,Small Domestic,Kettle,Asia-Pacific,Distributor,45,5,0.0,225.0,139.5,85.5
+BSH-ORD-11458,2025-03-24,Home Appliances,Oven,Europe-Central,Retail Partner,480,2,0.1,864.0,595.2,268.8
+BSH-ORD-11459,2025-09-26,Consumer Electronics,Smart TV,Europe-West,Online Store,800,5,0.15,3400.0,2480.0,920.0
+BSH-ORD-11460,2025-07-16,Consumer Electronics,Espresso Machine,Middle East,Online Store,350,4,0.0,1400.0,868.0,532.0
+BSH-ORD-11461,2024-02-26,Home Appliances,Dishwasher,Europe-Central,Direct Sales,550,3,0.05,1567.5,1023.0,544.5
+BSH-ORD-11462,2024-04-28,Home Appliances,Vacuum Cleaner,Europe-West,Retail Partner,220,1,0.05,209.0,136.4,72.6
+BSH-ORD-11463,2025-06-16,Consumer Electronics,Espresso Machine,Asia-Pacific,Online Store,350,3,0.05,997.5,651.0,346.5
+BSH-ORD-11464,2025-02-28,Consumer Electronics,Soundbar,Europe-West,Online Store,180,4,0.2,576.0,446.4,129.6
+BSH-ORD-11465,2025-06-29,Small Domestic,Iron,Middle East,Online Store,55,3,0.05,156.75,102.3,54.45
+BSH-ORD-11466,2025-07-03,Small Domestic,Blender,Europe-Central,Online Store,65,4,0.2,208.0,161.2,46.8
+BSH-ORD-11467,2024-12-28,Consumer Electronics,Smart TV,Europe-West,Distributor,800,7,0.0,5600.0,3472.0,2128.0
+BSH-ORD-11468,2025-12-08,Consumer Electronics,Smart TV,North America,Retail Partner,800,1,0.1,720.0,496.0,224.0
+BSH-ORD-11469,2024-04-29,Consumer Electronics,Air Conditioner,Europe-Central,Distributor,750,5,0.0,3750.0,2325.0,1425.0
+BSH-ORD-11470,2024-09-11,Home Appliances,Washing Machine,Europe-Central,Online Store,650,2,0.0,1300.0,806.0,494.0
+BSH-ORD-11471,2024-08-29,Home Appliances,Dishwasher,Europe-West,Retail Partner,550,1,0.0,550.0,341.0,209.0
+BSH-ORD-11472,2025-06-21,Home Appliances,Dishwasher,Middle East,Online Store,550,1,0.1,495.0,341.0,154.0
+BSH-ORD-11473,2024-11-06,Small Domestic,Kettle,North America,Retail Partner,45,3,0.1,121.5,83.7,37.8
+BSH-ORD-11474,2024-09-15,Consumer Electronics,Espresso Machine,Asia-Pacific,Direct Sales,350,3,0.15,892.5,651.0,241.5
+BSH-ORD-11475,2024-07-11,Home Appliances,Vacuum Cleaner,Europe-Central,Online Store,220,5,0.1,990.0,682.0,308.0
+BSH-ORD-11476,2024-01-30,Home Appliances,Oven,Europe-Central,Retail Partner,480,3,0.0,1440.0,892.8,547.2
+BSH-ORD-11477,2024-11-25,Small Domestic,Blender,Europe-West,Retail Partner,65,2,0.0,130.0,80.6,49.4
+BSH-ORD-11478,2025-04-06,Small Domestic,Iron,North America,Retail Partner,55,6,0.0,330.0,204.6,125.4
+BSH-ORD-11479,2025-01-19,Small Domestic,Iron,Europe-Central,Direct Sales,55,4,0.1,198.0,136.4,61.6
+BSH-ORD-11480,2024-04-05,Home Appliances,Oven,Europe-West,Retail Partner,480,6,0.1,2592.0,1785.6,806.4
+BSH-ORD-11481,2024-10-04,Small Domestic,Toaster,Europe-Central,Online Store,40,3,0.05,114.0,74.4,39.6
+BSH-ORD-11482,2025-01-28,Consumer Electronics,Air Conditioner,North America,Direct Sales,750,5,0.05,3562.5,2325.0,1237.5
+BSH-ORD-11483,2024-05-11,Home Appliances,Washing Machine,Europe-Central,Online Store,650,7,0.05,4322.5,2821.0,1501.5
+BSH-ORD-11484,2024-09-06,Home Appliances,Dishwasher,North America,Distributor,550,4,0.05,2090.0,1364.0,726.0
+BSH-ORD-11485,2024-06-10,Home Appliances,Oven,Europe-Central,Online Store,480,2,0.15,816.0,595.2,220.8
+BSH-ORD-11486,2024-02-04,Small Domestic,Blender,Europe-West,Retail Partner,65,6,0.05,370.5,241.8,128.7
+BSH-ORD-11487,2025-11-08,Home Appliances,Refrigerator,Middle East,Distributor,900,2,0.05,1710.0,1116.0,594.0
+BSH-ORD-11488,2024-11-06,Home Appliances,Refrigerator,Europe-Central,Online Store,900,3,0.0,2700.0,1674.0,1026.0
+BSH-ORD-11489,2024-01-20,Small Domestic,Blender,Europe-West,Retail Partner,65,6,0.1,351.0,241.8,109.2
+BSH-ORD-11490,2025-04-11,Home Appliances,Vacuum Cleaner,Europe-West,Retail Partner,220,1,0.05,209.0,136.4,72.6
+BSH-ORD-11491,2024-10-22,Consumer Electronics,Soundbar,Europe-West,Retail Partner,180,1,0.0,180.0,111.6,68.4
+BSH-ORD-11492,2025-03-30,Consumer Electronics,Espresso Machine,Europe-Central,Retail Partner,350,1,0.1,315.0,217.0,98.0
+BSH-ORD-11493,2024-04-11,Home Appliances,Vacuum Cleaner,North America,Distributor,220,7,0.1,1386.0,954.8,431.2
+BSH-ORD-11494,2025-02-27,Consumer Electronics,Espresso Machine,Europe-West,Retail Partner,350,5,0.1,1575.0,1085.0,490.0
+BSH-ORD-11495,2025-06-28,Home Appliances,Oven,Middle East,Retail Partner,480,1,0.1,432.0,297.6,134.4
+BSH-ORD-11496,2024-10-12,Small Domestic,Iron,North America,Retail Partner,55,2,0.0,110.0,68.2,41.8
+BSH-ORD-11497,2024-01-13,Home Appliances,Refrigerator,Europe-West,Retail Partner,900,1,0.2,720.0,558.0,162.0
+BSH-ORD-11498,2024-05-09,Home Appliances,Microwave,Europe-Central,Retail Partner,160,7,0.0,1120.0,694.4,425.6
+BSH-ORD-11499,2025-06-10,Home Appliances,Dishwasher,Europe-West,Retail Partner,550,4,0.0,2200.0,1364.0,836.0
+BSH-ORD-11500,2025-08-01,Small Domestic,Blender,North America,Online Store,65,-1,0.1,58.5,40.3,18.2
