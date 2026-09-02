@@ -1,4 +1,4 @@
-Markdown
+
 # Global Sales & Operations Automation Pipeline
 
 An enterprise-grade, end-to-end data engineering and business intelligence solution designed to streamline sales performance tracking, clean raw transaction streams, and provide actionable executive insights for global manufacturing operations.
